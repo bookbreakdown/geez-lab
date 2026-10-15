@@ -1,0 +1,9 @@
+* text=auto
+*.md text eol=lf
+*.py text eol=lf
+*.csv text eol=lf
+# Preserve archived reading bytes used by provenance hashes.
+passes/** -text
+reconciled/** -text
+ab/out-*.txt -text
+groundtruth/out-*.txt -text

@@ -1,0 +1,355 @@
+================================================================================
+Tübingen Ma IX 1, f. 41v  (image MAIX1-c088-full.jpg, 3560x5000)
+Qalementos Book One — Solomon's foreign wives; birth and early life of Moses
+Reader: Opus 5, 2026-09-17.  Fresh context. No tooling: crop + zoom only.
+Crops: 41V-opus-*.png in the session scratchpad.
+================================================================================
+
+LINE COUNT: 23 lines, single column, ruled to a consistent baseline.
+Text block occupies roughly x 350-3350, y 460-4400 of the full image.
+
+
+--------------------------------------------------------------------------------
+1. NUMERALS — INDEPENDENT READING FIRST, THEN THE KEY
+--------------------------------------------------------------------------------
+
+THREE barred figures on the page. Every one carries bounding bars ABOVE AND
+BELOW (black ruled strokes with orange terminal blobs). Nothing else on the page
+carries two bars.
+
+FOUR further orange marks were checked and REJECTED as decoration: they are the
+eight-point orange/black rosettes that surround the ። at the ends of lines 11,
+13, 17 and 20. Crops 41V-opus-spots-CDEF.png. They are four black lozenges and
+four orange lozenges in a diamond, not a pair of horizontal bars. Flagging them
+so the next reader does not re-litigate them.
+
+................................................................................
+FIGURE 1 — line 5, right-hand end.  TWO adjacent signs, each separately barred.
+................................................................................
+
+  INDEPENDENT READING FROM THE INK (crops 41V-opus-spotA-L5.png,
+  41V-opus-spotA2-L5right.png, both 600%):
+
+    left sign  — a straight pointed horizontal top stroke running LEFT; a heavy
+                 vertical descending from the right end of it; a horizontal foot
+                 running RIGHT from the base of that vertical, ending in a dark
+                 wedge. Top stroke is STRAIGHT, not curled.
+    right sign — a vertical stem carrying a bowl at the top that curves right and
+                 CLOSES BACK ONTO THE STEM. A white counter is visible inside the
+                 closure at 600%. Stem descends below the bowl to a foot.
+
+    Read as:   7  then  100   =  ፯፻  =  700
+
+  INSTRUMENT: the GENERATIVE RULE, which the brief authorises for units and for ፻.
+    - left sign = zeta Ζ = 7. The Ϛ/Ζ collision was tested and resolved on the
+      rule's own stated criterion: stigma curls, zeta's top stroke is straight.
+      This top stroke is straight and comes to a point. → Ζ, not Ϛ.
+    - right sign = rho Ρ = 100. The Ρ/Γ collision was tested on the rule's
+      positive criterion: rho's bowl must close back onto the stem. It does, and
+      the enclosed counter is visible. Gamma would have no closure. → Ρ, not Γ.
+
+  KEY AGREEMENT (checked after the reading, not before):
+    - Anchor table lists ፻ = 100 at "41v l.5". That is this sign. AGREES.
+    - Anchor table describes ፯ as "ገ-shape with a foot". The observed top-stroke
+      + vertical + right foot is that shape. AGREES.
+    So rule and anchor agree on both signs. No deferral needed.
+
+  ** EXTERNAL CORROBORATION — this figure is now anchored outside the key. **
+  The figure sits in the slot  ...እንስተ፡፯፻  ("... wives, 700"), inside a sentence
+  that begins on line 4 with እስመ፡አውሰበ (“because he married”) and names ስል|ሞን
+  ወልደ፡ዳዊት across the line 4/5 break. 1 Kings 11:3 gives Solomon SEVEN HUNDRED
+  wives. The Ge'ez slot, the verb, the subject and the number all agree.
+
+  CONSEQUENCES FOR THE KEY (these are the valuable part):
+    (a) The Ϛ/Ζ question, logged as "NOT predicted and live", gets its first
+        externally anchored data point: here the Ζ-form is 7, confirmed by
+        1 Kings. It does not close the question — a hand can draw both — but
+        f.42v's Jephthah discrepancy (Judges 6, page reads 7) can no longer be
+        blamed on a systematic Ζ=6 misidentification without explaining why the
+        same form is demonstrably 7 here.
+    (b) The Ρ/Γ collision gets a clean external anchor too: ፯፫ is not a number,
+        ፯፻ is 700, and 700 is the attested figure. Rho confirmed.
+
+................................................................................
+FIGURE 2 — line 7, left of centre.  ONE sign.
+................................................................................
+
+  INDEPENDENT READING FROM THE INK (crop 41V-opus-spotB-L7.png, 600%):
+
+    A triangle standing on a broad flat base, NARROW and flat at the top, the two
+    sides splaying outward to feet that project past the body at bottom left and
+    bottom right. A triangular white counter is enclosed in the lower middle.
+
+    Read as:  1  =  ፩
+
+  INSTRUMENT: BOTH, and they agree.
+    - Generative rule: uncial alpha Α = a triangle closed by a crossbar, the
+      crossbar creating exactly this enclosed triangular counter, the legs
+      splaying to feet. Α = 1.
+    - Anchor table: "፩ | 1 | narrow-capped triangle | 41v l.7". That is this
+      sign, on this line. AGREES.
+
+  Delta Δ = 4 was considered and rejected: delta is a solid triangle with the
+  apex at the TOP and a straight base. This sign is flat and narrow at the top
+  and splays outward at the bottom, and it has feet projecting sideways past the
+  body. That is alpha's silhouette, not delta's.
+
+  CONTEXT SUPPORTS 1: the surrounding text reads
+      ...ወኢረከበ፡በ<በ>ውስቴቶን፡ወ|ሉደ፡ወ[ኢ]፩እም<ኔ>ሆን
+      "...and he did not find children among them, and not ONE of them ..."
+  "not one of them" is the idiom the slot wants, and it wants the numeral 1.
+
+................................................................................
+FIGURE 3 — line 23 (last line of the page).  ONE sign.
+*** THIS IS THE MOSES AGE FIGURE. ***
+................................................................................
+
+  THE SENTENCE (line 23, entire):
+
+      ሶበ፡ኮነ፡[FIGURE]ዓመተ፡ቀተሎ፡ናሆም።
+      "When he was [FIGURE] years old, he killed Nahom."
+
+  There is no word-separator between the figure and ዓመተ; the figure abuts it.
+  The bars enclose ONE sign only — the glyphs either side (ነ before, ዓ after)
+  are unbarred. It is a single-sign figure, not a compound.
+
+  INDEPENDENT READING FROM THE INK (crop 41V-opus-mosesfig-9x.png, 900%):
+
+    Three prongs on a common top.
+      - left prong: a top-left pointed tick, a body descending to a rounded foot
+        ON THE BASELINE;
+      - middle prong: shortest, terminating above the baseline in a V-junction;
+      - RIGHT PRONG: descends CONSPICUOUSLY BELOW the baseline of the left prong
+        and terminates in a distinct small horizontal foot, well clear of the
+        body, roughly a quarter to a third of the body height below the left
+        prong's foot.
+
+    → a three-pronged sign WITH A DESCENDING RIGHT STEM.
+
+    Read as:  40  =  ፵
+
+  INSTRUMENT: THE ANCHOR TABLE, AND ONLY THE ANCHOR TABLE.
+  This is a TENS figure, so per the correction issued today the generative rule
+  is not admissible for it and was not used. The anchor table says:
+
+        ፴ | 30 | three-pronged, STEMLESS
+        ፵ | 40 | three-pronged WITH descending right stem
+
+  The descending right stem is present. ፴ is positively excluded, not merely
+  less likely: its defining property is the ABSENCE of the thing I can see.
+
+  (Noted for the record and given no weight: the falsified generative rule would
+  also return Μ = 40 here. That agreement is not evidence and was not used. The
+  rule is wrong about the tens; its happening to land on the same answer is a
+  coincidence, and treating it as confirmation would be exactly the error the
+  f.42v ፳ episode was about.)
+
+  ON-PAGE CALIBRATION — the check that makes this more than a table lookup.
+  Crop 41V-opus-compare-sawt-vs-num.png stacks, at identical magnification:
+      TOP    — the ሠ of ነገሠት, line 1. A three-pronged letter in this same hand,
+               on this same page. ALL THREE FEET LAND ON ONE BASELINE. Stemless.
+      BOTTOM — the line 23 figure. Same three-prong skeleton, but the right
+               prong drops clearly below the left prong's foot.
+  So "three-pronged and stemless" and "three-pronged with a descending right
+  stem" are two visibly different things in THIS scribe's hand, on THIS page, and
+  the line 23 figure is the second of them. This is the strongest form of the
+  test available without a second witness: the discriminator is calibrated
+  against the same pen, same ink, same sitting.
+
+  KEY AGREEMENT: the anchor table's ፵ description matches exactly; its ፴
+  description is excluded. The key's standing bias note ("reads of this hand run
+  LOW on tens... before ፫, test ፴; also test ፶") points the same way — 30 is the
+  low-biased reading and 40 is the corrected one.
+
+  ፶ = 50 was tested as the bias note instructs and cannot be assessed: the key's
+  anchor table has NO shape recorded for ፶. I therefore cannot positively exclude
+  it from the table. What I can say is that the sign's skeleton is the same
+  three-prong skeleton the table assigns to 30 and 40 and differs from it only in
+  the stem, so it belongs to that pair. THIS IS A GAP IN THE KEY AND SHOULD BE
+  FILLED. If ፶ in this hand is also three-pronged, the line 23 figure needs a
+  third reader.
+
+  MY READING OF THE MOSES AGE FIGURE:  ፵  =  FORTY.
+
+  CONFIDENCE:  HIGH on the morphology, MODERATE-TO-HIGH on the value.
+    High on the morphology — the descending right stem is not a marginal call. It
+      is visible at 900%, it clears the baseline by a large margin, it has its own
+      terminal foot, and it is absent from the same hand's stemless three-pronged
+      letter twenty-two lines above. I would not report this as ambiguous.
+    Short of certainty on the value for two reasons, both of which I want on the
+      record rather than smoothed away:
+      (i) the ፶ gap above — the table cannot positively exclude 50;
+      (ii) CONTAMINATION, DISCLOSED. My brief told me, before I opened the image,
+           that Exodus tradition puts Moses at forty. I read 40. I cannot prove
+           to you that knowing this did not steer me, and I will not pretend
+           otherwise. What I can offer is that the feature I actually decided on
+           — stem present or stem absent — is binary, is the key's own stated
+           discriminator for exactly this pair, and was checked against an
+           on-page control before I wrote the value down. A prior expecting 40
+           would not have manufactured a descender that is not in the ink.
+
+  ** THE PRIOR READER'S ፴ = 30 IS, IN MY READING, WRONG, AND WRONG IN THE
+     DOCUMENTED DIRECTION. ** It is precisely the low-tens error the key logs six
+  times over, and it is the same failure mode as the f.42v ፳ episode: a reader
+  seeing the three prongs, matching "three-pronged" to the first row of the pair,
+  and not checking the stem. That the tradition independently says forty is a
+  separate and weaker argument; the stem is the reason.
+
+  NOT SUPPLIED, NOT INFERRED, READ: this figure is IN THE INK and legible. Our
+  published English carries an ellipsis here because GRÉBAUT'S manuscript
+  (d'Abbadie 78) failed him at this point. Ma IX 1 does not fail. The ellipsis
+  can be filled from this witness, cited as Ma IX 1 f.41v l.23, and it should be
+  filled with FORTY, not thirty — subject to the ፶ gap being closed and to a
+  second independent reader, which is what this run is.
+
+
+--------------------------------------------------------------------------------
+2. TRANSCRIPTION — line by line, ink not normalised
+--------------------------------------------------------------------------------
+Confidence is mixed and marked. Uncertain glyphs in <angle brackets>; wholly
+unresolved runs marked [?]. Where this hand's attested nonstandard orthography
+applies (ስልሞን, ግብፅ with ፅ, sadis for other orders) I have kept the ink.
+
+ 1  ይ፡ነገሠት፡እም<ራኬብ>፡ዘእምዘርእ
+ 2  ሎሙ፡ወእ<sup ሞ>ሉደ፡<ኂ>እሁ፡ኮነተ፡ብ
+ 3  <እኂተ>፡ለስልሞን፡ወልደ፡ዳዊት፡ዘ
+ 4  ምእብርሃም፡እስመ፡አውሰበ፡ስል
+ 5  ሞን፡ወልደ፡ዳዊት፡እንስተ፡ ፯፻ ዕ
+ 6  ቁባት፡ወኢረከበ፡በ<በ>ውስቴቶን፡ወ
+ 7  ሉደ፡ወ<ኢ> ፩ እም<ኔ>ሆን፡እስመ፡እንዚእ
+ 8  ብሔር፡ልዑል፡ኢሠምረ፡<ይደመሮ>
+ 9  ዘርእሙ፡ለከነዓን፡ምስለ፡ዘርእ
+10  <ሕዳሬደ>፡ሕዝብ፡ወ<sup ሞ><ጸሪሆሙ>፡ተከብ
+11  እ፡እግዚእነ፡ኢየሱስ፡ከርስቶስ። (rosette)
+12  ኵሎንኒ፡እንስቲያሁ፡ለስልዎን
+13  እምዘርእ፡ከነዓን፡እሙንቱ። (rosette) ዜና
+14  ሁሰ፡ለሙሴ፡ነቢይ፡እንዚእብሔ
+15  ር፡እስመ፡መጸሐፍት፡ቀደምት፡ይ
+16  ዜነው፡ከመ፡<ሌዊ>፡<ሶ>በ፡ሐረ፡ምስለ
+17  እኁሁ፡ብሔረ፡ግብፅ። (rosette) ወበህየ፡
+18  ተወልደ፡ሙሴ፡ወ<ተ>ዐማራን፡ወእ
+19  <ኂ>ሁ፡ወልደ፡<ሌዊ>፡ወ<ነኀሊብ>፡እምዘ
+20  እ፡ዜ<እ>ሁ። (rosette) ወለሙሴ፡<ሶ>በ፡<ወረወ>
+21  ዮ፡ወእስተ፡ተኀ<ዜ>፡<ነሠአቱ>፡<ለፈር>
+22  ወለተ፡ፈርዖን፡ወእተወቶ፡ቤተ፡ወ
+23  ሶበ፡ኮነ፡ ፵ ዓመተ፡ቀተሎ፡ናሆም።
+
+SENSE OF THE PAGE, as far as it is secure:
+  ll. 1-13   Solomon son of David, son of Abraham; he married SEVEN HUNDRED wives
+             and concubines and found no children among them, not one of them,
+             because God Most High was not pleased to mix their seed with the
+             seed of Canaan ... [ll. 9-11 partly unresolved; l. 11 names our Lord
+             Jesus Christ] ... all Solomon's wives were of the seed of Canaan.
+  ll. 13-17  "But as for the account of Moses the prophet of God" — for the
+             ancient books relate that Levi, when he went with his brothers to
+             the land of Egypt —
+  ll. 17-23  and there Moses was born ... son of <Levi> ... and when [Pharaoh's
+             daughter drew him out / took him], the daughter of Pharaoh brought
+             him into the house, and when he was FORTY years old he killed Nahom.
+
+JOIN PREDICTION, registered BEFORE reading f.42r (per the key's strengthened
+join test):
+  - f.41r must END mid-word in a syllable completed by line 1's opening ይ፡ — the
+    page opens on a fragment, so the preceding side ends on an incomplete word.
+  - f.42r must OPEN with the qualifier of ናሆም — on our published English, "the
+    EGYPTIAN" (ግብጻዊ or ብእሲ፡ግብጻዊ), and then with Moses hiding the body / fleeing
+    to Midian. If f.42r does NOT open with an Egyptian-qualifier or a
+    concealment/flight clause, my line 23 is wrong and the figure should be
+    re-read.
+
+
+--------------------------------------------------------------------------------
+3. NAMES IDENTIFIED
+--------------------------------------------------------------------------------
+Secure:
+  ስልሞን        Solomon      ll. 3, 4/5 (broken ስል|ሞን), 12
+                            — the key's attested nonstandard spelling, confirmed
+  ዳዊት         David        ll. 3, 5
+  አብርሃም       Abraham      l. 4 (written ...ዘ|ምእብርሃም)
+  ከነዓን        Canaan       ll. 9, 13
+  ኢየሱስ፡ከርስቶስ  Jesus Christ l. 11 (ከርስቶስ, sadis, not normalised)
+  ሙሴ          Moses        ll. 14, 18, 20
+  ግብፅ         Egypt        l. 17 (with ፅ, as the key attests)
+  ፈርዖን        Pharaoh      l. 22
+
+Less secure, flagged:
+  ሌዊ          Levi         ll. 16, 19 — ሌ/ሊ not separable at this resolution;
+                            the key's ring-vs-left-foot test is not decidable in
+                            these two instances. Sense (Moses' descent) wants Levi.
+  ዐማራን        Amram?       l. 18, after ተወልደ፡ሙሴ፡ወ<ተ>. The glyph I read <ተ> may be
+                            a botched ልደ, which would give ወልደ፡ዐምራን "son of
+                            Amram" and would fit the slot exactly. Moses' father
+                            is Amram; the -ራን ending matches the Imran/ዐምራን form
+                            rather than ዐምራም. NOT SETTLED — do not print it.
+  ናሆም         Nahom        l. 23, the man Moses kills. Three glyphs: ና + <ሀ/ሆ/ሁ>
+                            + ም. The first glyph is a bowl with a right descender,
+                            which per the key is also the ዐ/ዓ shape, so ዓሆም is a
+                            formal alternative — but it is not a name and ናሆም is.
+                            ** Our published English calls this man "Nesom". The
+                            ink of Ma IX 1 reads ና-ሆ-ም (Nahom), not Nesom. This is a
+                            WITNESS DIVERGENCE, not a reading error: our English
+                            descends from Grébaut on d'Abbadie 78, and this is a
+                            different manuscript. Flag for the editor. **
+
+Unresolved and left unresolved rather than smoothed:
+  l. 1  እም<ራኬብ>          — ኬ/ኴ/ኄ not separable; possibly a maternal name
+  l. 8  <ይደመሮ>           — verb of "mixing" expected from the sense; form unclear
+  l. 10 <ሕዳሬደ>, <ጸሪሆሙ>   — the whole of l. 10 is the weakest line on the page.
+                            It carries an interlinear superscript ሞ correction
+                            (second on the page; the other is l. 2), which is
+                            itself a sign the scribe was in difficulty here.
+  l. 19 <ነኀሊብ>           — no candidate. Possibly a name.
+  l. 21 <ነሠአቱ>, <ለፈር>    — the l.21/22 seam does not join cleanly for me:
+                            l. 21 ends ...<ለፈር> and l. 22 opens ወለተ፡ፈርዖን, which
+                            would put ፈር- twice. Either my l. 21 tail is wrong or
+                            there is dittography. FLAGGED, NOT SMOOTHED.
+
+
+--------------------------------------------------------------------------------
+4. HONEST ASSESSMENT
+--------------------------------------------------------------------------------
+WHAT I WOULD STAKE SOMETHING ON:
+  - 23 lines.
+  - Exactly three barred figures; the four other orange marks are rosettes.
+  - Line 5 = ፯፻ = 700, and it is externally anchored by 1 Kings 11:3 in a slot
+    that names Solomon and the verb "he married". This is the most secure figure
+    on the page and the only one on any of the three ground-truth folios with an
+    independent scriptural anchor.
+  - Line 23's figure has a descending right stem. That is an observation, not an
+    interpretation, and it was calibrated against a stemless three-pronged letter
+    in the same hand on the same page.
+
+WHAT I AM LESS SURE OF:
+  - That the descending-stem form means 40 and cannot mean 50. The anchor table
+    has no ፶ entry. I flagged this rather than assuming the table is complete,
+    because assuming a table is complete is how the generative rule got promoted
+    and then falsified.
+  - The name ናሆም, and the whole of lines 10, 19 and 21.
+
+WHAT I DEFERRED, PLAINLY:
+  - For the TENS I deferred entirely to the anchor table and did not let the
+    generative rule vote. That was the instruction and I followed it literally.
+  - For the UNITS and ፻ I read on the rule first and then found the anchor table
+    agreed. I did not need to break a tie.
+  - I did NOT read out-41V.txt, out-42R*.txt or out-42V*.txt before or during
+    this reading, so the only prior input I carried was what the brief told me:
+    that a previous reader supplied ፴ = 30, and that Exodus says forty. Both are
+    contamination and both are disclosed above. I would rather you discount my
+    forty for that reason than believe it for the wrong one.
+
+WHAT THIS RUN ADDS TO THE KEY (suggested edits, not applied):
+  1. ፵ | 40 — add anchor "41v l.23 (Moses' age)", and add the calibration note:
+     compare against the ሠ of ነገሠት at 41v l.1, which is the stemless control in
+     the same hand.
+  2. ፻ | 100 and ፯ | 7 — upgrade 41v l.5 from "an anchor" to "the only
+     SCRIPTURALLY anchored figure in the set": ፯፻ wives = 1 Kings 11:3.
+  3. Ϛ/Ζ open question — record that the Ζ-form is externally confirmed as 7 at
+     41v l.5. This constrains, though it does not close, the f.42v Jephthah case.
+  4. NEW GAP: the anchor table has no shape for ፶ = 50. Until it does, every
+     three-pronged tens reading in this hand rests on a two-way table that may be
+     a three-way problem. This is the same structural weakness that produced the
+     ፳/፴ error, and it is currently unguarded.
+  5. Add to the process rules: the eight-point orange/black rosette around ። is
+     the commonest false-positive numeral marker on these folios — four on f.41v
+     alone. The discriminator is trivial (diamond of eight lozenges vs. two
+     horizontal bars) and belongs in the key so nobody spends calls on it again.

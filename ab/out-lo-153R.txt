@@ -1,0 +1,41 @@
+MAIX1-153R
+LINES: 24
+1: ?ወቱ፡ እምኢየሩሳሌም፡ ወ
+2: ወመንፈቁ፡ ይውዓዙ፡ ውስተ፡
+3: ብሔር፡ ይኃሪቱ፡ ወእቶ፡ አጣ
+4: ሪ፡ ይከውን፡ ፩እግዚአብሔር
+5: ወ፩ስሙ፡ ወኵሉ፡ ዘጸውዓ፡
+6: ስመ፡ እግዚአብሔር፡ ይድኅ
+7: ን፡ በመዓዘሁ፡ ተምዕዙ፡ ሐዋ
+8: ርያት፡ ወእምዓዙ፡ ኵሉ፡ ዓለመ
+9: እምሠራቀ፡ ፀሐይ፡ ወእስከ፡
+10: ነዓረብ፡ ወእምሰሜን፡ እስከ፡
+11: ደቡብ፡ ወእምኵሉ፡ አጽናፈ፡
+12: ዓለም። በከመ፡ ይቤ፡ ሐዋርያ፡
+13: ንሕነሰኬ፡ መዓዘሁ፡ ለካሮስ
+14: ስቍለ፡ ብነ፡ በመዓዘሁ፡ ቀዲሰን
+15: ፈለሱ፡ ገደመ፡ መንኔ፡ ዓለመ።
+16: ወበመዓዘሁ፡ እጥብዑ፡ ሰማዕተ
+17: ውስተ፡ ልበሙ፡ ወመጠው፡ ነፍ
+18: ሶሙ፡ ለሞት፡ ተደኅሙ፡ ዘመጻ
+19: ወሙሉ፡ ወመሬየሙ፡ ፍቱወ
+20: ቱተ፡ ወጣዕመ፡ ዝዓለም፡ እስከ
+21: እጥብዑ፡ ልየሙ፡ ወተመትሩ፡
+22: እርእስቲሆሙ፡ ወተመልሑ፡
+23: እእደዊሆሙ፡ እንዘ፡ ተራኢ
+24: የማኒተ፡ ወፀጋሚተ፡ ወይቀ
+NOTES:
+- L1 first glyph: unreadable to me; shape has two humps on top and a footed leg, something like ዴ or ፄ. Left as ?.
+- L1: faint dots after the final ወ look like bleed-through, not a separator; not transcribed.
+- L2 ይውዓዙ, L7/L13/L14/L16 መዓዘሁ, L8 ወእምዓዙ: the glyph after ው/መ/ም is the ʿ-shaped letter with a tail (same form as ዓ in L12 ዓለም), clearly not the ዋ of L7/L12 ሐዋ (oval with hanging ring). Read as ዓ throughout, though the expected word would be መዋዕሊሁ.
+- L4 ፩ and L5 ፩ carry the numeral overline in the manuscript.
+- L10 first word: first glyph is ነ-shaped, giving ነዓረብ; ዐረብ is what one would expect.
+- L14 second glyph: ቀ with the same top marker as ኵ (L5, L8, L11), so read ቍ; could be an odd ቅ.
+- L15 ፈለሱ: third glyph could be ሱ or ሉ.
+- L17 ልበሙ: read as seen; በ has no ring so not ቦ.
+- L18 ተደኅሙ: glyph after ኅ is the oval-oval መ-form with a stroke, so ሙ not ኑ.
+- L19 ወመሬየሙ: ሬ vs ሮ and የ vs ር both uncertain.
+- L21 ልየሙ: first glyph ል (could be ሕ), second glyph looks like የ but a ር reading is possible.
+- L23 ተራኢ: ራ vs ሬ uncertain; final glyph read as ኢ (has a small foot hook), could be እ.
+- L24 final word: glyph after ወ read as ይ (has the top-left curl like ይ in L3); could be ደ.
+- L12 and L15 sentence ends are written as two stacked colons; transcribed as ።.

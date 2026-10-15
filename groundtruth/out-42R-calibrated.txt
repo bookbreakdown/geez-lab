@@ -1,0 +1,157 @@
+MAIX1-42R  --  NUMERALS ONLY, CALIBRATED RE-READ (2026-09-17)
+Image: images/MAIX1-c089-full.jpg (3560x5000). Tübingen Ma IX 1, f.42r, Qalementos.
+Method: crop + zoom only (2.5x-4x). No tooling. Every glyph on this page was set
+side by side with the same scribe's numerals on 41v (c088) and 42v (c090).
+
+======================================================================
+SHAPE KEY FOR THIS SCRIBE (derived from cross-folio comparison)
+======================================================================
+The scribe's numerals are Greek-letter forms with red bars above and below.
+The key change from the earlier read is the TEN / TWENTY assignment.
+
+  ፲ 10  = a PLAIN vertical bar with short serifs top and bottom (Greek iota).
+          Seen on 42v line 11 and 42v line 23. It does NOT occur on 42r.
+  ፳ 20  = WIDE serifed top bar over a hollow triangle with splayed feet.
+          This is the glyph the earlier read called ፲. Anchors: 42v line 8
+          Tola "፳ወ፫" = 23 (Judges 10:2 = 23), and 42r line 7 Moses 120
+          (= 40 + 40 + 40, the page's own arithmetic in lines 8-9 and 41v).
+  ፴ 30  = ከ-like: flat top bar, left leg curving out to a foot, straight
+          right stem with a foot, hollow between (a serifed lambda). 42r
+          line 11 only. The earlier read called this ፳.
+  ፵ 40  = three-prong W with a right descender (mu). Lines 8, 9, 23; 41v
+          line 24; five times on 42v. Reliable.
+  ፹ 80  = two legs under a wide bar, no hollow (pi). Line 21.
+  ፻ 100 = P with a CLOSED bowl (rho). Lines 7, 18, 23; 41v line 5.
+  ፩ 1   = hollow triangle with a NARROW cap, no wide serifs (41v line 7).
+          Distinguished from ፳ only by cap width; not on this page.
+  ፪ 2   = loop-topped, ደ-like (beta). Line 5.
+  ፬ 4   = rounded box with a vertical hollow slit. Line 11.
+  ፯ 7   = squared Z (zeta). Line 22.
+  ፰ 8   = I-beam with pinched waist (eta). Lines 13, 18; 42v line 11.
+
+======================================================================
+NUMERAL LIST
+======================================================================
+Format: line | glyphs as read | value | what it counts | second choice
+        and why rejected | confidence
+
+L5   ፪   = 2
+     Counts: the sons Moses begot in Midian ("ወወለደ ፡ ፪ ፡ እምውሉደ").
+     A count, not an age or length.
+     2nd choice: ፯ (7) - rejected: the glyph has a closed loop at top-left
+     and a single diagonal to a bottom-right foot (beta form); the ፯ of
+     line 22 is an angular Z with no loop.
+     Confidence 0.85
+
+L7   ፻ወ፳   = 120
+     Counts: age of Moses ("ወሶበ ፡ ኮነ ፡ ለሙሴ ፡ ፻ወ፳ ዓመት") - an AGE.
+     Tens glyph: wide serifed top bar, hollow triangle, splayed serifed feet.
+     2nd choice: ፲ (110, the earlier read) - REJECTED. (a) The scribe's ፲
+     is a plain serifed bar (42v lines 11, 23), a different glyph entirely.
+     (b) This glyph is identical to the tens of 42v line 8 "፳ወ፫" Tola = 23,
+     which is the biblical figure. (c) The page itself sums 40 + 40 (+ 40)
+     to 120. Third choice ፴ (130): rejected, the ፴ form is the ከ-like
+     glyph of line 11, not this one.
+     Confidence 0.85
+
+L8   ፵   = 40
+     Counts: years Moses dwelt in the land of Egypt - a LENGTH.
+     2nd choice: ፴ (30) - rejected: three prongs plus right descender is
+     the mu form used for 40 five times on 42v and once on 41v; there is no
+     flat top bar and no ከ-like structure.
+     Confidence 0.9
+
+L9   ፵   = 40
+     Counts: years Moses dwelt in Midian in the wilderness - a LENGTH.
+     2nd choice: ፴ (30) - rejected, same form as line 8 exactly.
+     Confidence 0.9
+
+L11  ፴ወ፬   = 34
+     Counts: years (Joshua) son of Nun judged the people - a LENGTH.
+     Tens glyph: ከ-like (flat top, curved left leg, straight right stem,
+     hollow between).
+     2nd choice: ፳ (24, the earlier read) - REJECTED: this scribe's ፳ is
+     the wide-capped hollow triangle (lines 7, 15, 22; 42v line 8), and this
+     glyph shares none of that: no wide overhanging cap, no triangular
+     body, the two legs are asymmetric. It is a serifed lambda, i.e. ፴.
+     Third choice ፶ (50): no diagonal joining the two stems, so not a nu.
+     Units glyph: rounded box with a vertical hollow slit.
+     2nd choice for units: ፩ (giving 31) - rejected: the scribe's ፩ (41v
+     line 7) is a triangle with a narrow cap; this is a flat-topped box
+     with straight sides. ፱ also considered and rejected (no tail).
+     The units call is the weakest on the page; if an external witness
+     wants 31 here, the box would have to be a boxy ፩, which this hand
+     does not otherwise show.
+     Confidence 0.65 (tens 0.75, units 0.6)
+
+L13  ፰   = 8
+     Counts: years "Kus" (Cushan) ruled them - a LENGTH.
+     2nd choice: ፲ (10) - rejected: the ፲ bar on 42v is a narrow stem with
+     small serifs; this is a full I-beam with wide bars and a pinched
+     waist, the same as the units glyph of 42v line 11 and line 18 here.
+     Confidence 0.85
+
+L15  ፳   = 20
+     Counts: years Othniel son of Kenaz judged - a LENGTH.
+     Glyph: wide serifed cap, hollow triangle, splayed feet - the same form
+     as the tens of lines 7 and 22, set side by side at 3x.
+     2nd choice: ፶ (50) - rejected: no diagonal, no N-structure, nothing
+     distinguishes it from the ፳ of line 7. Third choice ፲ (10, the
+     earlier read): rejected, ፲ in this hand is a plain bar. ፴ rejected,
+     the ፴ form is the ከ-like glyph of line 11.
+     NOTE: the ink gives 20. Judges 3:11 gives 40 and the calibration hint
+     suggests 50; neither is supported by the ink here.
+     Confidence 0.7
+
+L18  ፻፰   = 108 AS WRITTEN (intended ፲፰ = 18)
+     Counts: years Israel served Eglon king of Moab - a LENGTH.
+     First glyph: P with a closed bowl and small hollow, compared at 4x
+     against the ፻ of line 7, line 23 and 41v line 5 - same form.
+     2nd choice: ፲ (18) - rejected on ink: the scribe's ፲ is a plain bar
+     and this has a bowl. ፫ (Abimelech glyph on 42v line 7, open bowl)
+     also considered: the 42v glyph is more open at the top, but the two
+     are close; ፫፰ would be meaningless as a numeral, so ፻ stands.
+     Almost certainly a scribal ፻ for ፲.
+     Confidence 0.6 (that the ink is ፻); 0.9 that 18 is intended.
+
+L21  ፹   = 80
+     Counts: years Ehud (ናዖድ) son of Gera judged - a LENGTH.
+     2nd choice: ፳ (20) - rejected: two solid legs under a wide bar with
+     no hollow triangle between them; a pi, not the capped-triangle ፳.
+     Confidence 0.85
+
+L22  ፳ወ፯   = 27
+     Counts: the year of Ehud's judgeship in which 4000 from creation was
+     completed - an ordinal year (length-type).
+     Tens glyph: wide serifed cap, hollow triangle, splayed feet.
+     2nd choice: ፲ (17, the earlier read) - REJECTED: identical to the tens
+     of line 7 (Moses 120) and to 42v line 8 (Tola 23); the scribe writes
+     ፲ as a plain bar. ፴ (37) rejected: not the ከ-like form of line 11.
+     Confidence 0.8
+
+L23  ፵፻   = 4000
+     Counts: years from creation completed in Ehud's 27th year - a LENGTH.
+     2nd choice: ፴፻ (3000) - rejected: three-prong mu form, same as lines
+     8 and 9. ፻ has the closed bowl.
+     Confidence 0.85
+
+======================================================================
+CHANGES FROM out-42R.txt
+======================================================================
+  L7   110 -> 120   (፲ -> ፳)
+  L11   24 ->  34   (፳ -> ፴; units ፬ kept)
+  L15   10 ->  20   (፲ -> ፳)
+  L22   17 ->  27   (፲ -> ፳)
+  L5, L8, L9, L13, L18, L21, L23 unchanged.
+
+No numeral on this page is a plain-bar ፲. Every glyph the earlier read
+called ፲ is the wide-capped ፳.
+
+======================================================================
+CONSEQUENCE FOR THE NEIGHBOUR (not re-read, flagged only)
+======================================================================
+The 42v transcript reads its line 8 tens (Tola) as ፳ and its line 11 and
+line 23 tens (Jair, Samson) as ፲ "the plain bar". Under the key above that
+is internally consistent (plain bar = ፲), which puts Jair at ፲ወ፰ = 18 and
+Samson at ፲ወ፪ = 12 on the ink, against 22 and 20 in Judges. Those two need
+their own calibrated look; nothing on 42r changes them.

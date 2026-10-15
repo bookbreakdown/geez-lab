@@ -1,0 +1,39 @@
+MAIX1-154R
+LINES: 24
+1. ስብእ፡ ኢየኀድጋ፡ መዓዛሁ፡ ወከማ
+2. ሁ፡ ለክርስቶስ፡ ንሕነ፡ ኵልነ፡ መ
+3. ሃይምናን፡ እለ፡ ተጠመቀነ፡ በእ
+4. ሚን። አብ፡ ወወልድ፡ ወመንፈ
+5. ስ፡ ቅዱስ፨፡ ወበቅድስት፡ ቤተ፡ ክ
+6. ርስቲያን፨፡ ሰማዕ፡ እወልድየ፡
+7. ቀሌምንጠስ፡ ዘነገረኒ፡ እግዚእነ፡
+8. ኢየሱስ፡ ክርስቶስ፡ ንጉሠ፡ ሰማ
+9. ያት፡ ወምድር፡ ፈጣሬ፡ ኵሉ፡ ዓ
+10. ለም። ከመ፡ በደኃሪ፡ መዋዕል
+11. የዋልው፡ ብዙኃን፡ ሃይማኖቶ
+12. ሙ፡ ወይሌኩሰ፡ ፍቅረ፡ እምአ
+13. ኃው፡ ወይመጽኡ፡ ብዙኃን፡ ሐ
+14. ሰውያን፡ ነቢያት፡ ወሐሣውያነ፡
+15. መሢሕ፡ ወያስሕቱ፡ ሰብአ፡ በእ
+16. ኪየ፡ ምግባሮሙ፡ ወወበሃይማ
+17. ኖቶሙ፡ ርኩሳት፡ እስመ፡ ቀሪ
+18. በቱ። ወልሕቀት፡ ዓለም፡ ያመ
+19. ጽኡ፡ እኩየ፡ ምግባረ፡ እንተ፡
+20. ኢኮነት፡ እምቀድስት፡ ቤተ፡
+21. ክርስቲያን፡ ወያስሕቱ፡ በር
+22. ኵሳት፡ መጻሕፍቲሆሙ፡ ወይ
+23. ጼወኑ፡ በነገሥት፡ ወመኳንን
+24. ት፡ ወጠቀደ፡ ፍኖቶሙ፡ ወፈደ
+NOTES:
+- Line 3 ተጠመቀነ: the fifth glyph reads as plain ቀ (no ቅ side-stroke visible); standard would be ቅ. Transcribed as seen.
+- Line 3 end / line 4 start: read as በእ / ሚን. The line-4 initial glyph has the bottom-right hook this hand uses for the 3rd order (compare ሢ line 15, ሪ line 10), so ሚ not ሙ. The line-3 final glyph has the flat top bar this hand uses for እ (compare አ with curled top in ሰብአ line 15, እምአ line 12). Word as written is unclear to me.
+- Line 4 አብ: initial glyph read as አ but the top is ambiguous between the curled አ and the barred እ forms.
+- Line 4 and 10, 18: the double separator is written as two ፡ close together; transcribed as ።.
+- Lines 5 and 6: a red cross-of-dots mark (transcribed ፨) followed by a black ፡.
+- Line 7 (red rubric) ቀሌምንጠስ: the fifth glyph shows no ring on top, so ጠ rather than ጦ; red ink may be faded.
+- Line 11 ሃይማኖቶ and line 24 ፍኖቶሙ: ኖ and ቶ are written with a fused loop on top; read as ኖ/ቶ from the ነ-foot and ተ-cross, not ዮ.
+- Line 13 initial glyph: has the bottom-left leg identical to the ኃ of ብዙኃን (lines 11, 13) and unlike the ኀ of line 1, so transcribed ኃው (standard would be ኀው).
+- Line 16: the first ወ of ወወበሃይማ has a horizontal stroke above it (scribal cancellation of a dittograph). Both ወ kept in the transcription.
+- Line 20 እምቀድስት: ቀ vs ቅ unclear; a small foot may be present. Transcribed ቀ.
+- Line 23 initial glyph: a ጸ/ደ-family shape with a small ring at lower right; read as ጼ (ወይጼወኑ), but ዴ is possible from shape alone.
+- Line 24 ወጠቀደ: read glyph by glyph; word not recognised.

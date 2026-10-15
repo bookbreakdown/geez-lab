@@ -1,0 +1,93 @@
+MAIX1-42R
+LINES: 24
+1 ግብጻዊ ፡ ሊቀ ፡ ቀዳሕያኒሁ ፡ ለፈር
+2 ዖን ፡ ወጐየ ፡ ኀበ ፡ ራዳቢል ፡ ካህኒ ፡
+3 ምድያም ፡ በእንተ ፡ ፍርሃተ ፡ ፈርዖ
+4 ን ፡ ወበህየ ፡ አውሰበ ፡ ብእሲተ ፡ ለራ
+5 ጉኤል ፡ ወወለደ ፡ ፪ ፡ እምውሉደ ፡ ኢ
+6 ያሱ ፡ ወልደ ፡ ነዌ ። ወሶበ ፡ ኮነ ፡ ለሙ
+7 ሴ ፡ ፻ወ፲ ዓመት ፣ ወነበረ ፡ በምድ
+8 ረ ፡ ግብፅ ፡ ፵ ፡ ዓመተ ፡ ወበምድያም
+9 ፵ ዓመተ ፡ በውስተ ፡ ገዳም ። ወእ
+10 ምድኅረ ፡ ሞተ ፡ ሙሴ ፡ ኮነኖሙ ፡
+11 ለሕዝብ ፡ ወልደ ፡ ነዌ ፡ ፳ወ፬ ፡ ዓመት
+12 ። ወእምድኅረሁ ፡ ኮነኖሙ ፡ ፣ ኩ
+13 ስ ፡ ዕልው ፡ ኮነኖሙ ፡ ፰ ዓመተ ።
+14 ወእምድኅረሁ ፡ ጎቶንያል ፡ ወልደ ፡
+15 ቄኔዝ ፡ እ?ኁሁ ፡ ለካሌብ ፡ ፲ ፡ ዓመ
+16 ተ ፡ ወእምድኅረሁ ፡ ተቀንዩ ፡ ደቂቀ
+17 እስራኤል ፡ ለኤግሎም ፡ ንጉሠ ፡ ሞ
+18 አብ ፡ ፻፰ ዓመተ ። ወእምዝ ፡ አድ
+19 ኀኖሙ ፡ እግዚአብሔር ፡ እምእዴ
+20 ሁ ። ወእምድኅረሁ ፡ ኮነኖሙ ፡
+21 ናዖድ ፡ ወልደ ፡ ጌራ ፡ ፹ ፡ ዓመተ ፡ ወ
+22 በ፲ወ፯ ዓመተ ። ምኵናኑ ፡ ለናዖ
+23 ድ ፡ ተፈጸመ ፡ ፵፻ እምፍጥረት ።
+24 ወእ⟨ም⟩ድኅረሁ ፡ ኮነኖሙ ፡ ዲቦራ ፡
+
+TRANSLATION:
+[1-2a] (the) Egyptian, chief of his cupbearers, of Pharaoh.
+[2b-4a] And he fled to Radabil (?), priest of Midian, because of fear of Pharaoh.
+[4b-6a] And there he took a wife, (one) of Raguel, and he begot 2. Of the sons: Joshua son of Nun.
+   (literally: "and-he-begot 2 from-the-sons Joshua son-of Nun" -- the syntax is broken; see NOTES)
+[6b-9] And when it was to Moses 100-and-10 years, and he had dwelt in the land of Egypt 40 years and in Midian 40 years in the wilderness.
+[9b-11] And after Moses died, (he) judged them, the people, (Joshua) son of Nun, 20-and-4 years.
+   (the name Joshua is not written in line 11; only "son of Nun")
+[12-13] And after him (he) judged them: Kus the perverse (?) judged them 8 years.
+[14-16a] And after him Gotonyal (Othniel) son of Qenez (Kenaz), his brother, of Caleb: 10 years.
+[16b-18a] And after him the children of Israel were subjected to Eglom (Eglon) king of Moab 100-8 years (as written; see NUMERALS).
+[18b-20a] And then God saved them from his hand.
+[20b-21] And after him (he) judged them, Na'od (Ehud) son of Gera, 80 years.
+[21b-23] And in (the) 10-and-7 year(s) of the judgeship of Na'od was completed 40-hundred (4000) from creation.
+[24] And after him (she) judged them, Debora (Deborah) ...
+
+NUMERALS:
+All numerals carry a red bar above and below. Shape classes used by this scribe, and how each value was fixed:
+  - P-shape (stem with closed loop upper right) = ፻ 100. Anchored by 41v line 5 "፯፻ ... wives" (Solomon's 700 wives) and by 42r line 7 (Moses 100+) and line 23 (x100).
+  - squared-Z shape (bar top-left, stem, foot bottom-right) = ፯ 7. Anchored by the same 41v "፯፻".
+  - three-prong ሣ-like shape = ፵ 40. Anchored by 42r lines 8-9 (40 years in Egypt, 40 in Midian) and 41v line 24 ("፵ ዓመተ", Moses at 40).
+  - triangle with hollow and a NARROW cap = ፩ 1 (seen on 41v line 7 "ወ፩እምኔሆን" and 153r "፩እግዚአብሔር"); NOT on this page.
+  - triangle with hollow and a WIDE serifed top bar = ፲ 10 (Ethiopic ten is written as ፩ with a top bar). Lines 7, 15, 22. Fixed by line 22 "፲ወ፯" = 17 (a tens numeral is required before ወ፯).
+  - K-shape (like ካ with a hook) = ፳ 20 (Greek kappa). Line 11.
+  - I-beam (stem with top and bottom serifs) = ፰ 8 (Greek eta). Lines 13, 18. Fixed by Judges: Cushan 8 years, Eglon 18 years.
+  - ፐ-shape with cross-bar = ፹ 80 (Greek pi). Line 21.
+  - loop-topped ደ-like shape = ፪ 2 (Greek beta). Line 5.
+  - oval with vertical bar = ፬ 4 (Greek delta, rounded). Line 11. Alternative ፱ 9.
+List:
+  L5  ፪        = 2      sons begotten by Moses (in Midian)
+  L7  ፻ወ፲      = 110    age of Moses ("when it was to Moses 110 years"); expected 120 (=40+40+40); ink says 110
+  L8  ፵        = 40     years Moses dwelt in the land of Egypt
+  L9  ፵        = 40     years Moses dwelt in Midian / in the wilderness
+  L11 ፳ወ፬      = 24     years (Joshua) son of Nun judged the people (alt. ፳ወ፱ = 29 if the units glyph is ፱)
+  L13 ፰        = 8      years "Kus the perverse" (Cushan-rishathaim) ruled them
+  L15 ፲        = 10     years Othniel son of Kenaz judged (Judges gives 40; ink says 10)
+  L18 ፻፰       = 108 as written; years Israel served Eglon king of Moab. Expected ፲፰ = 18. The first glyph is
+                        identical to the ፻ of lines 7 and 23, so the ink reads ፻፰; almost certainly ፻ written for ፲.
+  L21 ፹        = 80     years Ehud (ናዖድ) son of Gera judged
+  L22 ፲ወ፯      = 17     the 17th year of Ehud's judgeship, in which 4000 from creation was completed
+  L23 ፵፻       = 4000   years from creation completed in Ehud's 17th year
+No regnal ages of kings occur on this page. The only king named is Eglon king of Moab (and Pharaoh).
+
+NOTES:
+- CONTENT: this folio is NOT the end of Book One (Asa / Jehoshaphat / Joram) that RUNLOG.md expected. It is the Moses -> Joshua -> Judges chronology: Moses in Midian, Joshua, "Kus the perverse" (Cushan-rishathaim), Othniel, Eglon, Ehud, Deborah. No king of Israel or Judah, no "reigned at the age of ..." formula. The regnal numbers RUNLOG hoped for are not on this page. (41v, glanced at only for numeral calibration, carries "Solomon son of David married 700 wives" near the top and "Moses was born" lower down.)
+- L1 ቀዳሕያኒሁ: read ዳ (ደ with right foot) and ሕ; could be ቀደሐያኒሁ. Standard ቀዳሕያን "cupbearers".
+- L2 ራዳቢል: second glyph is ዳ-shaped (not ጉ), third is a box (ቢ, possibly ቤ), not ኤ. L4-5 has the same man as ራጉኤል (Reuel) with a clear ኤ. Two spellings within four lines; transcribed as the ink shows.
+- L2 ካህኒ: -ኒ as written (standard ካህነ).
+- L5 first glyph ጉ: arch with right foot and a small tick top-left; read ጉ giving ራጉኤል. Could be ጐ.
+- L5 ወወለደ ፡ ፪ ፡ እምውሉደ ፡ ኢያሱ ፡ ወልደ ፡ ነዌ: syntax is defective as written. The literal string is "and he begot 2 from-the-sons Joshua son of Nun". Something (e.g. "and after him" or "and of the sons of Israel") seems to have dropped out before Joshua. Not repaired.
+- L7 ዓመት: final glyph has the right-turned foot = ት (nominative). Same in L11. Other lines read ተ (ዓመተ); the ተ/ት distinction is subtle in this hand and every instance should be checked.
+- L7 ፣ : a small comma-like stroke after ዓመት, not a ፡; transcribed ፣. The same small stroke appears in L12 after ኮነኖሙ ፡ before ኩ; transcribed ፣ there too. It may be a stray mark.
+- L8 ግብፅ: written with ፅ (ፀ-family), not ጽ.
+- L9 ፵ ዓመተ: no ፡ visible between the numeral and ዓመተ. L8 read with ፡ on both sides of ፵ at lower magnification; not re-checked at 4x.
+- L10, 12, 13, 20, 24 ኮነኖሙ: first glyph is ኮ (ring on right leg) not ኰ; standard ኰነኖሙ "he judged them". Transcribed ኮ each time as the ink shows.
+- L11 ለሕዝብ ፡ ወልደ ፡ ነዌ: Joshua's name is absent; "son of Nun" alone.
+- L12-13 ኩስ ፡ ዕልው: read as the name of the oppressor (Cushan-rishathaim rendered "Kus the perverse/rebel"). ዕልው could be ዓልው. First glyph of L13 read ስ (could be ሱ).
+- L15 እ?ኁሁ: an ink blot the width of one letter sits between እ and ኁ; probably an erased or cancelled letter. The word is እኁሁ "his brother" (Othniel, brother of Caleb). The ? marks the blot, not a read letter.
+- L17 ንጉሠ: ሠ confirmed at 3x.
+- L19 ኀኖሙ: first glyph read ኀ (አድኀኖሙ "he saved them").
+- L21 ናዖድ = Ehud (Ge'ez form). ጌራ = Gera.
+- L22 ምኵናኑ: second glyph read ኵ.
+- L22 ።: a ። (red-dotted) stands between ዓመተ and ምኵናኑ, breaking the phrase "in the 17th year of the judgeship of Ehud"; transcribed as it stands.
+- L24 ⟨ም⟩: ም is written above the line between እ and ድ (scribal insertion); the base line reads ወእድኅረሁ. Angle brackets mark the interlinear letter only.
+- Numeral identification is the weakest layer of this transcription. Value assignments rest on (a) same-hand anchors on 41v and 153r (፻, ፯, ፵, ፩) and (b) the Greek-letter derivation of the Ethiopic numerals plus the Judges figures (፰, ፲, ፳, ፬). The wide-bar triangle read as ፲ is the one most in need of an expert eye: if it were ፳ instead, Moses would be 120 (as expected), Othniel 20, and Ehud's year 27, but then the K-shaped glyph in L11 would have to be ፴ (Joshua 34), which has no support. The reading given is the one consistent with the anchors.
+- Red ink: only the numeral bars and the dots of ። are red; no rubricated words on this page. No marginalia.

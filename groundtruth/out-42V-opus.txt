@@ -1,0 +1,485 @@
+================================================================================
+Ma IX 1, f.42v  (MAIX1-c090-full.jpg)  — Qalementos, the Judges chronology
+NUMERALS read by Opus 5, 2026-09-17.  Crops: 42V-opus-*
+================================================================================
+
+LINE COUNT: 24 lines of text, single column, no rubricated heading.
+NUMERALS:   15 figures on 12 lines (three lines carry a two-figure compound).
+
+--------------------------------------------------------------------------------
+CONTAMINATION DISCLOSURE — READ THIS BEFORE THE TABLE
+--------------------------------------------------------------------------------
+The brief gave two instructions that conflict: "FIRST read SCRIBAL-KEY.md" and
+"read each numeral from the ink FIRST, THEN check the key." I obeyed the first,
+so the key's anchor line-numbers were in my context for the whole run. I am not
+going to pretend otherwise. Specifically, before I looked at the page I knew:
+
+    the key expects  40 on ll. 1, 5, 17, 20
+                      7 on ll. 3, 13, 15
+                     10 on ll. 11, 23
+                      3 "l.7 vicinity"
+                     20 on l. 8 (Tola 23)
+
+WHERE I AM GENUINELY INDEPENDENT:
+  * The LOCATION of every figure. I found them by scanning the strips for red
+    bounding-bar pairs, not by going to the listed lines. I found one the key
+    does not list at all (l.18) and I found the second member of the l.8 and
+    l.23 compounds, which the key does not describe.
+  * l.18 = 40.  The key has no value for this line.
+  * l.11 second figure = 8, l.23 second figure = 5, l.8 second figure = 3.
+    The key supplies no values for any of these.
+  * l.8 first figure. I read it as LAMBDA/30 and I am reporting that AGAINST
+    the key's 20. See the dissent below.
+
+WHERE A PRIOR VALUE WAS IN MY HEAD:
+  * ll. 1/5/17/20 (40), ll. 3/13/15 (7), ll. 11/23 (10), l.7 (3). In each of
+    these the key named the line number first. What I can offer instead of a
+    claim of independence is INTERNAL CONSISTENCY, which deference cannot fake:
+    the four 40s are four mutually identical glyphs; the three 7s are three
+    mutually identical glyphs; the two 10s are the same glyph. A model that was
+    echoing a number would not also reproduce the shape-identity across lines
+    it was never told to compare.
+
+--------------------------------------------------------------------------------
+THE FIGURES
+--------------------------------------------------------------------------------
+
+[1] LINE 1 — ወበራቅ ፡ [N] ዓመተ ።
+    GLYPH: three prongs rising from a baseline; the RIGHT prong continues as a
+           stem well BELOW the baseline. Red bar above, red bar below.
+    MY VALUE: 40
+    GREEK: Μ (mu)
+    COUNTS: the years of BARAK.
+    2ND CHOICE: Λ (lambda) = 30 — rejected because lambda is stemless and this
+           right stem drops a full glyph-height below the feet of the other two.
+    CONFIDENCE: 0.92
+    KEY: agrees (፵, anchored 42v l.1).
+    GREEK RULE: mild help. It restates the anchor table's "with descending right
+           stem" but gives the reason the stem is there.
+
+[2] LINE 3 — ስብእ ፡ ምድያም ፡ [N] ዓመተ ።
+    GLYPH: straight horizontal top bar running LEFT; the stroke descends at the
+           bar's RIGHT end; a short foot kicks RIGHT at the bottom. Bars above
+           and below. A Z laid out with a vertical instead of a diagonal.
+    MY VALUE: 7
+    GREEK: Ζ (zeta)
+    COUNTS: the years MIDIAN oppressed Israel.
+    2ND CHOICE: Ϛ (stigma) = 6 — rejected because stigma/digamma is a curled S
+           or a Ϝ, and this top stroke is dead straight with a squared corner.
+           I hold this rejection at only moderate strength; see the FAILED
+           PREDICTION section, because Judges gives Midian exactly 7 and gives
+           Jephthah (figure 9 below, the same glyph) exactly 6.
+    CONFIDENCE: 0.85
+    KEY: agrees (፯, anchored 42v l.3).
+    GREEK RULE: neutral. Its one contribution was naming Ϛ as the rival, which
+           the anchor table never does — but it gave me no test to settle it.
+
+[3] LINE 5 — እደዊሁ ፡ ለጊዴዎን ፡ [N] ዓመተ ።
+    GLYPH: identical to figure [1]. Bars above and below.
+    MY VALUE: 40
+    GREEK: Μ (mu)
+    COUNTS: the years of GIDEON.
+    2ND CHOICE: Λ = 30 — rejected, same reason as [1].
+    CONFIDENCE: 0.92
+    KEY: agrees (፵, anchored 42v l.5).
+    GREEK RULE: mild help.
+
+[4] LINE 7 — ሌክ ፡ [N] ዓመተ ።
+    GLYPH: a thick vertical stem standing on a broad splayed foot; from the top
+           of the stem one arm springs UP-RIGHT and runs right, ending in a
+           point. Between stem-top and arm there is an OPEN white wedge. No
+           enclosed counter anywhere. Bars above and below.
+    MY VALUE: 3
+    GREEK: Γ (gamma) — a gamma whose bar has been raised and flicked.
+    COUNTS: the years of ABIMELECH.
+    2ND CHOICE: Ϛ (stigma) = 6 (0.20) — rejected because digamma needs TWO
+           right-pointing arms and I can only find one; the squared top-left
+           shoulder is an entry serif, not an arm.
+           Ρ (rho) = 100 (0.10) — rejected because rho's bowl must CLOSE back
+           onto the stem and this wedge is wide open to the right.
+    CONFIDENCE: 0.60
+    KEY: agrees (፫, "42v l.7 vicinity").
+    GREEK RULE: GENUINE HELP. Rho-must-close is a positive, checkable criterion.
+           It is the criterion that was missing on f.42r when 18 was read as 108.
+           The anchor table cannot supply it, because the table describes ፫ as
+           "closed bowl top-right" and ፻ as "closed bowl" — the SAME description
+           for 3 and for 100.
+
+[5] LINE 8, first figure — ኰነኖሙ ፡ ቶላ ፡ ወልደ ፡ ፉሐ ፡ [N] ወ [N]
+    GLYPH: at maximum zoom — a BLACK horizontal bar across the top extending
+           left and right; a BLACK horizontal band across the bottom likewise;
+           between them two thick legs meeting in a broad joined apex, the legs
+           DIVERGING downward, enclosing a tall arch-shaped white counter that
+           is open at the bottom and closed only where the lower black bar
+           crosses it. Orange bars sit outside the black ones, above and below.
+    MY VALUE: 30  (dissenting — see below)
+    GREEK: Λ (lambda), once the two black bars are recognised as the scribe's
+           own bounding bars and stripped.
+    COUNTS: the tens of TOLA son of Puah.
+    2ND CHOICE: Κ (kappa) = 20 (0.35) — this is the key's value. I reject it on
+           shape: kappa is a stem with two arms to the RIGHT and there is no
+           stem and no rightward arm here.
+           Π (pi) = 80 (0.10) if the legs are parallel rather than divergent.
+           Δ (delta) = 4 / Α (alpha) = 1 (0.10) if the lower black band is part
+           of the letter rather than a bar — rejected on the independent ground
+           below.
+    CONFIDENCE: 0.45 for 30 specifically; 0.85 that it is a TENS figure.
+    KEY: DISAGREES. Key says 20, triple-anchored, and calls it "the most
+           reliable thing here."
+    INDEPENDENT ARGUMENT THAT IT IS A TENS FIGURE (does not use the key):
+           it is the first member of an "X ወ Y" compound, so it must be tens.
+           The tens forms actually attested on this page are the Μ-form (40,
+           four times) and the I-beam (10, twice). This is neither. By
+           elimination it is 20 or 30.
+    GREEK RULE: **THIS IS WHERE THE RULE HINDERS.** See the verdict section.
+
+[6] LINE 8, second figure
+    GLYPH: a stem with a top bar running right; the bar's right end turns down
+           and then flicks RIGHT at the bottom, away from the stem. A pale
+           irregular blotch sits in the pocket. Bars above and below.
+    MY VALUE: 3
+    GREEK: Γ (gamma)
+    COUNTS: the units of TOLA.
+    2ND CHOICE: Ρ (rho) = 100 (0.25) — rejected twice over: the lower stroke
+           flicks AWAY from the stem so the pocket never closes, and the pale
+           area inside it has a ragged, irregular edge — it is abrasion /
+           pigment loss, not a drawn counter. A reader hunting for bowls
+           promotes this to 100 and gets 130 for Tola.
+    CONFIDENCE: 0.65
+    KEY: no value given for this figure; the key's 23 for Tola implies 3.
+    GREEK RULE: GENUINE HELP, same criterion as [4], and here it also made me
+           look hard enough at the "bowl" to see it was damage.
+    CROSS-CHECK: [4] and [6] are the same letterform drawn twice, which is
+           internal support for both being Γ.
+
+[7] LINE 11, first figure — ኤል ፡ [N] ወ [N] ዓመተ ።
+    GLYPH: a narrow clean vertical stroke with short symmetric horizontal serifs
+           at top and bottom. Nothing at mid-stem. Bars above and below.
+    MY VALUE: 10
+    GREEK: Ι (iota)
+    COUNTS: the tens of JAIR the Gileadite.
+    2ND CHOICE: Η (eta) = 8 (0.12) — rejected, no mid-stroke and no second
+           vertical. Κ = 20 (0.05) — rejected, no arms, no bowl, no leg.
+    CONFIDENCE: 0.82
+    KEY: agrees (፲, anchored 42v l.11).
+    GREEK RULE: mild help. "Iota is a bare stroke, eta carries a mid-stroke" is
+           a sharper test than "plain serifed I-beam, no bowl".
+    NOTE ON THE LOW-TENS BIAS: I am aware the key says six of six prior
+           disagreements ran low, and that the expected value from Judges 10:3
+           is 22. I tested 20 and reject it: the 20-candidate on this page
+           (figure [5]) is a completely different shape, wide and arched with an
+           enclosed counter. Whatever figure [5] is, figure [7] is not it.
+
+[8] LINE 11, second figure
+    GLYPH: a heavy vertical stem with LONG horizontal serifs — the top serif
+           runs chiefly LEFT, the bottom serif chiefly RIGHT, and both project
+           on both sides. There is a step/notch on the left edge of the stem at
+           mid-height. Bars above and below.
+    MY VALUE: 8
+    GREEK: Η (eta) — an I-beam carrying a mid-stroke.
+    COUNTS: the units of JAIR.
+    2ND CHOICE: Ι = 10 (0.25) — rejected because figure [7], four glyphs away
+           on the same line, is narrow with short symmetric serifs and this is
+           not; the scribe is distinguishing them.
+           Ζ = 7 (0.20) — rejected because the ፯ on this page (figures [2],
+           [9], [10]) puts its strokes on OPPOSITE sides only, with no serif
+           projecting on the near side. This one projects both ways.
+    CONFIDENCE: 0.50
+    KEY: no value given.
+    GREEK RULE: REAL HELP — the single clearest win of the run. The rule
+           PREDICTED the Ι/Η collision and handed me the discriminator. Without
+           a candidate named "eta = an I-beam with a mid-stroke" I had no filing
+           slot for this glyph and would have swept it into ፲ and read line 11
+           as two tens.
+    RESULT: line 11 reads 10 ወ 8 = EIGHTEEN.
+
+[9] LINE 13 — ወኰነኖሙ ፡ ዮፍታሔ ፡ [N] ዓመተ
+    GLYPH: identical to figure [2].
+    MY VALUE: 7
+    GREEK: Ζ (zeta)
+    COUNTS: the years of JEPHTHAH.
+    2ND CHOICE: Ϛ = 6 — see the FAILED PREDICTION section. Judges 12:7 gives
+           Jephthah six years, so this rejection is doing real work and I am not
+           fully confident in it.
+    CONFIDENCE: 0.88 that it is the same sign as [2] and [10];
+                0.70 that the sign is 7 rather than 6.
+    KEY: agrees (፯, anchored 42v l.13).
+    GREEK RULE: neutral.
+
+[10] LINE 15 — ን ፡ [N] ዓመተ ።
+    GLYPH: identical to figures [2] and [9].
+    MY VALUE: 7
+    GREEK: Ζ (zeta)
+    COUNTS: the years of the judge named on l.14, written ሐሒብን (see names).
+    2ND CHOICE: Ϛ = 6, as above.
+    CONFIDENCE: 0.88 / 0.70 as above.
+    KEY: agrees (፯, anchored 42v l.15).
+    GREEK RULE: neutral.
+
+[11] LINE 17 — ኤል ፡ [N] ዓመተ ።
+    GLYPH: identical to figures [1] and [3].
+    MY VALUE: 40
+    GREEK: Μ (mu)
+    COUNTS: the years the PHILISTINES (ኢሎፊሊ) oppressed the children of Israel.
+    2ND CHOICE: Λ = 30 — rejected on the descending right stem.
+    CONFIDENCE: 0.90
+    KEY: agrees (፵, anchored 42v l.17).
+    GREEK RULE: mild help.
+
+[12] LINE 18 — ኰነኖሙ ፡ ኢሎም ፡ ዘቡላዊ ፡ [N]
+    GLYPH: identical to figures [1], [3], [11]. Bars above and below, at the
+           extreme right edge of the written area beside the gutter.
+    MY VALUE: 40
+    GREEK: Μ (mu)
+    COUNTS: the years of ELON THE ZEBULONITE.
+    2ND CHOICE: Ι = 10 (0.10) — rejected outright on shape; recorded only
+           because Judges 12:11 gives Elon ten years and a reader who knows that
+           will be tempted. The ink is a three-pronged Μ, not a stroke.
+    CONFIDENCE: 0.88
+    KEY: NO VALUE — the key does not list a numeral on l.18. This is a figure
+           the key's table is missing, and it is the cleanest independent datum
+           in this run.
+    GREEK RULE: mild help.
+
+[13] LINE 20 — ኢሎፊሊ ፡ [N] ዓመተ ።
+    GLYPH: identical to figures [1], [3], [11], [12].
+    MY VALUE: 40
+    GREEK: Μ (mu)
+    COUNTS: the years of a SECOND Philistine oppression (see the doublet note).
+    2ND CHOICE: Λ = 30 — rejected on the descending right stem.
+    CONFIDENCE: 0.88
+    KEY: agrees (፵, anchored 42v l.20).
+    GREEK RULE: mild help.
+
+[14] LINE 23, first figure — ሙ ፡ ሱምሶን ፡ [N] ወ [N] ተ ፡ ዓመተ ።
+    GLYPH: a bold hourglass I-beam — wide horizontal serifs top and bottom, the
+           stem waisted between them. No mid-stroke. Bars above and below.
+    MY VALUE: 10
+    GREEK: Ι (iota)
+    COUNTS: the tens of SAMSON.
+    2ND CHOICE: Η = 8 (0.15) — rejected: the waist is a taper in the stroke
+           width, not a crossbar and not a hook.
+           Κ = 20 (0.05) — rejected, nothing resembling figure [5].
+    CONFIDENCE: 0.80
+    KEY: agrees (፲, anchored 42v l.23).
+    GREEK RULE: mild help.
+
+[15] LINE 23, second figure
+    GLYPH: a left spine carrying THREE strokes that project RIGHT — a hooked
+           top arm, a mid stroke running down-right, and a bottom arm — with
+           two white counters stacked between them, both opening RIGHT. No
+           right-hand vertical closing them. Bars above and below.
+    MY VALUE: 5
+    GREEK: Ε (epsilon)
+    COUNTS: the units of SAMSON.
+    2ND CHOICE: Η (eta) = 8 (0.25) — rejected because an H needs a SECOND
+           vertical on the right to close its two counters, and there is none;
+           both counters spill open to the right.
+           Ϛ (stigma) = 6 (0.15) — rejected on arm count: digamma has two arms,
+           I count three.
+           Ζ = 7 (0.05) — rejected: this is the MIRROR of the ፯ on this page
+           (spine left, arms right, where the ፯ has its bar left and descender
+           right).
+    CONFIDENCE: 0.50
+    KEY: no value given.
+    GREEK RULE: HELP. "Count the arms off the spine: two is Ϛ=6, three is Ε=5"
+           is a usable test that the anchor table has no equivalent for — it
+           lists no shape for 5 at all.
+    RESULT: line 23 reads 10 ወ 5 = FIFTEEN.
+    FLAG: a ተ-shaped glyph stands between this figure and ዓመተ. It carries NO
+          bounding bars, so by the key's own most load-bearing rule it is a
+          letter, not a figure. I cannot account for it and I am not smoothing
+          it away. Transcribed: ፲ወ[፭]ተ፡ዓመተ.
+
+--------------------------------------------------------------------------------
+TALLY
+--------------------------------------------------------------------------------
+  l.1   40   Barak
+  l.3    7   Midian oppress
+  l.5   40   Gideon
+  l.7    3   Abimelech
+  l.8   30(?) + 3  Tola son of Puah   [key: 20+3 = 23; I dissent on the tens]
+  l.11  10 + 8 = 18   Jair the Gileadite
+  l.13   7   Jephthah
+  l.15   7   ሐሒብን
+  l.17  40   Philistines oppress the children of Israel
+  l.18  40   Elon the Zebulonite       [not in the key]
+  l.20  40   Philistines oppress
+  l.23  10 + 5 = 15   Samson
+
+--------------------------------------------------------------------------------
+VERDICT ON THE GREEK RULE — did it generalise off f.42r?
+--------------------------------------------------------------------------------
+PARTLY. It earns its place, but it has one outright failure and it is the
+failure that matters most.
+
+HELPED (7 of 15 figures): [4] [6] [8] [15] strongly; [1][3][5 as a test][7][11]
+[12][13][14] mildly.
+  The strong wins share one property: the rule supplies a POSITIVE CRITERION
+  where the anchor table supplies only a silhouette.
+    - "rho's bowl must close back onto the stem" saved figures [4] and [6] from
+      being promoted to 100. This is precisely the f.42r 108-for-18 error, and
+      the rule is the thing that prevents it. The anchor table CANNOT prevent
+      it: it describes ፫ as "closed bowl top-right" and ፻ as "closed bowl."
+      Those are the same words for 3 and for 100.
+    - "eta is an I-beam with a mid-stroke" gave me a filing slot for figure [8].
+      Without it that glyph has no name and collapses into ፲.
+    - "count the arms off the spine" gave me figure [15], for which the anchor
+      table lists no shape at any value.
+
+HINDERED (1 of 15, and it is the important one): figure [5], the tens of Tola.
+  The rule says 20 = Κ. Kappa is a stem with two arms to the right. The glyph
+  on l.8 is two diverging legs under a joined apex, between two black bars,
+  with an arch-shaped counter. It is not a kappa by any reading. Following the
+  rule sends me to Λ = 30 and away from the key's 20.
+  THE KEY CONTRADICTS ITSELF HERE. Its anchor table describes ፳ as "bar + bowl
+  + leg" and calls the ፳ identification "triple-anchored and the most reliable
+  thing here." "Bar + bowl + leg" is not a description of kappa either. So the
+  generative rule and the key's own most-trusted anchor disagree about the same
+  sign, and the key has not noticed.
+  ONE OF THREE THINGS IS TRUE, and the next reader should be sent to settle it:
+    (a) the Ethiopic tens did NOT keep their Greek shapes (very plausible —
+        the units are Greek but the tens drifted), in which case the rule must
+        be cut back to "the UNITS are Greek uncials" and the tens go back to
+        the observed table;
+    (b) the key's ፳ is wrong and these are ፴; or
+    (c) this hand's ፳ is a kappa so cursive it has closed into an arch.
+  Test for (a): the same failure should appear on every ፳, ፴, ፶ in the corpus,
+  and the Μ=40 form — which DOES look like a mu — argues against it. Test for
+  (b): d'Abbadie 78 on Tola.
+
+NO DIFFERENCE (3 of 15): [2] [9] [10], the three ፯ forms. The rule and the
+  table pick out the same glyph by different words.
+
+COLLISIONS THE RULE PREDICTED, AND WHETHER THEY FIRED ON THIS PAGE:
+  Ι/Η (10 v 8)   — FIRED, at line 11 second figure. The prediction was correct
+                   and the discriminator worked. Best single result of the run.
+  Ρ/Ι (100 v 10) — did NOT fire in that form. What fired instead was Ρ/Γ
+                   (100 v 3), twice, at [4] and [6]. Same trap, different pair:
+                   the danger is a bowl-hunting reader, and on this page the
+                   bowl-less glyph he would promote is a gamma, not an iota.
+                   RECOMMEND THE KEY RESTATE THIS AS "Ρ against anything with a
+                   top-right pocket," and that it stop giving ፫ and ፻ the same
+                   description.
+  Ι/Κ/Λ (10/20/30) — FIRED, at line 8, and the rule LOST. See above.
+
+A COLLISION THE RULE FAILED TO PREDICT, AND IT IS LIVE ON THIS PAGE:
+  **Ϛ / Ζ — 6 against 7.** Three of fifteen figures here are Ζ-forms. Judges
+  gives Midian 7 (agrees with my read) but gives Jephthah 6 (disagrees). The
+  key names Ι/Η, Ρ/Ι and Ι/Κ/Λ and says nothing about 6/7, and 6/7 is the
+  difference between a right and a wrong Jephthah. My only discriminator was
+  "stigma curls, zeta's top stroke is straight," which is weak. This belongs in
+  the key.
+
+--------------------------------------------------------------------------------
+TRANSCRIPTION — 24 lines (numerals shown as [n])
+--------------------------------------------------------------------------------
+ 1  ወበራቅ ፡ [40] ዓመተ ።፡ ወእምድ
+ 2  ኅሬሁ ፡ <<ኰነኖሙ — STRUCK THROUGH>> ፡ ተንኂዎሙ ፡
+ 3  ስብእ ፡ ምድያም ፡ [7] ዓመተ ።፡ ወ
+ 4  አድኀኖሙ ፡ እግዚአብሔር ፡ በ
+ 5  እደዊሁ ፡ ለጊዴዎን ፡ [40] ዓመተ ።፡
+ 6  ወእምድኅሬሁ ፡ ኰነኖሙ ፡ አቢሜ
+ 7  ሌክ ፡ [3] ዓመተ ።፡ ወእምድኅሬሁ ፡
+ 8  ኰነኖሙ ፡ ቶላ ፡ ወልደ ፡ ፉሐ ፡ [30?] ወ [3]
+ 9  ዓመተ ።፡ ወቆመ ፡ እምድኅሬሁ ፡ ያ
+10  ኢር ፡ ገለዓዳዊ ፡ ወኰነኖሙ ፡ ለእስራ
+11  ኤል ፡ [10] ወ [8] ዓመተ ።፡ ወእምድኅሬ
+12  ሁ ፡ አድኀኖሙ ፡ እግዚአብሔር ፡
+13  ወኰነኖሙ ፡ ዮፍታሔ ፡ [7] ዓመተ
+14  ወእምድኅሬሁ ፡ ኰነኖሙ ፡ ሐሒብ
+15  ን ፡ [7] ዓመተ ።፡ ወእምድኅሬሁ ፡ ተ
+16  ንኂዎሙ ፡ ኢሎፊሊ ፡ ለደቂቀ ፡ እስራ
+17  ኤል ፡ [40] ዓመተ ።፡ ወእምድኅሬሁ ፡
+18  ኰነኖሙ ፡ ኢሎም ፡ ዘቡላዊ ፡ [40]
+19  ዓመተ ።፡ ወእምድኅሬሁ ፡ ተንኂዎሙ
+20  ኢሎፊሊ ፡ [40] ዓመተ ።፡ ወእምድኅሬ
+21  ሁ ፡ አድኀኖሙ ፡ እግዚአብሔር ፡
+22  በእደዊሁ ፡ ለለምሱን ፡ ኃያል ፡ ወኰነኖ
+23  ሙ ፡ ሱምሶን ፡ [10] ወ [5] ተ ፡ ዓመተ ።፡ ለ
+24  ለአሕዛብ ።፡ ወእምዝ ፡ በጊዜ ፡ <interlinear correction above> ...
+
+NOTE ON LINE 2: the word between ኅሬሁ and ተንኂዎሙ is cancelled by horizontal
+strokes above, through and below — the key's deletion mark. Its surviving
+silhouette matches ኰነኖሙ, the "he judged them" of the judge-formula. The scribe
+appears to have begun the judge-formula, realised the subject was an OPPRESSOR
+(Midian) not a judge, cancelled it, and wrote the oppression verb ተንኂዎሙ
+instead. The same pairing recurs uncancelled at ll.15-16 and l.19.
+
+--------------------------------------------------------------------------------
+LITERAL ENGLISH — every person named
+--------------------------------------------------------------------------------
+ 1-2   "And BARAK, forty years. And after him — <he judged them (cancelled)> —
+ 2-3    the men of MIDIAN oppressed them, seven years. And
+ 4-5    God saved them by the hands of GIDEON, forty years.
+ 6-7    And after him ABIMELECH judged them, three years. And after him
+ 8-9    TOLA son of PUAH judged them, thirty(?) and three years. And after him
+ 9-11   there arose JAIR the GILEADITE, and he judged ISRAEL ten and eight years.
+11-13   And after him God saved them, and JEPHTHAH judged them, seven years.
+14-15   And after him ḤAḤIBN judged them, seven years. And after him
+15-17   the PHILISTINES oppressed the children of ISRAEL, forty years.
+17-19   And after him ELON the ZEBULONITE judged them, forty years.
+19-20   And after him the PHILISTINES oppressed them, forty years.
+20-23   And after him God saved them by the hands of SAMSON the mighty, and
+23      SAMSON judged them, ten and five years, to
+24      the nations. And after this, in the time of ..."
+
+PERSONS AND PEOPLES IDENTIFIED
+  ባራቅ / ወበራቅ      BARAK                       l.1
+  ምድያም            MIDIAN (ስብእ ምድያም, "the men of Midian")   l.3
+  እግዚአብሔር          GOD                         ll.4, 12, 21
+  ጊዴዎን             GIDEON                      l.5
+  አቢሜሌክ           ABIMELECH                   ll.6-7
+  ቶላ               TOLA                        l.8
+  ፉሐ               PUAH (ወልደ ፉሐ, "son of Puah")            l.8
+  ያኢር              JAIR                        ll.9-10
+  ገለዓዳዊ            the GILEADITE               l.10
+  እስራኤል            ISRAEL                      ll.10-11, 16-17
+  ዮፍታሔ             JEPHTHAH                    l.13
+  ሐሒብን             ḤAḤIBN — see flag below     ll.14-15
+  ኢሎፊሊ             the PHILISTINES (ἀλλόφυλοι) ll.16, 20
+  ኢሎም ዘቡላዊ         ELON the ZEBULONITE         l.18
+  ለምሱን / ሱምሶን      SAMSON, called ኃያል "the mighty"         ll.22-23
+  አሕዛብ             the NATIONS / gentiles      l.24
+
+--------------------------------------------------------------------------------
+FLAGS — not smoothed
+--------------------------------------------------------------------------------
+* ሐሒብን (ll.14-15). The slot — a judge between Jephthah and Elon, seven years —
+  is Ibzan of Bethlehem (Judges 12:8-9). The ink is NOT አብጻን or ኤስቦን. First
+  glyph is unambiguously ሐ, not the hooked alef this hand uses for አ/እ/ኦ.
+  Transcribed as written. For the expert.
+* ለምሱን (l.22) against ሱምሶን (l.23) — the same man spelled two ways four glyphs
+  apart, ለ- then ሱ-. Not normalised.
+* ስብእ for ሰብአ (l.3). Already attested in the key's orthography list; this is an
+  independent second attestation.
+* ኢሎፊሊ for ኢሎፍሊ (ll.16, 20).
+* THE DOUBLET. The Philistines oppress twice, at ll.16-17 and ll.19-20, forty
+  years each, with Elon the Zebulonite between them. Both figures are the same
+  Μ-form. This is what the page says; whether it is the compiler's doublet or a
+  scribe's eyeskip is not decidable from this folio.
+* ለደቂቀ (l.16) — exercises the ይ/ደ collision the key documents; read as ደ on
+  sense ("the children of Israel"), not on shape.
+* The bare ተ on l.23 between the units figure and ዓመተ. No bounding bars, so not
+  a figure. Unexplained.
+* ELON = 40. Judges 12:11 gives him ten years. The ink is the Μ-form, four
+  times attested on this page. I am not adjusting it to fit Judges.
+* JAIR = 18. Judges 10:3 gives him twenty-two. The first figure is the plain
+  I-beam, not the l.8 arch. I am not adjusting it.
+
+--------------------------------------------------------------------------------
+JOIN-TEST PREDICTIONS, registered before reading either neighbour
+--------------------------------------------------------------------------------
+FIRST LINE VERBATIM: ወበራቅ ፡ [40] ዓመተ ።፡ ወእምድ
+LAST LINE VERBATIM:  ለአሕዛብ ።፡ ወእምዝ ፡ በጊዜ ፡ <corrected word>
+
+f.42r must END on a completed clause about Deborah and Barak — most probably
+the defeat of Jabin/Sisera — because 42v opens with ወ + Barak's name and a
+fresh year-figure, i.e. with a new entry, not mid-word.
+
+f.43r must OPEN with the completion of the phrase ወእምዝ ፡ በጊዜ ፡ … , "and after
+this, in the time of ___". Given the chronology has just closed Samson, the
+word 43r opens with should be the name of whoever follows the judges — Eli, or
+Samuel — and the page should move from judges to priest or prophet. If 43r
+instead opens on another ኰነኖሙ judge-entry, the Samson entry on l.23 is not the
+end of the Judges list and the ተ on l.23 needs revisiting.

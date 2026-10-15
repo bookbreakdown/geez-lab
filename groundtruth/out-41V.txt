@@ -1,0 +1,73 @@
+MAIX1-41V
+LINES: 23
+1 የ፡ነገሠት፡እምራኬብ፡ዘእምዘርአ
+2 ሎጥ፡ወእምውሉደ፡ዚአሁ፡ኮነት፡ብ
+3 እሲተ፡ለስልሞን፡ወልደ፡ዳዊት፡ዘ
+4 ምእብርያም፡እስመ፡እውስበ፡ስል
+5 ሞን፡ወልደ፡ዳዊት፡አንስተ፡፯፻ዕ
+6 ቁባት፡ወኢረከበ፡በውስቴቶን፡ወ
+7 ሉደ፡ወ፩እምኔሆን፡እስመ፡እግዚአ
+8 ብሔር፡ልዑል፡ኢሠምረ፡ይደመር
+9 ዘርአሙ፡ለከነዓን፡ምስለ፡ዘርአ፡
+10 ቅዱሳን፡ሕዝብ፡ወእምኔሆሙ፡ተሰብ
+11 አ፡እግዚእነ፡ኢየሱስ፡ክርስቶስ፨
+12 ኮሎንኪ፡እንስቲያሁ፡ለስልሞን
+13 እምዘርአ፡ከነዓን፡እሙንቱ፨ዚዓ
+14 ሁስ፡ለሙሴ፡ነቢይ፡እግዚአብሔ
+15 ር፡እስመ፡መጻሕፍት፡ቅዱሳት፡ይ
+16 ዜንው፡ከመ፡ሌዊ፡ሶበ፡ሖረ፡ምስለ
+17 አቡሁ፡ብሔረ፡ግብጽ፨ወበህየ፡
+18 ተወልደ፡ሙሴ፡ወትስማራን፡ወኤ
+19 ያሱ፡ወልደ፡ነዌ፡ወካሌብ፡እምዘ
+20 እ፡ዚእሁ፨ወለሙሴ፡ሶበ፡ወረው
+21 ዖ፡ውስቱ፡ተከዚ፡ንሠእቶ፡ስፊር
+22 ወለት፡ፈርዖን፡ወእትወቶ፡ቤታ፡ወ
+23 ትበ፡ኮኖ፡፴ዓመተ፡ቀተሎ፡ናሮም።
+
+TRANSLATION:
+[1-2] "...ya. She reigned. From Rakeb (Rahab?), who [is] of the seed of Lot, and from his (Lot's) children
+[2-4] she became wife to Solomon son of David, who [...] Mə'əbrəyam (see NOTES: Abiam? Rehoboam?).
+[4-6] For Solomon son of David took as wives women: seven hundred (፯፻) concubines,
+[6-7] and he did not find among them (f.) a child, and [not] one (፩) from them (f.);
+[7-10] for God Most High did not approve that their seed, of Canaan, be mixed with the seed of the holy people,
+[10-11] and from them our Lord Jesus Christ became man.
+[12-13] Now all the wives of Solomon, from the seed of Canaan were they.
+[13-14] As for that (the story) of Moses the prophet of God:
+[15-17] for the holy scriptures narrate that Levi, when he went with his father to the land of Egypt,
+[17-19] and there was born Moses, and Tsmaran (?), and Joshua son of Nun, and Caleb, from the
+[19-20] ... of his (ዚእሁ).
+[20-22] And as for Moses, when they threw him into the river, Sefir (ስፊር) daughter of Pharaoh took him and brought him into her house, and
+[23] [when] he was (?) thirty (፴) years, he killed Narom (?)."
+
+NUMERALS:
+- line 5: ፯፻ = 700 (፯ = 7, ፻ = 100; both barred in red). Counts the women/concubines Solomon son of David married ("አንስተ ፯፻ ዕቁባት"). Not a regnal figure.
+- line 7: ፩ = 1 (barred in red). "ወ፩እምኔሆን" -- not even one child from them (Solomon's Canaanite wives). Not a regnal figure.
+- line 23: ፴ = 30 (barred in red). "፴ዓመተ" = thirty years. Attaches to Moses: his age when "he killed [Narom]" (cf. Exod 2:11-12; Acts 7:23 gives forty). Not a regnal figure.
+No regnal ages and no lengths of reign appear on this page. The only royal verb is "ነገሠት" (she reigned) at the head of line 1, whose subject was on the previous folio; no number attaches to it here.
+
+NOTES:
+- Line 1 "የ" is the tail of a word carried over from 41r (a queen's name, probably Athaliah, if the preceding narrative reached her). Not recoverable from this page.
+- Line 1 "እምራኬብ": third glyph is clearly ራ, not አ. ራኬብ is the Ethiopic Matthew spelling of Rahab, but "of the seed of Lot" fits an Ammonite/Moabite (Naamah, Ruth) rather than Rahab. Transcribed as written.
+- Line 2: the ም of ወእምውሉደ is written supralinearly between እ and ው (scribal insertion, same hand). Same for the ም in line 10 ወእምኔሆሙ. Both are included inline in the transcription.
+- Line 2 first word: ሎጥ (Lot). The ጥ is the wide-topped form with a descender; confirmed at 2x.
+- Line 3 and 12: ለስልሞን is what the ink shows (sadis forms), not standard ሰሎሞን/ሰለሞን. Line 4-5 ስል|ሞን likewise.
+- Line 4 ምእብርያም: first glyph is unmistakably ም, second is እ (T-top). Meaning unresolved; possibly a garbled ሮብዓም (Rehoboam, son of Naamah the Ammonitess) or አብያም (Abiam). Left as ink.
+- Line 4 እውስበ: T-top እ, not አ; standard would be አውሰበ.
+- Line 5: no ፡ between ፻ and ዕ; the word ዕቁባት runs across lines 5-6.
+- Line 6 ወኢረከበ, line 8 ኢሠምረ, line 11 ኢየሱስ: the negative/ኢ form has a short hook at the bottom right in this hand; I read ኢ rather than ኤ in all three. Line 18 final ኤ (of ወኤያሱ = Joshua) has a distinct closed ring and is read ኤ.
+- Line 7 ኔ (እምኔሆን) has a clear ring. Line 10 (እምኔሆሙ) the same letter has only an angular hook; read ኔ by parallel, could be ኒ.
+- Line 10 first glyph ቅ has a faint dark stroke above and below it (not red). Looks like offset/bleed-through, not a numeral mark; ቅዱሳን is the word.
+- Line 11, 13, 17, 20: the mark ፨ stands for a cross of dots (black centre and arms, red dots between) used as a section divider. It is not ። and is not decomposed.
+- Line 12 ኮሎንኪ: standard would be ኵሎንኬ ("all of them (f.) then"). First glyph has the ring high on the right (ኮ); last glyph has an open hook, ኪ rather than ኬ. Ink transcribed.
+- Line 13-14 ዚዓ|ሁስ: standard ዚአሁስ. Glyph has the hooked ዓ form.
+- Line 16 ይዜንው: the last letter has a short stroke, not a ring (ው, not ዉ); standard grammar wants ዉ.
+- Line 18 ወትስማራን: every glyph is legible (ወ ት ስ ማ ራ ን) but the name is unidentified. In the list "Moses, ..., Joshua son of Nun, Caleb" one expects Aaron or Miriam; ink does not support either.
+- Line 19-20 እምዘ|እ፡ዚእሁ: line 20 begins with a lone እ then ፡. Perhaps a broken እምዘርአ ዚአሁ "from his seed". ዚእሁ has T-top እ, not አ.
+- Line 20-21 ወረው|ዖ: line 21 opens with the ring-topped oval (ዖ), same form as in ፈርዖን two lines later; standard ወረውዎ "they threw him".
+- Line 21 ውስቱ: standard ውስተ; ring at bottom right read as ቱ. ተከዚ = the river (Nile); final glyph could be ዜ.
+- Line 21 ንሠእቶ: four contiguous glyphs, no divider inside; standard ነሥአቶ "she took him". Middle glyph is ሠ (three prongs), possibly ሥ.
+- Line 21 ስፊር: name given to Pharaoh's daughter; not the usual Thermuthis.
+- Line 22 ወእትወቶ: T-top እ after ወ (checked at 2x); standard አትወቶ/አብአቶ "she brought him in".
+- Line 23 ትበ፡ኮኖ: first glyph is the stem-and-crossbar ት with bottom-left foot; third glyph read ኮ, fourth has a ring (ኖ or ዖ). Context wants ወሶበ ኮነ "and when he was"; ink does not read that cleanly. Both words uncertain.
+- Line 23 ናሮም: clear letters, unidentified (object of ቀተሎ "he killed him/it"). The sentence continues on 42r.
+- Marginal column at the right edge (partly visible) is the facing folio (42r) showing through the gutter; not transcribed.

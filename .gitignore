@@ -1,0 +1,24 @@
+# Downloaded images and local acquisition state
+chunks/
+chunks-index.csv
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.pdf
+*.zip
+# Python and editor state
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+.idea/
+.vscode/
+# Credentials and local environment
+.env
+.env.*
+*.pem
+*.key

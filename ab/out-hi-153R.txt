@@ -1,0 +1,47 @@
+MAIX1-153R
+LINES: 24
+1. ፄወተ፡እምኢየራሰሌም፡ወ፡
+2. ወመንፈቁ፡ደውሳዝ፡ውስተ፡
+3. በሔር፡ይኃሪት፡ወእተ፡አጣ
+4. ሪ፡ይከውን፡፩እግዚአብሔር፡
+5. ወ፩ስሙ፡ወኵሎ፡ዘጸውዓ፡
+6. ስሙ፡እግዚአብሔር፡ይድኅ
+7. ን፡በመዋዘሁ፡ተምዕዙ፡ሔዋ
+8. ርያት፡ወእምዓዙ፡ኵሉ፡ዓለመ
+9. እምሠራቁ፡ፀሐይ፡ወእስከ፡
+10. ነዓሪብ፡ወእምሰሜን፡እስከ፡
+11. ደቡብ፡ወእምኵሉ፡አጽናፈ፡
+12. ዓለም።በከመ፡ይቤ፡ሐዋርያ፡
+13. ንሐነሰኬ፡መዋዘሁ፡ለካሮስ
+14. ስቲለ፡ብነ፡በመዋዘሁ፡ቀደሰን
+15. ፈለሱ፡ገዳመ፡መነኑ፡ዓለመ።
+16. ወበመዋዘሁ፡እጥብዑ፡ስማዕተ
+17. ቁሰተ፡ልቦሙ፡ወመጠው፡ነፍ
+18. ሰሙ፡ለሞት፡ተዴኀሙ፡ዘመጻ
+19. ወሙሎደ፡ወመኒድሙ፡ፍትወ
+20. ተተ፡ወጣዕመ፡ዝዓለም፡እስከ
+21. እጥብዑ፡ልድሙ፡ወተመተሩ፡
+22. እርእስቲሆሙ፡ወተመልሔ፡
+23. አእይንቲሆሙ፡እንዘ፡ተሪአ
+24. የማኒተ፡ወፀጋማተ፡ውድቁ
+NOTES:
+- L1 first glyph: read as ፄ (ፀ-series with right hook); could be ጼ. Carried over from 152v.
+- L1 ኢየራሰሌም: the hand has ራ ሰ where standard is ሩ ሳ; transcribed as written.
+- L2 ደውሳዝ: first glyph is the curled ደ/ይ shape this hand uses for both letters; ደ chosen, ይ possible. ፈቁ vs ፍቁ also uncertain.
+- L3 ይኃሪት: the ኃ glyph is uncertain (ኃ/ጎ); the ይ is the same ambiguous curled shape.
+- L4 ይከውን: the ከ has an extra tick at top right and may be ካ.
+- L4, L5: ፩ carries an overline (numeral), rendered as ፩.
+- L6 ይድኅ|ን: the glyph read ድ looks ዮ-like in this hand (ደ with a loop); same glyph read ድ in L19 ወመኒድሙ, L21 ልድሙ, L24 ውድቁ. Any of these could be ዮ.
+- L7, 13, 14, 16 መዋዘሁ: the fourth glyph reads as ዘ every time (not ዕ); transcribed as ዘ.
+- L7 ተምዕዙ / L8 ወእምዓዙ: the ዕ/ዓ readings are uncertain.
+- L9 ሠራቁ: the last glyph has a bottom hook, so ቁ rather than ቀ.
+- L10 ነዓሪብ: first glyph read as ነ; could be ዐ.
+- L12 ። drawn as four dots; transcribed as ።. Same at L15.
+- L14 ስቲለ: first glyph could be ሱ/ሲ. ቀደሰን: the ደ has an extra arm and could be ዬ.
+- L15 መነኑ: last glyph has two marks on the right leg; ኑ or ኔ.
+- L17 ቁሰተ: first glyph could be ቁ or ቊ.
+- L18 ተዴኀሙ: the ዴ and ኀ are both uncertain. ዘመጻ: ጻ could be ጸ.
+- L19 ወሙሎደ: last glyph curled ደ/ይ shape. ፍትወ then L20 ተተ: the doubled ተ is on the page.
+- L21 ወተመተሩ: last glyph single-bump ሩ, not ፉ.
+- L22 ወተመልሔ: ሔ, not ሐ.
+- L23 ተሪአ: the ሪ could be ራ.

@@ -1,0 +1,36 @@
+MAIX1-154R
+LINES: 24
+1. ሕብእ፡ኢየኃድጋ፡መዓዛሁ፡ወከማ
+2. ሁ፡ለክርስቶስ፡ንሕነ፡ኵልነ፡መ
+3. ሃይምናን፡እለ፡ተጠመቅነ፡በእ
+4. ጣኑ።፡አብ፡ወወልድ፡ወመንፈ
+5. ስ፡ቅዱስ፡፨፡ወበቅድስት፡ቤተ፡ክ
+6. ርስቲያን።፨ሰማዕ፡እወልድየ፡
+7. ቀሌምንጦስ፡ዘነገረኒ፡እግዚእነ፡
+8. ኢየሱስ፡ክርስቶስ፡ንጉሠ፡ሰማ
+9. ያት፡ወምድር፡ፈጣሬ፡ኵሉ፡ዓ
+10. ለም።ከመ፡በደኃሪ፡መዋዕል፡
+11. የዓልዉ፡ብዙኃን፡ሃይማኖቶ
+12. ሙ፡ወይሴኵሉ፡ፍቅረ፡እምአ
+13. ኃዉ፡ወይመጽኡ፡ብዙኃን፡ሐ
+14. ሰውያን፡ነቢያት፡ወሐሣውያነ፡
+15. መሢሕ፡ወያስሕቱ፡ሰብአ፡በእ
+16. ኪየ፡ምግባሮሙ፡?ወበሃይማ
+17. ኖቶሙ፡ርኩሳት፡እስመ፡ቀሪ
+18. በቱ።ወልሕቀት፡ዓለም፡ያመ
+19. ጽኡ፡እኩየ፡ምግባረ፡እንተ፡
+20. ኢኮነት፡እምቅድስት፡ቤተ፡
+21. ክርስቲያን፡ወያስሕቱ፡በር
+22. ኵሳት፡መጻሕፍቲሆሙ፡ወይ
+23. ዴወኑ፡በነገሠት፡ወመኳንን
+24. ት፡ወጠዋይ፡ፍኖቶሙ፡ወፈድ
+NOTES:
+- Line 1, first character: read as ሕ (ሕብእ); could be ኅ/ኀ in this hand. Sixth-to-eighth characters read ኃድጋ; the final glyph may be ግ rather than ጋ.
+- Line 4: after ጣኑ the scribe wrote ። followed by a further ፡ before አብ; transcribed as written (።፡), not normalised.
+- Line 5: red four-dot ornament after ቅዱስ፡ rendered as ፨; then a black ፡ before ወበቅድስት. Line 6 has the same red ornament after ርስቲያን።.
+- Line 6: ሰማዕ፡እወልድየ — the vocative is written እ, not ኦ; transcribed as on the page.
+- Line 7: ቀሌምንጦስ፡ is in red ink (rubric); the rest of the line is black.
+- Line 12: ወይሴኵሉ — the fourth glyph has a lower loop; read as ኵ, but ስ/ሱ (ወይሴስሉ) is possible.
+- Line 16: after ምግባሮሙ፡ there is a ወ-shaped glyph with a horizontal bar above it (an abbreviation or correction mark) that I cannot assign to a Unicode character; marked ?. Then ወበሃይማ follows.
+- Line 17: ርኩሳት — second glyph read as ኩ; ኵ possible.
+- Line 15: ሰብአ — the first glyph could be ስ rather than ሰ.

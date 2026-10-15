@@ -1,0 +1,142 @@
+MAIX1-42V — NUMERALS ONLY, CALIBRATED RE-READ
+Image: MAIX1-c090-full.jpg (3560x5000). Read by cropping/zooming only (2x-5x). No tooling.
+
+METHOD
+Every doubtful glyph was measured against forms of the SAME scribe whose value is
+fixed either by the calibration note or by an undisputed reading:
+  ፵  = three-pronged body (ሠ-like) WITH a descending right stem (ሣ-like). 42v L1, L5, L17, L18, L20.
+  ፴  = the same three-pronged body WITHOUT the stem. 42r L11 (Joshua, calibrated 31).
+  ፳  = flat top bar, then a rounded bowl on the left and a straight leg on the right,
+       both feet on the baseline. 42r L7 (Moses, calibrated 120), 42r L22 (calibrated 27),
+       42v L8 (Tola). Three instances, identical.
+  ፶  = flat top bar over a body whose left lobe and right leg CROSS. 42r L15 (Othniel,
+       calibrated 50).
+  ፻  = stem with a bowl at top right (P-like). 42r L7.
+  ፯  = ገ-shape with a foot. 42v L3, L13, L15; 42r L22.
+  ፰  = I-beam with a hook at mid-height on the right. 42r L13 (Cushan, 8).
+  ፫  = stem with a closed bowl at top RIGHT, flared foot. 42v L8 (Tola units, 23).
+  ፩  = rounded box with a top bar. 42r L11 (Joshua units, calibrated 1).
+  ፲  = plain I-beam (serif top and bottom, nothing else). No calibrated instance exists on
+       either leaf; identified by elimination — it is the only tens form left once ፳, ፴, ፵,
+       ፶ and ፻ have their own distinct shapes above.
+
+NUMERALS (15 on the page)
+
+line 1   ፵      = 40   Barak — length of judgeship (years of rest).
+         2nd choice ፴ (30): rejected, the glyph has the descending right stem; the
+         stemless ፴ form of 42r L11 is clearly different. Conf 0.95
+
+line 3   ፯      = 7    Midian ("the men of Midian") — length of oppression.
+         2nd choice ፮/፸: rejected, plain ገ-with-foot identical to L13, L15. Conf 0.95
+
+line 5   ፵      = 40   Gideon — length of judgeship.
+         2nd choice ፴: rejected, stem present. Conf 0.95
+
+line 7   ?      Abimelech — length of rule.
+         INK: a ሃ-shaped glyph: a vertical stem on a wide foot, a hooked arm curling
+         down at top-left, a straight arm rising to top-right; a HAIRLINE only between
+         the two arm tips (the pen travelling, not a drawn bar).
+         Read as ፬ = 4 ........................................ conf 0.40
+         2nd choice ፫ = 3 (previous read, Judg 9:22) ............ 0.30
+           Rejected as first choice because the scribe's own ፫ one line later (Tola
+           units, L8) has a CLOSED bowl at top RIGHT and no left hook; the Abimelech
+           glyph is open, forked, and hooked on the LEFT. Different form.
+         3rd choice ፶ = 50 ....................................... 0.15
+           Tested because the ፶ of 42r L15 is "bar + forked body". Rejected: Othniel's
+           bar is a thick deliberate stroke overhanging the body both sides; here there
+           is only a hairline joining the arm tips, and the body does not cross.
+         4th choice ፴ = 30 (the calibration note's value) ........ 0.15
+           Tested seriously. Rejected on the ink: this scribe's ፴ (42r L11, Joshua 31)
+           is the three-pronged ሠ-body, i.e. a ፵ without the stem. The Abimelech glyph
+           has one stem, two arms and a foot — it shares nothing with that form. If the
+           edition has 30 here, this manuscript does not write it with the ፴ this hand
+           uses elsewhere. FLAG for the caller: I cannot get 30 out of this ink.
+
+line 8   ፳ወ፫    = 23   Tola son of Puah — length of judgeship.
+         ፳: 2nd choice ፴ — rejected, the glyph has the flat top bar and bowl+leg body,
+            matching Moses' ፳ (42r L7) exactly, not the stemless three-prong ፴.
+            Also tested ፶: rejected, the bowl and leg do not cross. Conf 0.9
+         ፫: 2nd choice ፪ — rejected, closed bowl top-right + flared foot, not an I-beam.
+            Conf 0.85
+
+line 11  ፲ወ፪    = 12   Jair the Gileadite (ኢ|ኤል ፡ ገላአዊ) — length of judgeship over Israel.
+         ፲: INK is a plain I-beam, serifs top and bottom, nothing else, same as Samson's
+            first glyph (L23).
+            2nd choice ፳ = 20 (calibration note says 22). Tested hard: this scribe's ፳ is
+            written three times on these two leaves (42r L7, 42r L22, 42v L8) and every
+            time it is the top-bar + bowl + leg form; none is an I-beam. For this to be
+            ፳ the scribe would need a second, unrelated ፳ form used only here and at
+            Samson. Also tested ፶ (bar + crossed body): rejected, no body. Conf 0.6
+            FLAG for the caller: the ink here is the plain bar. If the edition has 22,
+            this witness reads 12 (or the scribe uses two ፳ forms, which I cannot show).
+         ፪: I-beam with a much wider top and bottom bar than the ፲ beside it. 2nd choice
+            ፰ — rejected, no mid-height hook (compare 42r L13). 3rd ፲ — rejected, the
+            wide double bars are not the plain ፲ form and ፲ወ፲ is not a number. Conf 0.6
+
+line 13  ፯      = 7    Jephthah — length of judgeship. (Bible 6; ink is ፯.)
+         2nd choice ፮: rejected, same ገ-with-foot as L3, L15. Conf 0.9
+
+line 15  ፯      = 7    Hesebon = Ibzan — length of judgeship.
+         2nd choice ፮: rejected, same form. Conf 0.9
+
+line 17  ፵      = 40   Philistines over the children of Israel — length of oppression.
+         2nd choice ፴: rejected, stem present. Conf 0.95
+
+line 18  ፵      = 40   Elon the Zebulunite — length of judgeship. (Bible 10; ink is ፵.)
+         2nd choice ፴: rejected, stem present, glyph identical to L17/L20. Conf 0.9
+
+line 20  ፵      = 40   Philistines (second mention) — length of oppression.
+         2nd choice ፴: rejected, stem present. Conf 0.95
+
+line 23  ፲ወ?    Samson — length of judgeship over the people.
+         ፲: plain I-beam, slightly flared, same as L11. 2nd choice ፳ = 20 (the biblical
+            figure, Judg 15:20/16:31): rejected for the same reason as L11 — it is not the
+            scribe's bowl+leg ፳. Tested ፶: no body. Conf 0.6
+         units: INK is a glyph with a rounded hook/bowl at top LEFT running into a stem,
+            and a foot pointing RIGHT — the mirror image of the ፫ at L8.
+            Read as ፮ = 6 (ϛ-shaped, curve-left + foot-right) ..... conf 0.35
+            2nd choice ፰ = 8 (previous read) .......................... 0.30
+              Rejected as first choice because the scribe's ፰ at 42r L13 (Cushan, 8) is
+              an I-beam with a mid hook; this glyph has no I-beam at all.
+            3rd choice ፪ = 2 ........................................... 0.25
+              The identical hook-left form stands at 42r L5 where the sense ("two sons")
+              favours 2; but the ፪ at L11 on this page is a wide-barred I-beam, so taking
+              this as ፪ makes the scribe write ፪ two ways on one leaf.
+            Rejected ፫: mirror image of the L8 ፫.
+            Best value for Samson on the ink: 16; alternatives 18, 12; the biblical 20
+            (፳) is not what is written.
+         The ተ following the units glyph sits outside the red bars and is a letter, not
+         a numeral (as the earlier read said).
+
+NOT NUMERALS
+line 2   The cancelled word (wavy strike-through) contains an I-beam-shaped stroke with
+         black, not red, bars. Part of a struck false start, not a count.
+line 24  The heavy dark sign after ዘንተ ፡ and the ቀቁቀ in a paler hand are unbarred; pen
+         trial / later addition, not numerals.
+
+SUMMARY TABLE (ink → value; second choice)
+  L1  Barak         ፵      40   (፴)
+  L3  Midian        ፯       7   (፮)
+  L5  Gideon        ፵      40   (፴)
+  L7  Abimelech     ፬?      4   (፫ 3; ፶ 50; ፴ 30 — cannot be shown from ink)
+  L8  Tola          ፳ወ፫    23   (፴ወ፫ 33)
+  L11 Jair          ፲ወ፪    12   (፳ወ፪ 22)
+  L13 Jephthah      ፯       7   (፮)
+  L15 Ibzan         ፯       7   (፮)
+  L17 Philistines   ፵      40   (፴)
+  L18 Elon          ፵      40   (፴)
+  L20 Philistines   ፵      40   (፴)
+  L23 Samson        ፲ወ፮?   16   (፲ወ፰ 18; ፳ወ… 26/28/22)
+
+WHERE THIS READ DISAGREES WITH THE CALIBRATION NOTE
+1. Abimelech (L7). The note wants ፴ (30). The scribe's ፴ is the stemless three-prong
+   form (42r L11); the Abimelech glyph is a forked stem on a foot. The ink is a units
+   glyph (፬ or ፫), not a tens glyph, unless this hand has a ፴ form unattested on
+   either leaf.
+2. Jair (L11). The note wants ፳ (22). The scribe's ፳ is the bar+bowl+leg form, used
+   three times including one line above Jair's own figure (Tola). Jair's glyph is the
+   plain bar. I tested ፳ and ፶ and cannot make the ink match either.
+Both disagreements survive the "assume you are biased low" correction because they rest
+on comparing shapes within the same hand, not on my prior for what ፲ or ፫ "should" look
+like. If the calibration values came from a printed edition rather than from this
+manuscript's ink, that is the likeliest source of the gap.

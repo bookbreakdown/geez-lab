@@ -1,0 +1,602 @@
+{
+  "import_date": "2026-10-15",
+  "source_project": "EthiopianCanon.com Ge’ez Lab research workspace",
+  "source_subdirectory": "writable/geez-lab",
+  "source_git_commit": "8cc26ad3",
+  "working_tree_changes_included": true,
+  "note": "Hashes record source bytes before public packaging; current-file hashes are recorded in release-manifest.json. Source commit identifies context, not a clean-tree snapshot.",
+  "files": [
+    {
+      "path": "HANDOVER.md",
+      "sha256_original": "3fe3d03ce9c2dd41dc35d9418eb6703c4bb1031905c89ac62ece3d089ff3de27"
+    },
+    {
+      "path": "SCRIBAL-KEY.md",
+      "sha256_original": "cc19fa521c30691fb6d0d89ad10dd66790e68c0068b02244d8e40c0ff5e8fce9"
+    },
+    {
+      "path": "ab/cross.py",
+      "sha256_original": "29d73437bdb6bc668fc4c4b3ed2d76e667c8055f51e2cd48deb15f5867c2dca1"
+    },
+    {
+      "path": "ab/out-hi-153R.txt",
+      "sha256_original": "7fdc6e857356b48493c519be8fba9a22542e292312d06819fdbe05ee3a9d2b6e"
+    },
+    {
+      "path": "ab/out-hi-154R.txt",
+      "sha256_original": "0736d3fe0d077914b54827c178f4da361bd4f38b054d271a2f52292b04616fde"
+    },
+    {
+      "path": "ab/out-hi-155R.txt",
+      "sha256_original": "4f0e113992c8828a57988267931a16a9f30514299ee26e64aedddc664f02cfe2"
+    },
+    {
+      "path": "ab/out-lo-153R.txt",
+      "sha256_original": "a594cb0ab809a51c35d56831dc5d30e8c653ef39d8b770dd12f64f9317fe775d"
+    },
+    {
+      "path": "ab/out-lo-154R.txt",
+      "sha256_original": "15fe8d0d4f77fea5e74a8bf184b3e6278b8f5f9eb40a48919225fd32a257af5e"
+    },
+    {
+      "path": "ab/out-lo-155R.txt",
+      "sha256_original": "0117976cf08e51c8b8320b19d6e579ea218ceb37569455662eb45967685e6883"
+    },
+    {
+      "path": "ab/score_ab.py",
+      "sha256_original": "cb65b031833c745f02355fd47af0f3278610b75939227bea5cb89659303d0c96"
+    },
+    {
+      "path": "groundtruth/out-41V-opus.txt",
+      "sha256_original": "4db6978ddaa893ce17939552542524891c9d855db3eef8f2be7ce91732f4ccb0"
+    },
+    {
+      "path": "groundtruth/out-41V.txt",
+      "sha256_original": "91548b620b1ec705cb94670d25433d4111486a4f25ff3b8258b21aa2779c1f15"
+    },
+    {
+      "path": "groundtruth/out-42R-calibrated.txt",
+      "sha256_original": "0b70dfa94f71ff0d65e1f24a122938db5dea8d2dee52e48bdc37dbb133133241"
+    },
+    {
+      "path": "groundtruth/out-42R-opus.txt",
+      "sha256_original": "90b78320b2e7ff11ef1b236ec1e0a528d7cd6a2c70050ba1faba6765016f92cf"
+    },
+    {
+      "path": "groundtruth/out-42R-othniel.txt",
+      "sha256_original": "d2040ab0f6f1a754598915309b6d1ea089e9f7fb9fea998227c60b74fc7dee09"
+    },
+    {
+      "path": "groundtruth/out-42R-sonnet.txt",
+      "sha256_original": "c24d8576e66bec83690eb21718f40e79ba98fa4dac2f6ac3e015ce05e84634c5"
+    },
+    {
+      "path": "groundtruth/out-42R.txt",
+      "sha256_original": "3aee2d8fd5711b17a259fd462c4f3d72c0bce67738693b09650a86a78b1d45db"
+    },
+    {
+      "path": "groundtruth/out-42V-calibrated.txt",
+      "sha256_original": "dceda5d47d15037a0fd8426dd84aaf629ad3f0971aa6045ff13f06639a553063"
+    },
+    {
+      "path": "groundtruth/out-42V-opus.txt",
+      "sha256_original": "b9ba1711efb6375c49ef7e3beb7a645e4d017ba3324272494c687222c65327fd"
+    },
+    {
+      "path": "groundtruth/out-42V.txt",
+      "sha256_original": "dc4f286e86ae2512349827d37dfc4bf20ea3af75e5a31ec3f06054dc82a46cc7"
+    },
+    {
+      "path": "groundtruth/out-43R.txt",
+      "sha256_original": "eae98cd62571024b01613700cf8eb3037cfe60e3f0e1678fc2ae3027af45e49a"
+    },
+    {
+      "path": "groundtruth/out-thirty-anchor.txt",
+      "sha256_original": "8ae88c7ccd0f06b65d159a22b103e24e143df81193e9422e283a27fc605e7545"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-156R.md",
+      "sha256_original": "911d38422ad590824b8f22ff4c25997dd5fc52b4f65be6aa25aa2c0dc1b12bfd"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-156V.md",
+      "sha256_original": "c2e50a0b5c2f73d6807aaff307838d7e68a779b6b62a39f802593a8d0eff2ba7"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-157R.md",
+      "sha256_original": "ed4ebebd38632cb45fc0588916704b62c9b7e1367de16c448ff4b2020b69e876"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-157V.md",
+      "sha256_original": "04f0cf6cd880ec35593ff8236222752ab1a304f38e622a4645174e017f94545a"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-158R.md",
+      "sha256_original": "7346ea76730dc8aa3616b8e44b045c10726f7a8612a5638c2361d058b2ae7fd8"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-158V.md",
+      "sha256_original": "2d48985e602d6154d64f22f4c8b3b1f78d0b1f6d38ab5a3bc16b26708844e742"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-159R.md",
+      "sha256_original": "929736bc081792ba10c3e3fe57ff37fce259cc921ba03357c8b13dc58c10d9f1"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-159V.md",
+      "sha256_original": "90427f5ed56871556affe31fdb2ee7c565e38852a597a4da4bb338fa750572b1"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-160R.md",
+      "sha256_original": "07706b8c8353c50a4f28470b5e56aa1cb5d0df5f810bd95ca86a0b79badd4e5d"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-160V.md",
+      "sha256_original": "653b72225dae899ca4d0f78a79c2a668e7a49490a2897815c551422d132c834c"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-161R.md",
+      "sha256_original": "db27ebe21470af524b2f15e5066c982054f3a82f96bf172bdbd238075d5578d3"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-161V.md",
+      "sha256_original": "b4508b5e8eb7be8bfbfe16e48d5f409d5f5aeded01039ad3a514890f93fc412f"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-162R.md",
+      "sha256_original": "fcb8fbfd49435a9b271b6cb73101ec797f3ebb3c7b635e30766efb9404889d4d"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-162V.md",
+      "sha256_original": "f0626ff73b463953388aab91ef404f21c5fc2e60e4026a7561ae1afe8508a871"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-163R.md",
+      "sha256_original": "a5537b11d0c92a69479a4e7574facc1173cc286aeac7da74afbf7c70e85089e8"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-163V.md",
+      "sha256_original": "3d36cb4ec0674fe46e73fc0b0baf9d9db38c7a1830c11514ad80fa3491f0f92d"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-164R.md",
+      "sha256_original": "21bcbfe83e1d5f6e1b902ab850807590bd971692f28cd7f5d6016bfb1ae4e655"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-164V.md",
+      "sha256_original": "e00f41c4ab6ee5991057fe468ec610940c1d4c65ef9652ab95ffd7ad6731b449"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-165R.md",
+      "sha256_original": "ede3a54d597861080f272fddfe5da14136775e1631bba3d3abc3077080a2d0bf"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-165V.md",
+      "sha256_original": "f6fdf06b1bc6ea06a9e4951ffa72bdfe8a5c2d77992462f85eb11d41990dfe5c"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-166R.md",
+      "sha256_original": "9abb19978bb4f415c6e39f7db671dd4e2958e98fd4c0deaa44552cd2b845c525"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-166V.md",
+      "sha256_original": "f0f4f6341d2958772d6e0d0015182f8461657705e4a9e4e446fc65b0f3480864"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-167R.md",
+      "sha256_original": "440fb9f3386bf27b8d9d258c1337513abde7d3969ec85048e857e75c42cdd807"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-167V.md",
+      "sha256_original": "191d742124d9e41b61e13df6204c233092b297c3a740c41c38a3d57ca9a9aede"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-168R.md",
+      "sha256_original": "0eb1f9c6d4b63e46a20005c78366155f7ec2b7f2882be78a577f7974939ddbb5"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-168V.md",
+      "sha256_original": "b15ae4a7d23eca0b197738f89322080ad2f062aae6bcf4935c624624fe58f2e6"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-169R.md",
+      "sha256_original": "c73603229908d9f67bc96bb8cb71d81f704f50d8a434839aeed608b7b5bac3d7"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-169V.md",
+      "sha256_original": "0eaec8c47f029c33b60b0e5311ed1760cbc3c6f60a108dc974515728133b47ce"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-170R.md",
+      "sha256_original": "a298204d6147baa97bb633fc4b6ce04412b9cce82418d8ff2d85f0f4605bd30b"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-170V.md",
+      "sha256_original": "af1ecdc4b04b6cf1bbe91764b54d9a0c6cc3d7532aa502021864293ed2c66ed7"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-171R.md",
+      "sha256_original": "6515993c95aa97dc143b087b0e258a195657139c19dfcaae31498fcae7b16f99"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-171V.md",
+      "sha256_original": "75240f58203a45c30b44b5d0b18b7bcb0a1204a9ac9cb35c4794e4b164b3e88c"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-172R.md",
+      "sha256_original": "9a1bdae01d2662bb27ebac348f3fb2a2d975a6c55053ad9d516978e8c8a18278"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-172V.md",
+      "sha256_original": "f36041b519cdd76fe861e325f671791afca29bd87e2504c9d6a1e1e612337c04"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-173R.md",
+      "sha256_original": "0857f01e9167c310e362bfeabb37d237eec2536c5a2bf8210cb92c519edec5d1"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-173V.md",
+      "sha256_original": "249ecceba2ad8c9322bf7ff80ab2e8cf87c5cce26ac0f1c4a83285affc8a4677"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-174R.md",
+      "sha256_original": "884c86dc447febf86991f38977a32639d5a6a48b7b8ab559a3c7be114b6bf813"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-174V.md",
+      "sha256_original": "3dd82bf6bcc2c2144120625b7024a62162782cef6ee86ff7b9379826baf07218"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-175R.md",
+      "sha256_original": "cf3f8b57b375e4eeab3b85f658d3fc9e28595dfa43debd00068eec5561969cb3"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-175V.md",
+      "sha256_original": "99cbfe2ace9aa3d8501788773cfcce68d1c16e92536e0b1c13c48943532338aa"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-176R.md",
+      "sha256_original": "9b8c86974e152c58a9be32d40332180a32134483d3bfe22d494db14c88bc62aa"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-176V.md",
+      "sha256_original": "a72b8b227812d71b0306d813137c443a56fa6f1b01cf6486389b93fd11cb7c21"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-177R.md",
+      "sha256_original": "51f9ca558a154cda1d60676315b21669584b82c568e34cd6e90e9b2ee2830403"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-177V.md",
+      "sha256_original": "809eb55a850ecd2ca83ad90c67d03bd85ef591c5d25db0993914368f6c5ed013"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-178R.md",
+      "sha256_original": "68e95618b8551c5ae82f571009420a23362490df53aed8addb7cf3a73278bdfa"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-178V.md",
+      "sha256_original": "5b93cf2442784a0720428a9370b3bf058044acdd17c408303d1e741e2600e6f8"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-179R.md",
+      "sha256_original": "34f308ea83bae2582dc8a5bd462d5700bb40f6a468b6c72e906910830fbb696b"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-179V.md",
+      "sha256_original": "f93f4b3f2d87cb6d532dad6dfcda72b63b8521d5e551609b6d5aec80baa10fd5"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-180R.md",
+      "sha256_original": "dc105e8776f5738d7bec0198b0204b5d2a00fe7e2d2b37a5e12c08d1925ffc06"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-180V.md",
+      "sha256_original": "90ec4894e258da0b1ece469a02ba3b3299733124e9e6b6cadd73320e55db8a24"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-181R.md",
+      "sha256_original": "fad0aa656aeee8fb33ea4d2e4ac8344ff93192d9e63db8c9b069ff1bb589eaba"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-181V.md",
+      "sha256_original": "be62aeeff233de5cbdf42085950abf6eb99fbb3dc2c5b89b1dcaca613f689f21"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-182R.md",
+      "sha256_original": "d409c36e80a43bda6b4ccc1351af97674ad67e20e6aab4c432ec9179b907b942"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-182V.md",
+      "sha256_original": "2f652b2e9f82618b6bbffc5dd1c62268545c31b86d84d0eef5b81a2fac2aaebe"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-183R.md",
+      "sha256_original": "5c4d935fdfd2ce8e62e693fe757d5cc864574937c633c6183b5f70008c566f58"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-183V.md",
+      "sha256_original": "b7c436642986a2aab9397e990187a9fc370abf45c192ecadb4cbb60ee96edd39"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-184R.md",
+      "sha256_original": "b1151756abbb65cb7f72e69ae68b6d1fad029fae4bb93878681c744a9cd47019"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-184V.md",
+      "sha256_original": "a46b095b4a3aab277a8c43448e97295739a831ca5157d7a6448d87e0ff35f276"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-185R.md",
+      "sha256_original": "3bf3b9efc4248f9a770150aaa4e812b185436d5fb975273b2d22136e0d5b0fbc"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-185V.md",
+      "sha256_original": "6efb88fff2c38baeb39e77e7d8aad3d3a14c30491b4ea0e90ab34cf5b5cef9ee"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-186R.md",
+      "sha256_original": "ac673647b084cc663ded0a18ccee997f52aa5f31df787eb711bb66049d6e0a03"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-186V.md",
+      "sha256_original": "8c0535b0feecafd70611d296501f9f0cd7fb38217b24bbdd81fe813876c29d23"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-187R.md",
+      "sha256_original": "97e0c03aa13887842e348e662a12516ad2881321665395a781690e92448925d2"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-187V.md",
+      "sha256_original": "8f06d84e7c73e67bebf23b4a88ff3d9d92071d1a5eb724d2788d8d39159e88ea"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-188R.md",
+      "sha256_original": "5148d42db37460ed4839790e62164c8bdc26edfff0bbae3d0316c8d4cfe48e52"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-188V.md",
+      "sha256_original": "81a06b18cd347a0dd75a68c6ded97a7c01961096de9a469239d5f29b0347e066"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-189R.md",
+      "sha256_original": "1f427a0cc3e5ae531ea7f8c8135284be20e9a158d70ce83cb0f642fcdd7891e3"
+    },
+    {
+      "path": "passes/calibrated/MAIX1-189V.md",
+      "sha256_original": "a228019025eeb5df6449a789d503310c1df8aaf9112a5a84ad670c1252bbacee"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-152R.md",
+      "sha256_original": "2ef0ff328352469a55c828fa07cc12376de0bb27512271ebce0da549a0beee58"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-152V.md",
+      "sha256_original": "f99b585d43b50e3cd1359ec2cb00ba4be8fadcfc3794b20eff7a9abf586a6cce"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-153R.md",
+      "sha256_original": "88ad8f2747d6bd5365fdf2a5cd4bf0e6aaa32ed923f67f248c6da5fff83d02d5"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-153V.md",
+      "sha256_original": "e3f259c38de1e2a061cb1cf6b061c7c167273c2d9e0579721363e07185ecc943"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-154R.md",
+      "sha256_original": "c007b3ce0ad937f1be9dd736239a15a343e2f8dbbf985fa15ec88e926a063564"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-154V.md",
+      "sha256_original": "b11cbd3ba7118632c28b5ed9e2bac3adaa84e7821bab4f1d6a3886a747cefefb"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-155R.md",
+      "sha256_original": "2a98a30c5ab61bd7b5c8a1d3d8548c62d0b3fb08140c1fd223bfc0e6d9da3fa5"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-155V.md",
+      "sha256_original": "7745c4b7119e9d72ca5c320a86898ec2cb64c1566ff5873328eb404ae63503ba"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-156R.md",
+      "sha256_original": "3edba38a4175c9970f1acbf0c492718c5f53938239e3250cb38a6646f61f19d8"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-159R.md",
+      "sha256_original": "babc5b1107e7717880c063d1807c3b62c3c10924afd24cd5a413de8d76df1bae"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-159V.md",
+      "sha256_original": "5c4e7732d0e5197b0615a7893e67ca3622c905131b6e0f582fa3e60d03adfd94"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-160R.md",
+      "sha256_original": "941983a992d7d16420572984e12f00fbee35c5b46210a18f3362ac87902ce535"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-160V.md",
+      "sha256_original": "238840945b7856425d2c6cfc2974810560e999b6cd3b3af96c31d2356fa652c4"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-161R.md",
+      "sha256_original": "73677e71ed9d8f25f520e8718fe217e3ae6fa4e240d5792d8c975499fb701a6b"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-161V.md",
+      "sha256_original": "d6197101d69ae84d5428bdeeaafd6efc9f8c7cbe46781e5aef1b131c7ea1de41"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-162R.md",
+      "sha256_original": "a373f6aab252c7289ad562efd6327176bf06756fa2fd8ddc84e6185694b79044"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-162V.md",
+      "sha256_original": "38c04fee1e9046430e1ebc5a293434380efd490d405e0557f4be4b0744c1f11f"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-163R.md",
+      "sha256_original": "a211296ed41d7d3fe75fc24afa59e3326dfe6b1d09d70ccff4cd2cb43323f966"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-165R.md",
+      "sha256_original": "bdcc4c1c4c93c1adc4f9a45e5529efdded812094b331f4768acc6ce2087fa181"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-165V.md",
+      "sha256_original": "f0b2033f8b3ea5dc72f66f746de39733ff32023e5ed9141aca08657cb0e233eb"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-166R.md",
+      "sha256_original": "936fd7b4702d91ac90edb413a589c6e9eafc710e3333dcc8c510c54952af8303"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-166V.md",
+      "sha256_original": "89a0cada77063fa4702a82ac3df259bcd5f0483a713b2fb5023c46fddb26a460"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-167R.md",
+      "sha256_original": "4985e2367ba25a69ab583fe026e5733fababfb91f9040ded8e1076d321709e63"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-167V.md",
+      "sha256_original": "daf0ec6bfa3c83a6cf6c1d8366a6b7c77f716769fb58f4f6722a41cae02b527e"
+    },
+    {
+      "path": "passes/chatgpt/MAIX1-168R.md",
+      "sha256_original": "de0a3dd55022cdf8305414c92e788d94b01f27cffc5c7dbf64bbe3751103aed5"
+    },
+    {
+      "path": "passes/chatgpt-high/MAIX1-153V.md",
+      "sha256_original": "ae36c91359979b5ae11a81df19d515e66f4b8944462a55d0407c9f56de312ca0"
+    },
+    {
+      "path": "passes/claude/MAIX1-152R.md",
+      "sha256_original": "3800b58dc90b46e0c82dd649be37f9aec52701e78015520a32b022463c4137fe"
+    },
+    {
+      "path": "passes/claude/MAIX1-152V.md",
+      "sha256_original": "7549f1cfd87a931968f1f203569727cf5070ea7e81c8280c21e72440c196260f"
+    },
+    {
+      "path": "passes/claude/MAIX1-153R.md",
+      "sha256_original": "9fd532229eb32241d2d3ecc454f34e5a432777471981cfba6d1efbb193363e6e"
+    },
+    {
+      "path": "passes/claude/MAIX1-153V.md",
+      "sha256_original": "263a885d3e6a94cb9ccad2b747f6397e8c2d85a853df7152c858e6c53a95618a"
+    },
+    {
+      "path": "passes/claude/MAIX1-154R.md",
+      "sha256_original": "066e32cae25a2dd6c2ae5ec652b90c4bac35e53dfd14a108116a234f7c9bdc77"
+    },
+    {
+      "path": "passes/claude/MAIX1-154V.md",
+      "sha256_original": "cb90facdc953582098380400977853a56530c4e0e1de3022395049fe1aa99d69"
+    },
+    {
+      "path": "passes/claude/MAIX1-155R.md",
+      "sha256_original": "fcdd2204b398b84e895de213c0507965c486ecb99bd89646a498ad2844a0df6c"
+    },
+    {
+      "path": "passes/claude/MAIX1-155V.md",
+      "sha256_original": "ce32235f21351d157267501639ea35777b0c6d33b862cda37c60482da63d9b4d"
+    },
+    {
+      "path": "passes/claude/MAIX1-156R.md",
+      "sha256_original": "ecca54168d6602742c75b2bc5b2f489b7284a6e97decc48a6be0af4c97d9e06b"
+    },
+    {
+      "path": "passes/claude/MAIX1-156V.md",
+      "sha256_original": "731b8a3765ae84c31c8b74b31d03e08c1d6c389ab9e7dd812a420c7a0d534b1c"
+    },
+    {
+      "path": "passes/claude/MAIX1-157R.md",
+      "sha256_original": "cb8fce26a74253a6789961521bb89e7e9a3cb1fa9622611321f42d22b2cd8c5c"
+    },
+    {
+      "path": "passes/claude/MAIX1-157V.md",
+      "sha256_original": "03c615bbe5c4690100fb4219b2af953da70de136440618ca50626f90190b2de7"
+    },
+    {
+      "path": "passes/claude/MAIX1-158V.md",
+      "sha256_original": "712bdf552c9fdca3b13b229bc41c7965c2618b50ca5a27d39ab2690533197adf"
+    },
+    {
+      "path": "passes/claude/MAIX1-159R.md",
+      "sha256_original": "2a7910a1fab869bcd55a31ca5cc9107dcc372fec119c376a850a8d7115280eff"
+    },
+    {
+      "path": "passes/claude/MAIX1-162R.md",
+      "sha256_original": "d436e60d1d680b64ea349bd0f2fbcb2cc8854617a2248ebd19535501b53a1c5d"
+    },
+    {
+      "path": "passes/claude/MAIX1-162V.md",
+      "sha256_original": "7a0ba0598f9c142ea0fa15f34bfe01a9f569de8254f3b0cc7ab117f45b242c03"
+    },
+    {
+      "path": "passes/claude/MAIX1-163R.md",
+      "sha256_original": "11dcc0115a7df2dd7353937f61f435ebc055c23c0aafb45dc776abcbf041baa6"
+    },
+    {
+      "path": "passes/claude/MAIX1-163V.md",
+      "sha256_original": "2918dacd841ffe9db566ed76869838b3caddd2e98dabc5b6affe228c113352e0"
+    },
+    {
+      "path": "passes/claude/MAIX1-164R.md",
+      "sha256_original": "2aee2bbc30f2c3a93f71fc0c9b6bae19899348dd98e7fad58dfe7e75a6d67ba3"
+    },
+    {
+      "path": "passes/claude/MAIX1-165V.md",
+      "sha256_original": "c1191390fcc59d9a8bc920338bc9504da95fe809fbdd72d847c89cc05808f609"
+    },
+    {
+      "path": "passes/claude/MAIX1-168R.md",
+      "sha256_original": "92be7c12aefc4a607f8a880f89f27e44eca4baff8db3d887d061ebf9843b3972"
+    },
+    {
+      "path": "reconcile.py",
+      "sha256_original": "7e60579290e1a4e58e2bcf2b83d9682ccaa79483c1944b7333f97f287c4f5367"
+    },
+    {
+      "path": "reconciled/MAIX1-152R.md",
+      "sha256_original": "75983bf67d6dc3c1c2838586532bcccef19aa8fac31404ad43698bf537699d39"
+    },
+    {
+      "path": "reconciled/MAIX1-152V.md",
+      "sha256_original": "b5294fbaf66f8e64b4e5cbd35d9c9de0921c152bb354c260db29a0f55b14b4f9"
+    },
+    {
+      "path": "reconciled/MAIX1-153V.md",
+      "sha256_original": "24d3efd1016f7456d0ed22c6a520bdc6c6a80d66e015a4bffcff3cbef4081dbf"
+    },
+    {
+      "path": "reconciled/MAIX1-154R.md",
+      "sha256_original": "2c240d77e71903f68c84fb2dab5a6f7f0176c236cd6150badb55e56b7383bf77"
+    },
+    {
+      "path": "reconciled/MAIX1-154V.md",
+      "sha256_original": "244758cf5286449f734c4e5c0a36921f5f279294a77265dc1463a7a7ce4f8552"
+    },
+    {
+      "path": "reconciled/MAIX1-155R.md",
+      "sha256_original": "a843d41a090b0ee27cd2e53183699ce1fe7fb51c5a4adb715737b255bce2f915"
+    },
+    {
+      "path": "reconciled/MAIX1-155V.md",
+      "sha256_original": "0ca13f7173d4486147ffb820a00b4fda324ac1a6b328e7c59239c46deddf776e"
+    },
+    {
+      "path": "reconciled/MAIX1-162R.md",
+      "sha256_original": "0baca42d7cbfdd260d5db81b7f472426ffdf815ff3f63821d3ead1dd87f26c5b"
+    },
+    {
+      "path": "seams.py",
+      "sha256_original": "b2f3cbdac9fd79db9ddf79529687a022f2044868035f0d23fb920684ea83b47e"
+    },
+    {
+      "path": "tgrep.py",
+      "sha256_original": "ad32852f30016f760066f63be054101c7d1bb5f5685234c078b0e1d392f76b56"
+    }
+  ]
+}

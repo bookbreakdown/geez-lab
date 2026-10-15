@@ -1,0 +1,39 @@
+MAIX1-155R
+LINES: 24
+1. ይ፡ወያሠርቅ፡ፀሐየ፡እንተ፡ም
+2. ዕራብ፡ወወርኅኒ፡መንገለ፡ኤ
+3. ላም።ውእተ፡አሚረ፡ይተነሣ
+4. እ፡ዘብሎን፡ወንፍታሌም፡ንኪሣ
+5. ደ፡ታነውኅ፡ወቀፍርናሆም፡
+6. ተትማኪህ፡ዘብሎን፡ወንፍታ
+7. ሌም፡ይትሐሠዩ፡ኮራዚ፡ወቢ
+8. ተ፡ሳይዳ፡እስመ፡ያመስላሁ፡
+9. ለዝ፡ብእሲ፡ክርስቶስ፡ወሶ
+10. በ፡ርእያ፡ምግባሮ፡ኢያተሐፈ
+11. ሩ፡እስመ፡ኢኮነ፡ርቱዓ፡ዘይ
+12. ሬኢ፡አላ፡ኵሎ፡ግብሩ፡በአድ
+13. ልዎ።ውእተ፡አሚረ፡ይከልዕ
+14. እግዚአብሔር፡ዝናመ፡እምስ
+15. ማይ፡ወይከውን፡ቤተ፡ክርስ
+16. ት፡ወተተርፍ፡ምድር፡ባሕቲ
+17. ታ፡እግበለ፡ጠል፡ወአውል፡ወ
+18. ይከውን፡ዝናመ፡ምድር፡ቀባ
+19. ሬ፡ወአውሎ፡ወአንቀዕተ፡ማ
+20. ይኒ፡ኢይሁብ፡ነቀዓ፡ማይ፡ወ
+21. ባሕር፡ይከውን፡የብስ፡ወየ
+22. ሐድራ፡እማንቱ፡መዋዕል፡እኩ
+23. ያት፡በከመ፡ነገረ፡በወንጌል
+24. ወሰበ፡ኢሐፀራ፡እማንቱ፡መ
+NOTES:
+- Line 3 and 13: the sentence separator is written as two stacked ፡ pairs; transcribed as ።.
+- Line 4 end / 5 start: ንኪሣ|ደ — the first glyph of the group could be ነ rather than ን; the whole word is uncertain.
+- Line 5: ታነውኅ — the third glyph could be ዉ; the fourth read as ኅ.
+- Line 6: ተትማኪህ — first glyph could be ት, third could be ጫ rather than ማ.
+- Line 7: ይትሐሠዩ — second glyph ተ/ት ambiguous; ኮራዚ read on shape (Chorazin), first glyph could be ኵ.
+- Line 8: ያመስላሁ — the ላ could be ሉ; the ሁ before the separator is odd and may be a different letter.
+- Line 10: ኢያተሐፈ — second glyph ያ/የ ambiguous.
+- Line 13: ይከልዕ — final glyph could be እ (expected ይከልእ) but the ink shows the ዕ form.
+- Line 17: እግበለ — second glyph looks like ግ not ን; expected form would be እንበለ, left as seen.
+- Line 20: ነቀዓ — second glyph read as ቀ; could be ቅ.
+- Line 22: ሐድራ — read from ink; uncertain whether first glyph is ሐ or ሓ.
+- Line 24: ወሰበ — ሰ could be ሶ.

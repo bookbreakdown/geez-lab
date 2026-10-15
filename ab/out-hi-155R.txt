@@ -1,0 +1,42 @@
+MAIX1-155R
+LINES: 24
+1. ዩ፡ወያሠርቅ፡ፀሐየ፡እንተ፡ም
+2. ዕራብ፡ወወርኅኒ፡መንገለ፡ኢ
+3. ላም።ውእተ፡አሚረ፡ይተነሣ
+4. እ፡ዘብሎን፡ወንፍታሌም፡ኅሣ
+5. ዴ፡ታኑውፋ፡ወቀፍርናሆም፡
+6. ትትሚካህ፡ዘብሎን፡ወንፍታ
+7. ሌም፡ይተሐሠዩ፡ኵራዙ፡ወቤ
+8. ተ፡ለይዳ፡እስመ፡ያመስሉሁ፡
+9. ለዝ፡ብእሴ፡ክርስቶስ፡ወሶ
+10. በ፡ርእያ፡ምግባሮ፡ኢይትሐፈ
+11. ሩ፡እስመ፡ኢኵነ፡ርቱዓ፡ዘይ
+12. ሬኢ፡አለ፡ኵሉ፡ግብሩ፡በአድ
+13. ልዎ።ውእተ፡አሚረ፡ይከልዕ
+14. እግዚአብሔር፡ዝናመ፡እምስ
+15. ማይ፡ወይከውን፡ቤተ፡ክረም
+16. ት፡ወተተርፍ፡ምድር፡ባሕቲ
+17. ታ፡እንበለ፡ጠል፡ወአውል፡ወ
+18. ይከውን፡ዝናመ፡ምድር፡ቀባ
+19. ሪ፡ወአውሎ፡ወአንቀዕተ፡ማ
+20. ይኒ፡ኢይሁሉ፡ነቀዓ፡ማይ፡ወ
+21. ባሕር፡ይከውን፡የብስ፡ወየ
+22. ሕጅራ፡እማንቱ፡መዋዕል፡እኩ
+23. ?ት፡በከመ፡ነገረ፡በወንጌል፡
+24. ወሰበ፡ኢሐፀራ፡እማንቱ፡መ
+NOTES:
+- Line 1, first glyph: read as ዩ; there is an ink-offset smudge immediately to its right (mirror trace from the facing page), not a letter.
+- Line 2, last glyph: ኢ as written (the hook is on the left leg). Line 3 continues ላም, giving ኢላም; not normalised.
+- Lines 3 and 13: the scribe's sentence stop is two spaced ፡ pairs; written as ። here.
+- Line 4, ኅሣ / line 5, ዴ: ኅ could be ኀ (the top-right tick is small); ዴ read from a curl at the bottom right of ደ.
+- Line 5, ታኑውፋ: least certain word on the page. Second glyph ኑ (could be ነ/ኖ), fourth glyph ፋ (could be ፍ/ፉ). Meaning not recognised; transcribed as seen.
+- Lines 7, 11, 12: the ከ-glyph with a small ring low on the right leg is written ኵ throughout (standard for ኵሉ in 12). In 7 (ኵራዙ, presumably Chorazin) and 11 (ኢኵነ) the same shape is used where ኮ would be expected; it could equally be ኰ. Not normalised.
+- Line 7, ወቤ / line 15, ቤተ: ring at bottom right of በ, read ቤ (not ቢ).
+- Line 8, ለይዳ: two-legged glyph, read ለ (not ሳ). ያመስሉሁ: fourth glyph read ሉ (foot to the right at base), could be ላ.
+- Line 13, first glyph: ል, but the lower left is obscured by ink offset; ሊ not excluded.
+- Line 20, ኢይሁሉ: second glyph has a mid-height right stroke, so ሁ rather than ሀ.
+- Line 22, first two glyphs ሕጅ: the first is ሐ with a bent right leg (ሕ); the second is ደ-shaped with a top-left tick, read ጅ, but ድ with a flourish is possible.
+- Line 22, last glyph: ኩ (plain mid-right stroke, no ring).
+- Line 23, first glyph: heavily smudged by ink offset; shape suggests ያ (word would be እኩያት across the line break) but not legible, left as ?.
+- Line 23, ነገረ: third glyph read as plain ረ; a small blob at its foot could make it ሬ.
+- Line 24, ወሰበ: plain three-legged ሰ with no upstroke, so ሰ not ሶ; not normalised.

@@ -1,0 +1,312 @@
+================================================================================
+Ma IX 1 (Tübingen), f. 42r — FOCUSED RE-READ OF ONE NUMERAL
+Qalementos, Judges chronology: the years of Othniel son of Kenaz
+Image: groundtruth/images/MAIX1-c089-full.jpg  (3560 x 5000)
+Read 2026-09-17. No witness, no edition, no expected value supplied to the reader.
+Method: crop / magnify / side-by-side only. No font rendering, no OCR, no matching.
+================================================================================
+
+VERDICT UP FRONT
+----------------
+The sign is  ፳  =  TWENTY.
+The page reads: Othniel son of Kenaz, brother of Caleb — **20 years**.
+
+It is NOT ፵ (40) and NOT ፴ (30). Both are excluded by a positive visible
+feature, not by silhouette. 50 cannot be excluded by the anchor table (which has
+no ፶ shape) but IS excluded by the sign's own attested compounds on this folio.
+
+Confidence in the SIGN IDENTITY (this glyph = the glyph at 42r ll.7 and 22):
+  high — reading, not inferring.
+Confidence in the VALUE (that sign = 20):
+  high, but inherited from SCRIBAL-KEY.md's triple anchor, not re-derived here.
+
+
+--------------------------------------------------------------------------------
+1. LOCATING THE FIGURE — THE SURROUNDING TEXT
+--------------------------------------------------------------------------------
+Located by reading, not by line number. Counting from the top of the written
+block, the figure falls on the 15th line, but the locating evidence is the text.
+
+  line 14:  ወእምድኅሬሁ ፡ ጐቶንያል ፡ ወልደ ፡
+            "and after him, Gothonyal (Othniel), son of"
+
+  line 15:  ቄኔዝ ፡ እኂሁ ፡ ለካሌብ ፡ 【FIGURE】 ቃመት ፡
+            "Kenaz, his brother — of Caleb — [N] years"
+
+  line 16:  ት ፡ ወእምድኅሬሁ ፡ ተቀነዩ ፡ …
+            "…and after him they were subjected…"
+
+Transcription notes (ink, not normalised, per the key):
+  - ጐቶንያል  = LXX Γοθονιηλ, Othniel. Line 14, immediately before the break.
+  - እኂሁ    for standard እኁሁ. This hand marks ኀ third order with the ኢ-style
+             left-curl (SCRIBAL-KEY.md, "Letterforms that collide"). There is a
+             brown ink blot over the second glyph of this word; the word is
+             still legible from its frame and from the ሁ that follows.
+  - ቃመት    = ዓመት "years". This hand's ዓ is drawn as a 9-shaped bowl that reads
+             as ቃ at any magnification; ቃመት is how "years" is written in every
+             chronology entry on this folio (ll. 7, 8, 9, 11, 13, 15, 18, 22).
+             Transcribed as inked.
+  - The figure stands ALONE between the word divider and ቃመት. Verified on a
+     760 px wide context crop (42R-othniel-context-4x.png): there is no second
+     barred sign before or after it, and no ወ-conjunction compound. It is a bare
+     tens figure with no unit — unlike l.7 (፻ወ፳) and l.22 (፳ወ፯).
+
+Sequence check, which confirms the slot is Othniel's:
+     l.13  ኵንኖሙ ፡ ፰ ቃመት        Cushan-Rishathaim, 8 years
+     l.15  [TARGET]              Othniel  ← the target
+     l.18  ፲፰ ቃመት                Eglon, 18 years
+Cushan before, Eglon after. This is Othniel's figure.
+
+
+--------------------------------------------------------------------------------
+2. MORPHOLOGY OF THE SIGN (at 10x — 42R-othniel-fig-8x.png, stack-tens.png)
+--------------------------------------------------------------------------------
+Bounding bars — checked first, per the most load-bearing rule in the key:
+  - ABOVE: a thin ruled bar with a filled orange terminal at each end.
+  - BELOW: a thin ruled bar with a filled orange terminal at each end.
+  Both present. This is a numeral, not a letter. The orange terminals here are
+  flat blobs on the ends of a bar, NOT the eight-point orange/black rosettes
+  that punctuate this page (those appear at l.12 left margin, l.13 end, l.18
+  mid-line, l.22 mid-line and are decoration/punctuation).
+
+The glyph itself, top to bottom:
+  - A heavy horizontal CAPPING BAR, drawn as part of the letter in black,
+    distinctly wider than the body and OVERHANGING it on BOTH sides. The left
+    overhang is a flat wing about a third of the body width; the right overhang
+    is a slightly thicker wing that rises very faintly at its tip.
+  - From under the middle of that bar the body hangs as TWO STROKES ONLY:
+      * left stroke: thinner, leaves the bar near-vertically then bows outward
+        to the left as it descends, ending in a small leftward flare at the foot;
+      * right stroke: heavier, broader, descends with a mild outward splay to the
+        right, ending in a blunt squared foot.
+    The two strokes MEET at the top, under the bar, forming a narrow neck — the
+    counter is closed above.
+  - COUNTER: a single pear / teardrop aperture, narrow at the top neck, widest
+    at the bottom, its long axis vertical, tilted very slightly left. Clean
+    parchment inside, no ink bridge.
+  - BASELINE: a thin horizontal hairline runs between the two feet and closes
+    the counter at the bottom, projecting a short way to the LEFT of the left
+    foot. The counter is therefore closed all round.
+  - NOTHING descends below the baseline. No stem, no tail, no foot-hook,
+    no third prong, no mid-stroke, no ring, no tick.
+
+Summary silhouette: capping bar with wings, over a closed two-legged arch.
+Exactly the key's "bar + bowl + leg" for ፳, seen closely.
+
+
+--------------------------------------------------------------------------------
+3. VALUE, SECOND CHOICE, AND WHAT SEPARATES THEM
+--------------------------------------------------------------------------------
+VALUE:         ፳  = 20
+SECOND CHOICE: ፶  = 50   (see §4 — no visible feature separates these two; the
+                          separation is by the sign's own compounds)
+
+THIRTY and FORTY are both excluded by a POSITIVE VISIBLE FEATURE, which is the
+thing the documented low-tens failure is supposed to be guarded by:
+
+  PRONG COUNT.  SCRIBAL-KEY.md describes BOTH ፴ and ፵ as "three-pronged" —
+  they are one family, separated from each other only by the descending right
+  stem. The target has TWO strokes, not three. It never enters that family, so
+  the 30/40 discrimination does not even have to be run.
+
+  Counted directly at 10x, and against the page's own ፵ at ll.8 and 9:
+     ፵ at l.8  — left block, V-notch, middle peak, second notch, right stroke
+                 that DESCENDS WELL BELOW THE BASELINE and ends in a foot.
+                 Three prongs, one descender. (42R-othniel-stack-tens.png,
+                 bottom-right panel.)
+     TARGET    — bar, two strokes, one closed counter, feet joined, no descender.
+  These are not variants of one sign. They share no stroke sequence.
+
+POSITIVE identification, not merely negative — this is what settles it:
+  The target is the SAME SIGN, stroke for stroke, as two other figures on this
+  same folio, same pen, same sitting, whose values are fixed by the companion
+  signs they stand with:
+
+     42r l.7   ፻ ወ 【SAME SIGN】 ቃመت     = 120   (bowl=100, conj. ወ, sign)
+     42r l.22  በ 【SAME SIGN】 ወ ፯ ቃመት   = 27    (sign, conj. ወ, ገ-with-foot=7)
+     42r l.15  【TARGET】 ቃመት             = the figure under examination
+
+  Stacked at identical 10x magnification in
+  crops/42R-othniel-stack-tens.png (top-left = target, top-right = l.7,
+  bottom-left = l.22, bottom-right = the l.8 ፵ for contrast).
+  All three arch-forms show: overhanging capping bar; two-stroke body; closed
+  pear counter; joined feet; no descender. The only differences are pen
+  variation — the l.22 example has a longer bar and a rounder, more oval
+  counter; the l.7 example has a slightly heavier foot bar. The l.7 and l.22
+  signs stand inside compounds that make them tens digits, and the value that
+  makes both compounds work is 20.
+
+  In 120 the sign is the tens digit after ፻. In 27 it is the tens digit before
+  ፯. 120 and 27 are the values SCRIBAL-KEY.md anchors for those two lines
+  (against d'Abbadie 78 via Grébaut). I did not re-derive them; I verified that
+  the SIGN in them is the same sign as my target.
+
+THE STRONGEST INTERNAL ARGUMENT, and it is witness-free:
+  **This scribe writes ፵ elsewhere on this very page — three times.**
+  ll.8 and 9 each carry a barred ፵ ("40 years"), and l.23 carries ፵፻ in
+  "ተፈጸመ … ፵፻ እም ፍጥረተ [ዓለም]" — 4000 years completed from the creation of the
+  world. So the ፵ form was in the pen, in this sitting, within seven lines
+  above and eight lines below the target, and it looks nothing like the target.
+  The l.15 figure is not a badly-made ፵. It is a different sign the same hand
+  makes a different way, repeatedly, on the same leaf.
+
+WHAT THIS MEANS, stated plainly because it is the point of the exercise:
+  Judges 3:11 gives Othniel FORTY years. **This manuscript does not.** It gives
+  the 20-sign. That is a real divergence in the ink, not a reading artefact, and
+  it survives every check I can run on the page. Qalementos is not the Masoretic
+  text and is entitled to disagree; what matters here is that the disagreement
+  is IN THE INK and is not the documented low-tens bias, because the low-tens
+  bias operates inside the three-pronged family and this sign is outside it.
+
+
+--------------------------------------------------------------------------------
+4. CAN 50 BE EXCLUDED?
+--------------------------------------------------------------------------------
+NOT BY THE TABLE. SCRIBAL-KEY.md §"GAP IN THE ANCHOR TABLE" is correct and the
+gap is real: there is no recorded shape for ፶ in this hand, so no shape test can
+reject 50. I want to be explicit that I did not invent one. I also note a second
+gap the key half-conceals: **፴ has no anchor either** — its anchor cell in the
+table is EMPTY, and its "three-pronged, stemless" description is an inference by
+analogy from ፵, not an observation. Of the tens, only ፲, ፳ and ፵ are anchored.
+
+EXCLUDED BY THE SIGN'S OWN COMPOUNDS, which is a different and better test:
+  The target sign is the same sign that stands as the tens digit in 42r l.7 and
+  42r l.22. If it were 50, those two lines would read 150 and 57. Per the key
+  the same sign on 42v l.8 gives Tola son of Puah 23 years, which is Judges 10:2
+  verbatim — a scriptural anchor, and the key records that our own English
+  edition independently reads twenty-three there. On a reading of 50, Tola
+  becomes 53 and contradicts scripture on a folio that otherwise tracks Judges
+  entry by entry. Three compounds, one consistent value, and one of them
+  scripturally anchored. 50 is excluded.
+
+  Honest accounting: that exclusion is inherited, not re-derived. My own
+  page-local, witness-free contribution is (a) the sign identity across ll.7,
+  15 and 22, and (b) the exclusion of the entire three-pronged family. The step
+  from "this arch sign" to "the value 20" rests on the key's anchors.
+
+FOR THE RECORD — no third tens shape exists on this folio. Every barred figure
+on 42r was examined. The inventory is:
+     l.7   ፻ ወ ፳            = 120
+     l.8   ፵                = 40
+     l.9   ፵                = 40
+     l.11  two figures (three-pronged + an I-beam-with-bowl form; not re-read
+           here, outside the brief)
+     l.13  ፰                = 8    (Cushan)
+     l.15  ፳                = 20   ← TARGET
+     l.18  ፲ ፰              = 18   (Eglon; this is the pair earlier misread as
+                                     108 by taking the ፲ I-beam for a ፻ bowl)
+     l.21  one figure (not re-read)
+     l.22  ፳ ወ ፯            = 27
+     l.23  ፵ ፻              = 4000 (from the creation of the world)
+Only three tens forms occur: the I-beam (፲), the arch (፳), the three-pronged
+descender (፵). There is no fourth, unassigned tens shape on this page that
+could be a ፶ waiting to be anchored.
+
+
+--------------------------------------------------------------------------------
+5. THE ON-PAGE CONTROLS
+--------------------------------------------------------------------------------
+Two controls were built, both from THIS page, THIS pen, THIS sitting, and both
+stacked with the target at identical magnification.
+
+CONTROL A — the letter ብ of ለካሌብ, the word immediately before the figure.
+  crops/42R-othniel-control-bet-vs-fig.png   (left = ብ, right = target, 10x)
+  Chosen because it is the nearest silhouette on the page — bar over two legs
+  over a counter — and because it sits four glyphs from the target, so pen
+  pressure, ink load and rule spacing are identical.
+  WHAT IT SHOWED, four separators, all visible:
+    (i)   the ብ has NO bounding bars; the target has both. Decisive on its own.
+    (ii)  the ብ's top bar is FLUSH with its two verticals — it does not overhang.
+          The target's capping bar overhangs on both sides.
+    (iii) the ብ's two strokes are PARALLEL and vertical; the target's SPLAY
+          outward from a neck.
+    (iv)  the ብ's counter is rectangular and OPEN at the bottom — the two legs
+          stand separately on the line. The target's counter is a closed pear,
+          shut by a hairline joining the feet.
+  The control's real value is the reverse direction: it proves I can resolve
+  splay, overhang and foot-closure at this magnification, which are the same
+  three features the ፳-identification rests on.
+
+CONTROL B — the letter ሠ of ንጉሠ ("king"), line 17, two lines below the target.
+  crops/42R-othniel-control-sawt-vs-40-vs-fig.png
+  (left = ሠ letter, centre = ፵ numeral from l.8, right = target, all 10x)
+  This is the control the three-pronged trap actually calls for.
+  WHAT IT SHOWED:
+    - ሠ: three prongs, all three feet ON the baseline, flat-bottomed,
+      no descender, NO bounding bars.
+    - ፵: the same three-pronged skeleton, but the right prong DESCENDS WELL
+      BELOW the baseline and ends in a foot, and the whole sign is bar-bounded
+      above and below.
+      So the ሠ letter is the exact silhouette the key warns ፴ would present,
+      and putting it beside the ፵ shows precisely what the descending stem adds.
+      This is the 30/40 discriminator, demonstrated on the page rather than
+      quoted from the table.
+    - TARGET: two strokes. It does not belong to either. The discriminator was
+      never needed, and reaching for it — matching "three-pronged" and then
+      arguing about the stem — is how this figure would have been read as a
+      tens value in the 30/40 band that it plainly is not.
+
+
+--------------------------------------------------------------------------------
+6. CONFIDENCE — AND WHERE I AM READING vs INFERRING
+--------------------------------------------------------------------------------
+READING (from the ink, high confidence):
+  - The figure carries bounding bars above and below. It is a numeral.
+  - It stands alone, with no adjoining sign and no ወ-compound.
+  - Its body has TWO strokes, a closed pear counter, joined feet, an overhanging
+    capping bar, and nothing below the baseline.
+  - It is the same sign as the tens digit at 42r l.7 and at 42r l.22.
+  - It is NOT the sign written at 42r ll.8, 9 and 23, which this same scribe
+    wrote three times on this same leaf.
+  - The surrounding text is the Othniel entry, bracketed by Cushan (l.13, 8) and
+    Eglon (l.18, 18).
+
+INFERRING (declared as such):
+  - That the arch sign carries the value 20. This rests on SCRIBAL-KEY.md's
+    anchors for l.7 (=120), l.22 (=27) and 42v l.8 (Tola 23 / Judges 10:2), not
+    on anything I verified from an independent witness.
+  - That ፴ would look like the ሠ silhouette with bars. The key says so; the
+    table's ፴ cell is empty, so this is the key's inference, and I am passing it
+    on labelled. It does not affect the verdict, since the target is outside
+    that family either way.
+
+I am NOT refusing a value. The ink supports one and supports it well: the sign is
+formed cleanly, is undamaged, is repeated twice more on the folio in contexts
+that fix its value, and is contrasted three times on the folio with the sign it
+would have to be mistaken for.
+
+THE ONE THING THAT WOULD OVERTURN THIS: an anchored ፶ shape that turns out to be
+a bar-over-closed-arch. That is the live risk and it is the same gap found
+yesterday. Until a ፶ is anchored somewhere in this manuscript, this reading —
+and every tens reading in this hand — carries that single residual exposure, and
+the honest form of the claim is: **the Othniel figure is the 20-sign; the 20-sign
+is 20 on three compounds including one scriptural anchor; and no ፶ shape is on
+record to contest it.**
+
+RECOMMENDED ADDITION TO SCRIBAL-KEY.md (not applied — not my call):
+  ፳ deserves a fuller shape description than "bar + bowl + leg", which under-
+  describes it and is what let an arch be confused with a three-pronged form.
+  Proposed: "overhanging capping bar over a TWO-stroke splayed arch; counter a
+  closed pear, widest at the bottom; feet joined by a hairline; nothing below
+  the baseline. Two strokes, never three." And ፴'s empty anchor cell should be
+  marked UNANCHORED in the same way ፶ now is.
+
+--------------------------------------------------------------------------------
+CROPS PRODUCED (groundtruth/crops/)
+--------------------------------------------------------------------------------
+  42R-othniel-page.png  (scratchpad)      full page, orientation
+  42R-othniel-line14-strip.png            line 14, the Othniel name
+  42R-othniel-line15-strip.png            line 15, the target line
+  42R-othniel-fig-8x.png                  target at 8x, bars visible
+  42R-othniel-lines7to9.png               the ፻ወ፳=120 and the two ፵
+  42R-othniel-lines11to13.png             Cushan ፰
+  42R-othniel-lines16to18.png             the ሠ of ንጉሠ, and Eglon ፲፰
+  42R-othniel-lines22to23.png             ፳ወ፯=27, and ፵፻=4000
+  42R-othniel-montage-A.png               target vs ፳ vs ፵ vs ፵ at 6x
+  42R-othniel-stack-tens.png              4-up at 10x — the decisive comparison
+  42R-othniel-context-4x.png              target in running text, single sign
+  42R-othniel-control-bet-vs-fig.png      CONTROL A — ብ vs target at 10x
+  42R-othniel-control-sawt-vs-40-vs-fig.png CONTROL B — ሠ vs ፵ vs target at 10x
+  42R-othniel-l17-sawt-hunt.png           locating the ሠ
+  42R-othniel-control-sawt.png            (misfired first attempt at CONTROL B)
+================================================================================

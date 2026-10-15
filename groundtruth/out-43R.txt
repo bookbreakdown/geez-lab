@@ -1,0 +1,314 @@
+MA IX 1, f.43r — NUMERAL READ
+Tuebingen Ma IX 1, Qalementos Book One. Read 2026-09-17, Opus, no tooling,
+crops only (crops/43R-*). 24 lines, single column.
+
+=====================================================================
+0. HEADLINE
+=====================================================================
+Six numeral positions on the page, seven signs. FOUR of them are the
+three-pronged tens sign with a descending right stem. They count Eli,
+Saul and David, and every one of them lands ON the received chronology
+(40 / 40 / 40), not under it.
+
+This page does NOT run low.
+
+=====================================================================
+1. THE NUMERALS
+=====================================================================
+Every sign below carries bounding bars ABOVE AND BELOW (red-tipped, dark
+core). I checked both bars on every one; none is promoted from a letter.
+
+-- L1, sign 1 ------------------------------------------------- 10
+glyph      plain serifed I-beam. Cap bar, waisted stem, foot bar.
+           NO bowl, NO mid-stroke, NO counter, nothing below baseline.
+value      10 (Ethiopic 10)
+counts     the tens of the compound 17 below
+2nd choice 8 (Ethiopic 8, the mid-hooked I-beam)
+separator  the mid-hook. There is none: the stem is clean between cap
+           and foot, only the pen-waist narrowing. Also no bowl, which
+           rules out the 100 sign.
+instrument anchor table (10 = "plain serifed I-beam, no bowl"),
+           cross-checked against the Greek rule (iota vs eta).
+confidence HIGH
+crop       43R-L1-numcand-4x.png, 43R-montage-units.png panel 1
+
+-- L1, sign 2 -------------------------------------------------- 7
+glyph      Zeta/"ge-with-a-foot": top bar running right to a point, a
+           small triangular counter under it, a diagonal falling to the
+           left, a bottom bar ending in a square foot bottom-right.
+value      7
+counts     the units of the compound 17
+2nd choice 6 (stigma)
+separator  the top stroke is straight, not curled. The key records the
+           6/7 question as CLOSED for this hand by the 41v l.5
+           scriptural anchor (Solomon's 700 wives, 1 Kings 11:3), and
+           this glyph is that same form.
+instrument Greek-uncial rule for the units + the 41v anchor.
+confidence HIGH on the shape, HIGH on 7 given the closed 6/7 question.
+crop       43R-montage-units.png panel 2
+
+   READING OF L1: ...ISRAEL : 10 wa 7 : YEARS...  = 17 years.
+   The two signs are separated by a written wa and each is separately
+   barred, i.e. the ordinary Ge'ez compound "ten and seven".
+
+-- L3, terminal ----------------------------------------------- 40
+glyph      THREE prongs. Left prong broad and capped, foot flaring
+           right. Middle prong capped with a spiked apex. Right prong
+           capped and its foot terminates CLEARLY BELOW the feet of the
+           other two (~23 px at native scale, ~160 px at the 7x I read
+           it at). Bars above and below.
+value      40
+counts     ELI THE PRIEST — l.3 reads "...and after him arose ELI THE
+           PRIEST and judged them [40]", the word for years running
+           over to l.4.
+2nd choice 30
+separator  the descending right stem. This is the ONLY discriminator
+           the key offers between the two three-pronged signs (40 =
+           three prongs WITH descending right stem, 30 = "stemless"),
+           and it is present and unambiguous here.
+instrument anchor table (the 40 entry). NOT the Greek rule — the key
+           forbids it for the tens.
+confidence HIGH on the shape and on three-prongs-plus-descender;
+           MEDIUM-HIGH on the value, because 30 remains UNANCHORED and
+           can only be excluded by the descender, never by a positive
+           shape. See section 3.
+crop       43R-L3-fig-7x.png
+
+-- L5 ---------------------------------------------------------- 7
+glyph      identical to L1 sign 2 — same top bar to a point, same
+           triangular counter, same falling diagonal, same square
+           bottom-right foot. Heavier ink, same pen.
+value      7
+counts     SAMUEL THE PROPHET — l.5 reads "...and after him he judged
+           them, SAMUEL THE PROPHET, [7] YEARS."
+2nd choice 6
+separator  as L1 sign 2. Direct on-page control: it is the same sign as
+           L1's units figure, drawn twice on one page.
+instrument on-page control (L1 sign 2) + the 41v scriptural anchor.
+confidence HIGH
+crop       43R-L5-fig-7x.png, 43R-montage-units.png panel 3
+
+-- L9, terminal ----------------------------------------------- 40
+glyph      three prongs, right prong descending below the other two
+           feet. Bars above and below (the upper bar is partly overlaid
+           by a dark foxing spot — the bar's red terminals are still
+           visible either side of it).
+value      40
+counts     SAUL, the first king. ll.7-9 read "...and they made
+           themselves a king, SAUL; and he was the first who reigned
+           over ISRAEL; and he judged them [40]", with the word for
+           years opening l.10.
+2nd choice 30
+separator  the descending right stem, as L3.
+instrument anchor table + on-page control (identical to L3 and L18).
+confidence MEDIUM-HIGH (same caveat as L3; plus the stain over the top
+           bar, which does not touch the glyph).
+crop       43R-L9-fig-b6x.png
+
+-- L18 -------------------------------------------------------- 40
+glyph      three prongs, right prong descending with a splayed foot
+           ~15 px native below the other two. Cleanest of the four:
+           bars above and below are unobstructed and full-length.
+value      40
+counts     DAVID SON OF JESSE — l.18 reads "...reigned DAVID SON OF
+           JESSE [40] YEARS", continuing on l.19 "over the people of
+           ISRAEL".
+2nd choice 30
+separator  the descending right stem.
+instrument anchor table + on-page control.
+confidence MEDIUM-HIGH on the value, HIGH on the shape. This is the
+           best-preserved instance and the one to photograph for the key.
+crop       43R-L18-fig-6x.png
+
+-- L23, terminal ---------------------------------------------- 40
+glyph      three prongs, right prong descending. Bars above and below.
+value      40
+counts     see the joint entry below.
+2nd choice 30
+separator  the descending right stem.
+instrument anchor table + on-page control.
+confidence MEDIUM-HIGH
+crop       43R-L23-fig-b65x.png
+
+-- L24, second position ---------------------------------------- 7
+glyph      the Zeta/"ge-with-a-foot" form again, but the top stroke
+           runs LEFT past the body with a thin entry tail instead of
+           right, and the counter is more rectangular. Everything else
+           matches: falling diagonal, bottom bar, right foot. Bars
+           above and below.
+value      7
+counts     see below.
+2nd choice 3 (the "closed bowl top-right" sign)
+separator  there is a full bottom bar with a right foot and a falling
+           diagonal, which the 3-sign does not have; and the counter is
+           top-CENTRE, not top-right.
+instrument on-page control (L1 sign 2 and L5) — but see the caveat:
+           the left-running top stroke is a real difference from those
+           two, and I did not resolve whether it is pen variation or a
+           different sign.
+confidence MEDIUM. Lower than the other two 7s, purely on that stroke.
+crop       43R-L24-fig-5x.png, 43R-L24-start.png,
+           43R-montage-units.png panel 4
+
+   READING OF L23-L24: "...they carried GOLD from THAT CITY : [40] |
+   wa [7] <noun> ." then a new clause "AND HE BUILT...".
+   The two figures are joined by a written wa across the line break,
+   exactly as L1's pair is, so the natural reading is the compound
+   40 wa 7 = 47. I cannot rule out two independent figures.
+   The noun they qualify I read as a-w-r-a-KH / a-w-r-a-T. If that is
+   the plural of "month" it reads "47 months"; I could not settle the
+   final letter and I am NOT smoothing it. FLAGGED, not resolved.
+   Context is ships (l.22), gold, and a named city — the Ophir/Tarshish
+   material — immediately before "and he built".
+
+=====================================================================
+2. INSTRUMENT USED, PER FIGURE
+=====================================================================
+L1 #1  (10)  anchor table, cross-checked with the Greek rule
+L1 #2  (7)   Greek rule for units + the 41v scriptural anchor
+L3     (40)  anchor table ONLY (rule forbidden for tens) + on-page control
+L5     (7)   on-page control (L1 #2), backed by the 41v anchor
+L9     (40)  anchor table + on-page control (L3, L18, L23)
+L18    (40)  anchor table + on-page control
+L23    (40)  anchor table + on-page control
+L24    (7)   on-page control, with a noted shape divergence
+
+The four tens on this page are four instances of ONE sign. That is a
+real on-page control: whatever it is, Eli, Saul, David and the L23
+figure all carry the same value.
+
+=====================================================================
+3. THE 30 / 50 GAP — NOT CLOSED HERE
+=====================================================================
+NO securely-read 30 and NO securely-read 50 on f.43r. Nothing on this
+page anchors either empty cell. The gap stands.
+
+What this page DOES add to the key:
+
+  * A FOURTH, FIFTH, SIXTH and SEVENTH attestation of the three-pronged
+    descender sign, all on one folio, in one pen, at four places in a
+    regnal list. Best exemplar: L18 (43R-L18-fig-6x.png) — bars clean,
+    ink unbroken, descender unmistakable.
+
+  * A measurement for the descender, which the key has never carried:
+    the right prong's foot sits 15-23 px below the feet of the left and
+    middle prongs at native scan resolution (3560x5000), i.e. roughly
+    one fifth of the glyph's own height. It is not a wobble; it is a
+    deliberate extra stroke length.
+
+  * NEGATIVE evidence worth recording: on a page with seven numerals
+    and four tens, every tens sign is this one sign. This scribe's
+    regnal figures are not drawn from a wide tens repertoire.
+
+HONEST LIMIT ON THE THREE 40s: 30 is unanchored, so I excluded it by
+the descender alone — one criterion, not two. If the descender is not
+in fact what separates 30 from 40 in this hand, all four tens on this
+page move together and Eli/Saul/David become 30/30/30. I record that as
+the live risk. I did NOT use the received chronology to read them; the
+agreement noted in section 5 is a check made AFTER the read, not the
+instrument of it.
+
+=====================================================================
+4. NAMES IDENTIFIED
+=====================================================================
+ISRAEL          ll.1, 9, 12, 19  (spelled with the hooked alef)
+ELI THE PRIEST  l.3   — name + "priest", the alef undifferentiated
+SAMUEL THE PROPHET l.5 — name + "prophet"
+GOD / THE LORD  ll.7, 13, 16
+SAUL            l.8 (accusative, with the -ha object suffix), l.15
+                spelled with the hooked alef for the second vowel,
+                consistent with this scribe's practice
+PHILISTINES     l.15 — the killers of Saul
+DAVID           ll.14, 18
+JESSE           l.18 — "David SON OF JESSE"
+SOLOMON         ll.19-20, name broken across the line
+
+Also present, not names: "ruler/governor" (l.2), "years" (ll.1, 4, 5,
+10, 18) spelled with the scribe's nonstandard initial, "ships" (l.22),
+"gold" (l.23), "city" (l.23), "and he built" (l.24).
+
+Sequence recovered: [someone] over Israel 17 years while they had no
+ruler -> ELI the priest 40 -> SAMUEL the prophet 7 -> the people do
+evil and demand a king -> SAUL, first king, 40 -> Saul killed by the
+Philistines -> DAVID son of Jesse 40 -> SOLOMON -> ships, gold, a city,
+40 wa 7 -> "and he built".
+
+The subject of the 17 years is on 42v, not here. I am not naming it.
+
+=====================================================================
+5. THE TEST
+=====================================================================
+Read first, compared afterwards. The figures this page gives:
+
+    Eli the priest        40
+    Samuel the prophet     7
+    Saul, first king      40
+    David son of Jesse    40
+    (17 years of no ruler, subject on the previous folio)
+    (40 wa 7 in the gold/ships clause)
+
+Eli 40, Saul 40 and David 40 are the standard received figures. This
+page does not run below the received chronology at any point I could
+read. If anything the three 40s are the most conventional numbers in
+the whole Judges-to-Kings chronology.
+
+So: the Othniel 20 and Abimelech 3 divergences are NOT corroborated as
+a systematic difference between this witness and d'Abbadie 78. Three
+independent tens on this page sit exactly where the received text puts
+them. On this evidence the two earlier lows look local, not systemic —
+which is also what the retraction of the "low-tens bias" predicted.
+
+Samuel's 7 is not a check either way: the biblical text gives Samuel no
+regnal total, so 7 is this compiler's own figure and cannot confirm or
+disconfirm anything.
+
+=====================================================================
+6. READING OR INFERRING
+=====================================================================
+READING:
+  - all seven bounding-bar pairs. Checked above AND below on each.
+  - the 10 on L1: shape read off the ink, clean.
+  - the three 7s: shape read off the ink; L1 and L5 are the same sign
+    twice, which is a control I did not have to import.
+  - all four tens: three prongs and a descending right prong, seen at
+    6-7x on four separate crops.
+  - the names: Eli, Samuel, Saul, David, Jesse, Solomon, Israel, the
+    Philistines. These are read, not guessed; the Saul/David/Philistines
+    cluster is mutually confirming and "David son of Jesse" is verbatim.
+
+INFERRING — say so plainly:
+  - 40 rather than 30 on the four tens. The shape is read; the VALUE is
+    inferred from one unanchored contrast. Flagged above.
+  - 47 for the L23+L24 pair. The wa is on the page; treating the pair
+    as one compound is inference by analogy with L1.
+  - the noun after the L24 seven. Not resolved. Left rough on purpose.
+  - "17 years while they had no ruler" — the clause is read, but whose
+    17 years is on the previous folio and I did not go there.
+
+NOT DONE: I did not look at 42v or at our English for any figure before
+writing this. No expected value entered the read.
+
+REFUSALS: I refuse a value for the noun on l.24. I refuse to name the
+subject of the 17 years. I refuse to call the four tens SETTLED at 40 —
+narrowed to 40 by the only available discriminator, with 30 excluded by
+absence of a shape rather than by presence of one.
+
+=====================================================================
+7. FOR THE NEXT READER
+=====================================================================
+First line of f.43r, verbatim in sense:
+  "...ISRAEL : 10 wa 7 YEARS, while they had no ru-"
+Last line of f.43r:
+  "and 7 <noun> . AND HE BUILT ..."
+
+PREDICTIONS, registered before reading either neighbour:
+  f.42v must END mid-word or mid-clause with the SUBJECT of a period of
+  17 years over Israel — most likely the last judge before the
+  interregnum — and must not itself state that 17.
+  f.43v must OPEN with the object of "and he built" — a temple, a city
+  or a house — continuing Solomon.
+
+Crops for this folio are named 43R-*. The one to keep is
+43R-L18-fig-6x.png: the cleanest three-pronged-with-descender on the
+page, and the best candidate yet for photographing the 40 sign into
+the key.

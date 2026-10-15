@@ -1,0 +1,419 @@
+Tübingen Ma IX 1, f. 42r  (image MAIX1-c089-full.jpg, 3560x5000)
+Qalementos — chronology from Moses through the Judges
+Read by: Opus 5, 2026-09-17.  Calibration run against the controlled pair.
+Crops: 42R-opus-*.png in the session scratchpad.
+
+LINE COUNT: 24 written lines, single column, plus the folio number "42" in the
+upper right margin (modern pencil/ink foliation, not scribal text).
+
+======================================================================
+METHOD NOTE — read this before the numeral table
+======================================================================
+I read the numerals from the ink BEFORE opening the numeral section of
+SCRIBAL-KEY.md against them. The key was read first (as instructed) but the
+letterform sections are what I used while transcribing; I deliberately did not
+look up a value until I had written my own down.
+
+The thing that actually let me read the figures is not in the key and I want it
+on the record, because it is checkable and it is not deference: **these numerals
+are Greek uncial letters with bounding bars.** 1=Α 2=Β 3=Γ 4=Δ 5=Ε 6=Ϛ 7=Ζ 8=Η
+9=Θ 10=Ι 20=Κ 30=Λ 40=Μ 50=Ν 60=Ξ 70=Ο 80=Π 90=Ϙ 100=Ρ. Every shape the key
+describes falls out of that mapping:
+
+  key says ፰ is a "mid-hooked I-beam"      -> Η (eta), a crossbarred I
+  key says ፲ is a "plain serifed I-beam"   -> Ι (iota), no crossbar
+  key says ፵ is "three-pronged with a
+     descending right stem"                -> Μ (mu)
+  key says ፯ is a "ገ-shape with a foot"    -> Ζ (zeta)
+  key says ፪ is "a loop, not a Z"          -> Β (beta), and the warning is
+                                              precisely the beta/zeta collision
+  key says ፻ is a "closed bowl"            -> Ρ (rho), a stem with a top-right lobe
+
+That is a generative rule rather than a lookup table, and it is the reason I can
+say which readings are mine. It also predicts the two dangerous confusions on
+this page: Ι/Η (10 vs 8) and Ρ/Β (100 vs 2).
+
+The other independent check available on this page is ARITHMETIC INTERNAL TO THE
+PAGE: line 7 states a total and lines 7-9 state the three components that sum to
+it. That fixes two glyph values without reference to any witness.
+
+Eight-point rosettes of alternating orange and black dots (= ።) occur at least
+eight times: l.6 init., l.9 mid-right, l.12 init., l.13 fin., l.18 init. and
+fin., l.20 init., l.22 fin., l.23 fin. None was counted as a numeral. Every
+figure below carries a bar ABOVE and a bar BELOW.
+
+======================================================================
+NUMERALS — independent reading first, key agreement stated separately
+======================================================================
+
+--- L5 ------------------------------------------------------------
+glyph          single figure, bars above and below; a loop whose head opens
+               left over a stem, with a short right foot
+MY VALUE       ፪ = 2
+COUNTS         sons begotten — the clause is ወወለደ ... "and he begat"
+2nd CHOICE     ፯ (7). Rejected: ፯ on this same page (l.22, second figure) is a
+               ገ-shape whose top bar runs right and whose foot kicks right off
+               a right-hand descender. This glyph's stroke closes into a loop
+               at the head. Beta, not zeta.
+CONFIDENCE     0.75
+KEY            AGREES. Key gives ፪ = 2 and anchors it on 42r l.5 — i.e. on this
+               very glyph. So the key is not an independent check here; the
+               loop/Z discrimination above is.
+
+--- L7, first figure ------------------------------------------------
+glyph          vertical stem with a closed lobe on its upper right; heavy
+MY VALUE       ፻ = 100
+COUNTS         Moses' total years; the noun is ዓመት
+2nd CHOICE     ፪ (2). Rejected: the L5 loop has no vertical stem, and this form
+               has a stem the full height of the figure with the bowl hung off
+               it. Rho, not beta.
+CONFIDENCE     0.85
+KEY            AGREES (፻ = 100, anchored 42r ll.7, 23 — again partly this page).
+
+--- L7, second figure -----------------------------------------------
+glyph          winged top bar; beneath it a closed triangular bowl with a
+               teardrop aperture; splayed feet on a bottom bar
+MY VALUE       ፳ = 20
+COUNTS         same total: ፻ ወ ፳ ዓመት = 120 years
+DERIVATION     This one I can prove on the page without any witness. Line 7
+               announces the total; lines 7-9 itemise it: 40 in Egypt, 40 in
+               Midian, 40 in the wilderness. 40+40+40 = 120, and the first
+               figure is securely 100, so the second is 20.
+2nd CHOICE     ፬ (4, delta) on silhouette alone — the bowl really is a closed
+               triangle. Rejected by the arithmetic above.
+CONFIDENCE     0.9
+KEY            AGREES (፳, "bar + bowl + leg", anchored 42r l.7 = 120). My
+               description of the ink arrived at "bar + closed bowl + leg"
+               independently.
+
+--- L8 --------------------------------------------------------------
+glyph          three upward prongs (W-like) with a stem descending BELOW the
+               baseline from the right prong
+MY VALUE       ፵ = 40
+COUNTS         years in the land of Egypt (በምድረ ግብጽ ፵ ዓመት)
+2nd CHOICE     ፴ (30, stemless). Rejected: the descending right stem is
+               unambiguous at 4x, and it drops clear of the baseline.
+               Also rejected: the letter ሣ, which is silhouette-identical —
+               but ሣ carries no bars, and this carries both.
+CONFIDENCE     0.85
+KEY            AGREES (፵ anchored 42r ll.8, 9).
+
+--- L9 --------------------------------------------------------------
+glyph          identical to L8
+MY VALUE       ፵ = 40
+COUNTS         years in Midian (the clause runs over the line break:
+               ...ወበምድያም | ፵ ዓመት)
+2nd CHOICE     ፴. Same rejection as L8.
+CONFIDENCE     0.85
+KEY            AGREES.
+
+--- L11, first figure -----------------------------------------------
+glyph          heavy, blocky, squared S/Z: a horizontal at the top running
+               right, a thick diagonal dropping left, a horizontal at the
+               bottom running right
+MY VALUE       UNRESOLVED. Best guess ፷ = 60 (Ξ drawn cursively, the three bars
+               joined), second ፶ = 50 (Ν).
+COUNTS         the years of the judge named in the same clause — ወልደ ነዌ, the
+               son of Nun, i.e. Joshua
+WHY NOT        Not ፳: compare the securely-read ፳ of l.7 and l.22, both of
+               which are bar+bowl+bar with a closed lower loop. This is not
+               that. Not ፯ either: the l.22 ፯ has a right-hand descender and a
+               kicked foot; this has a left-dropping diagonal.
+CONFIDENCE     0.25 — this is my least certain figure on the page.
+KEY            SILENT. The key has no anchor at 42r l.11 and I am not able to
+               resolve it from the key's shape descriptions either. Flagged for
+               the expert. If the witness reads 27 here, then my shape
+               discrimination against ፳ is wrong and that is worth knowing.
+
+--- L11, second figure ----------------------------------------------
+glyph          a closed rectangle/oval with a vertical white slit inside;
+               noticeably like this hand's ወ, but bar-bounded
+MY VALUE       UNRESOLVED. Best guess ፱ = 9 (Θ), second ፬ = 4 (Δ).
+COUNTS         the units of the same year-count
+CAUTION        it stands in a [figure] ወ [figure] frame, so it should be a unit
+               and not ፸ (Ο), which is the other circle in the system.
+CONFIDENCE     0.25
+KEY            SILENT.
+
+--- L13 -------------------------------------------------------------
+glyph          I-beam — wide top bar, vertical stem, wide bottom bar — WITH a
+               horizontal crossing at mid-height
+MY VALUE       ፰ = 8
+COUNTS         the years of the oppression under Cushan (the name straddles the
+               l.12/13 break)
+2nd CHOICE     ፲ = 10. Rejected on the crossbar: iota has none, eta does, and
+               the crossbar is clearly inked here at 4x. This is exactly the
+               ፲/፰ collision the Greek mapping predicts.
+CONFIDENCE     0.8
+KEY            AGREES (፰, "mid-hooked I-beam", anchored 42r l.13, Cushan = 8).
+               Judges 3:8 also gives eight years, which is a second independent
+               witness.
+
+--- L15 -------------------------------------------------------------
+glyph          top bar; two strokes that CROSS near the top, the right one
+               overshooting above the junction, then splaying to a bottom bar
+               with a triangular aperture between the legs
+MY VALUE       ፴ = 30, reported with low confidence
+COUNTS         the years of Othniel son of Kenaz, brother of Caleb
+2nd CHOICE     ፳ = 20. The l.7 and l.22 ፳ are the same family (bar + bowl +
+               leg) but their strokes MEET at an apex; here the right stroke
+               runs past the junction, which is how cursive lambda differs from
+               kappa.
+EXPLICITLY NOT ፵ = 40. The narrative wants 40 here (Judges 3:11, "the land had
+               rest forty years"), and the key's standing bias says this hand
+               gets read LOW on tens — both push toward 40. I am not taking it.
+               The page's own ፵ (ll.8, 9, 23) is a three-pronged M with a
+               descending stem and looks nothing like this.
+CONFIDENCE     0.4
+KEY            SILENT — the key anchors ፵ at ll.8 and 9 only, not l.15. So this
+               is an unverified reading and the single most useful thing on
+               this page to check against the other witness.
+
+--- L18, first figure -----------------------------------------------
+glyph          vertical stem with a closed lobe on its upper right — the SAME
+               glyph as the first figure of l.7. I put the two crops side by
+               side at 4x specifically to test this and they are the same hand
+               making the same letter.
+MY VALUE       ፻ = 100
+COUNTS         with the next figure, the years the Israelites were subject to
+               Eglon king of Moab
+CONFIDENCE     0.7
+KEY            SILENT at l.18.
+
+--- L18, second figure ----------------------------------------------
+glyph          I-beam with a mid-height crossbar; the same glyph as l.13
+MY VALUE       ፰ = 8
+2nd CHOICE     ፲ = 10; rejected on the crossbar, as at l.13
+CONFIDENCE     0.75
+KEY            SILENT at l.18.
+
+    >>> L18 COMBINED: I read ፻፰ = 108, additively (hundred first, then the
+    unit — contrast l.23 where the tens precede ፻ and the sense is
+    multiplicative). This DIVERGES from Judges 3:14, which gives eighteen
+    years, and 18 would be written ፲፰ — the same second glyph but iota, not
+    rho, in front. I am reporting 108 because that is what the ink shows and
+    because the first glyph is demonstrably identical to the l.7 rho that the
+    page's own arithmetic proves is 100. If the witness says 18, then the
+    failure is mine and it is a rho/iota confusion, not a tens-running-low
+    error. Either way this is a clean, falsifiable claim.
+
+--- L21 -------------------------------------------------------------
+glyph          a long top bar with THREE short verticals hanging from it, and a
+               lower bar
+MY VALUE       ፹ = 80 (Π, pi)
+COUNTS         the years of Ehud son of Gera
+2nd CHOICE     ፷ = 60 (Ξ). Rejected because the three strokes are vertical and
+               hang from a single top bar; xi is three stacked horizontals.
+               The third leg is more than pi strictly needs, which is why the
+               confidence is not higher.
+CONFIDENCE     0.55
+KEY            SILENT. Judges 3:30 gives eighty years of rest after Ehud, which
+               agrees — but that is context, not ink, and I note it as such.
+
+--- L22, first figure -----------------------------------------------
+glyph          top bar; a closed rounded bowl beneath it; bottom bar
+MY VALUE       ፳ = 20
+2nd CHOICE     ፬ (4). Rejected: the bowl is rounded, not triangular, and the
+               figure sits in a [tens] ወ [units] frame.
+CONFIDENCE     0.75
+
+--- L22, second figure ----------------------------------------------
+glyph          top bar running right, a descender on the right, a foot kicking
+               right at the bottom — a ገ with a foot
+MY VALUE       ፯ = 7
+2nd CHOICE     ፪ (2). Rejected: no loop closes at the head.
+CONFIDENCE     0.75
+
+    >>> L22 COMBINED: ፳ ወ ፯ = 27, counting the year of Ehud's judgeship
+    (ምኵናኔ ለናዖድ).
+KEY            AGREES (፳ triple-anchored, one anchor being 42r l.22 = 27; ፯
+               described as the ገ-shape with a foot).
+
+--- L23, first figure -----------------------------------------------
+glyph          three upward prongs with a descending right stem — identical to
+               ll.8 and 9
+MY VALUE       ፵ = 40
+CONFIDENCE     0.8
+
+--- L23, second figure ----------------------------------------------
+glyph          the rho form again — stem with closed upper-right lobe
+MY VALUE       ፻ = 100
+CONFIDENCE     0.8
+
+    >>> L23 COMBINED: ፵፻ = 40 x 100 = 4,000, and the following word is
+    እምፍጥረት, "from the creation". So: an anno-mundi date, 4000 from creation,
+    synchronised to the 27th year of Ehud on l.22. The multiplicative reading
+    is forced by the order (tens BEFORE the hundred), which is the opposite of
+    l.18, and that contrast is itself evidence the l.18 order is additive.
+KEY            PARTIALLY. Key anchors ፻ at 42r l.23; it says nothing about the
+               ፵ or about the compound value.
+
+SUMMARY OF FIGURES (14 in all, on 11 lines)
+  l.5   ፪          2          sons begotten
+  l.7   ፻ ወ ፳      120        total years of Moses
+  l.8   ፵          40         years in Egypt
+  l.9   ፵          40         years in Midian
+  l.11  ? ወ ?      UNRESOLVED years of the son of Nun
+  l.13  ፰          8          years under Cushan
+  l.15  ፴?         30?        years of Othniel  [least safe of the resolved]
+  l.18  ፻ ፰        108        years subject to Eglon  [diverges from Judges 18]
+  l.21  ፹          80         years of Ehud
+  l.22  ፳ ወ ፯      27         year of Ehud's judgeship
+  l.23  ፵ ፻        4,000      years from the creation
+
+======================================================================
+TRANSCRIPTION — the ink, not normalised
+======================================================================
+⟨⟩ marks a reading I could not resolve; where I could not resolve a word I have
+gone letter by letter rather than smoothing it into a plausible one. The hand's
+nonstandard orthography is preserved (ሌቀ for ሊቀ, እ for አ throughout per the
+key's alef rule, ኮነኖሙ for ኰነኖሙ, እኂሁ for እኁሁ).
+
+ 1  ግብጽ⟨ው⟩ ፡ ሌቀ ፡ ቀ⟨ደ⟩⟨ሐ⟩⟨ደ⟩ሪሁ ፡ ለፈር
+ 2  ዖን ፡ ወጐየ ፡ ገብ⟨ሩ⟩⟨ደ⟩⟨ቧ⟩ል ፡ ካህነ
+ 3  ምድያም ፡ በእንተ ፡ ፍርሃት ፡ ፈርዓ
+ 4  ን ፡ ወበህየ ፡ እውሰብ ፡ ብእሲተ ፡ እ⟨ሬ⟩
+ 5  ⟨ቡ⟩⟨ሊ⟩⟨ል⟩ ፡ ወወለደ ፡ ፪ ፡ እም ውሉደ ፡ እ
+ 6  ⟨...⟩ ፡ ወ⟨ቶ⟩በ ፡ ⟨ኑ⟩⟨ፃ⟩ ፡ ለወ
+ 7  ⟨...⟩ሊ ፡ ፻ ወ ፳ ዓመት ፡ ወነበረ ፡ በምድ
+ 8  ረ ፡ ግብጽ ፡ ፵ ዓመት ፡ ወበምድያም
+ 9  ፵ ዓመት ፡ በው⟨ስ⟩ተ ፡ ገዳም ። ወእ
+10  ምድኅረ ፡ ሞተ ፡ ሙሴ ፡ ኮነኖሙ ፡
+11  ለሕዝብ ፡ ወልደ ፡ ነዌ ፡ ⟨N⟩ወ⟨N⟩ ዓመት ፡
+12  ። ወእምድኅሬሁ ፡ ኮነኖሙ ፡ ኵ⟨ሳ⟩
+13  ን ፡ ⟨ሰ⟩⟨ሉ⟩⟨ው⟩ ፡ ኮነኖሙ ፡ ፰ ዓመት ።
+14  ወእምድኅሬሁ ፡ ጐቶንያል ፡ ወልደ ፡
+15  ቄኔዝ ፡ እኂሁ ፡ ለካሌብ ፡ ፴? ዓመ
+16  ት ፡ ወእምድኅሬሁ ፡ ተቀንዩ ፡ ደቂቀ
+17  እስራኤል ፡ ለእግሎም ፡ ንጉሠ ፡ ሞ
+18  አብ ፡ ፻፰ ዓመት ። ወእምዝ ፡ አድ
+19  ኀኖሙ ፡ እግዚአብሔር ፡ እምእደ
+20  ⟨...⟩ሁ ። ወእምድኅሬሁ ፡ ኮነኖሙ ፡ ና
+21  ዖድ ፡ ወልደ ፡ ጌራ ፡ ፹ ዓመት ፡ ወ
+22  በ ፳ ወ ፯ ዓመት ። ምኵናኔ ፡ ለናዖ
+23  ድ ፡ ⟨ተ⟩⟨ራ⟩⟨ጸ⟩⟨ም⟩ ፡ ፵፻ እምፍጥረት ።
+24  ወእ[ም]ድኅሬሁ ፡ ኮነኖሙ ፡ ዴቦራ ፡
+
+Note on l.24: the ም is written as an interlinear superscript over the እ — a
+self-correction, which the key says is this scribe's habit.
+
+======================================================================
+LITERAL TRANSLATION
+======================================================================
+Where the transcription is unresolved the translation is left blank rather than
+guessed.
+
+ (1-2)   ...Egypt, the chief of his ⟨—⟩ to Phara|oh; and he fled ... ⟨—⟩ ...
+         the priest of
+ (3-4)   Midian, because of fear of Phara|oh. And there he married a wife ⟨—⟩
+ (5-6)   ⟨—⟩, and he begat 2 of [his] children ... ⟨—⟩ ...
+ (7)     ...120 years; and he dwelt in the lan|d
+ (8)     of Egypt 40 years, and in Midian
+ (9)     40 years, in the wilderness. And af|ter
+ (10)    the death of Moses, there judged them,
+ (11)    for the people, the son of Nun, ⟨N⟩ and ⟨N⟩ years.
+ (12-13) And after him there judged them Cu|shan ⟨R—⟩; he judged them 8 years.
+ (14-15) And after him, Othniel son of Kenaz, the brother of Caleb, 30(?) year|s.
+ (16-18) And after him the children of Israel were made subject to Eglon king of
+         Mo|ab 108 years. And after that, [the Lord] deli|
+ (19-20) vered them — the Lord — from the hand of ⟨their enemy⟩. And after him
+         there judged them E|
+ (21)    hud son of Gera, 80 years; and
+ (22)    in the 27th year of the judgeship of E|
+ (23)    hud, ⟨—⟩, 4,000 from the creation.
+ (24)    And after him there judged them Deborah.
+
+======================================================================
+NAMES IDENTIFIED
+======================================================================
+  ግብጽ        Egypt (l.1, l.8) — written ግብጽ here, not the ግብፅ the key attests
+  ፈርዖን       Pharaoh (ll.1-2), and again ፈርዓን (ll.3-4), spelled with ዓ
+  ምድያም       Midian (l.3, l.8)
+  ሙሴ         Moses (l.10)
+  ወልደ ነዌ     the son of Nun = Joshua (l.11). The given name is NOT on the page;
+             the scribe writes only the patronym here.
+  ኵሳን        Cushan (ll.12-13), with an unresolved second element that the slot
+             wants to be Rishathaim
+  ጐቶንያል      Othniel (l.14)
+  ቄኔዝ        Kenaz (l.15)
+  ካሌብ        Caleb (l.15), written ለካሌብ "of Caleb"
+  እስራኤል      Israel (l.17)
+  እግሎም       Eglon (l.17)
+  ሞአብ        Moab (ll.17-18)
+  እግዚአብሔር    the Lord (l.19)
+  ናዖድ        Ehud (ll.20-21, l.22)
+  ጌራ         Gera (l.21)
+  ዴቦራ        Deborah (l.24)
+
+======================================================================
+JOIN PREDICTION — registered before reading f. 42v
+======================================================================
+FIRST LINE of this side, verbatim:  ግብጽ⟨ው⟩ ፡ ሌቀ ፡ ቀ⟨ደሐደ⟩ሪሁ ፡ ለፈር
+LAST LINE of this side, verbatim:   ወእ[ም]ድኅሬሁ ፡ ኮነኖሙ ፡ ዴቦራ ፡
+
+f. 41v must END mid-word or mid-phrase such that "...Egypt" completes it; the
+page opens in the middle of the Moses-in-Egypt narrative, so 41v should be
+carrying the Exodus-era material immediately before the flight to Midian.
+
+f. 42r ends with Deborah named and NOTHING ELSE — no verb of duration, no
+figure. So f. 42v MUST open with Deborah's year-count, almost certainly a
+figure inside the first line or two, and should then continue the Judges
+sequence: Barak, Gideon, Abimelech, Tola, Jair. If 42v opens with anything
+other than the continuation of the Deborah entry, one of the two reads is
+wrong.
+
+A secondary, sharper prediction: this page synchronises the Judges sequence to
+an anno-mundi count (l.23, "4,000 from the creation", tied to Ehud's 27th
+year). f. 42v should contain at least one more እምፍጥረት synchronism of a LARGER
+value, and it should be built the same way — tens before ፻, multiplicative.
+
+======================================================================
+HONEST ASSESSMENT — did I read the hand, or infer from context?
+======================================================================
+Both, and I can separate them.
+
+READ FROM THE INK, and I would defend these with no context at all:
+  - the ፵ of ll.8, 9 and 23. The three prongs plus the below-baseline right stem
+    are unmistakable at 4x and identical in all three places.
+  - the ፰ of ll.13 and 18. The mid-height crossbar is inked, and it is what
+    separates eta from iota.
+  - the ፯ of l.22 and the ፪ of l.5. Different glyphs, and I can say how.
+  - the rho/፻ of ll.7, 18 and 23 — I cropped l.7 and l.18 side by side at 4x
+    precisely to test whether they were the same letter, and they are.
+  - the whole letter-text. The words ወእምድኅሬሁ, ኮነኖሙ, ዓመት, ወልደ, ንጉሠ recur often
+    enough that the hand becomes legible; I did not need the names to get them.
+
+INFERRED FROM CONTEXT, and I am telling you so:
+  - ፳ = 20 at l.7. The SHAPE alone I would have called a closed triangle, i.e.
+    delta/4. What makes it 20 is the page's own arithmetic (40+40+40=120). That
+    is a real derivation, but it is not letterform recognition, and if the
+    arithmetic had not been sitting three lines below it I would have got it
+    wrong.
+  - ፹ = 80 at l.21. Pi is the best fit for a top bar with hanging legs, but
+    there are three legs and pi wants two. Judges 3:30 says eighty, and I am
+    aware that agreement made me comfortable faster than the ink warranted.
+  - the names Cushan and Rishathaim at ll.12-13, and the name Israel at l.17.
+    I read እስራኤል confidently; I read ኵሳ|ን on a partly-blotted ligature and the
+    second element not at all. The narrative supplied the expectation.
+
+WHERE I DEFERRED TO NOTHING, and the reading is therefore exposed:
+  - l.15 = 30. Judges says 40, and the key's standing bias says this hand gets
+    read low on tens — so both available pressures said 40 and I still read 30,
+    because the page's own 40 looks completely different. If the witness says
+    40, my kappa/lambda discrimination is wrong and that is a finding.
+  - l.18 = 108. Judges says 18. I read 108 because the first glyph is the same
+    glyph as the l.7 rho that the page's arithmetic proves is 100. If the
+    witness says 18, the failure is a rho/iota confusion and the key should gain
+    a line saying so.
+  - l.11, both figures. I could not read them and I have not guessed a total.
+    A tested model before me disclosed a numeral that was right only by
+    deference; this is the same disclosure made one step earlier, by not
+    producing a number at all.
+
+WHAT I DID NOT DO: no tooling, no font rendering, no template matching. Only
+crops and zooms of the supplied JPEG. 30 tool calls.
+
+WHAT SHOULD GO INTO SCRIBAL-KEY.md, if the witness bears it out: the Greek
+uncial mapping at the top of this file. It turns the numeral table from a list
+of remembered shapes into a rule that generates them, and it names in advance
+the two collisions that cost me confidence here — Ι/Η and Ρ/Ι.

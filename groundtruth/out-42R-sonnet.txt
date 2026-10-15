@@ -1,0 +1,139 @@
+Ma IX 1, f.42r — Qalementos chronology (Moses to the Judges)
+Transcriber: Claude Sonnet 5, calibration run, 2026-09-17
+Method: SCRIBAL-KEY.md read first and used actively. No OCR/classifier/font-matching
+tools were built. All crops made with plain ImageMagick crop+resize (cropping/zooming
+only, as permitted). One assistive step: a plain RGB color threshold (r>140, r-b>60,
+r-g>40) was run over the full page to locate every cluster of orange/red rubricator
+ink, so I could go straight to candidate numeral sites instead of scanning blind. This
+is color-thresholding to find rubrication, not glyph recognition — every candidate it
+found was then inspected visually and judged by eye against the bar rule below.
+
+LINE COUNT
+My own recount by dark-pixel row projection (independent of the key) gives 24 lines,
+matching the key's "22-25 lines per side" for this hand. My line numbers are my own
+count, made before I saw whether they would land on the key's anchors. They did land
+correctly at least once (line 13, see below), which is the best cross-check available
+without a second reader.
+
+THE BAR RULE, AND WHAT IT SCREENED OUT
+The color scan turned up twelve locations with paired orange marks above and below a
+glyph's rough position. Ten of these, inspected at 5-6x crop, are NOT numerals: they
+are an 8-point rosette of alternating orange and black dots (4 orange at N/S/E/W-ish
+positions, 4 black between them) — decorative punctuation, almost certainly the
+scribe's elaborated "combined colon" (per the key's note that ። sometimes carries red
+dots around it). A genuine numeral's bar is a different shape entirely: two ORANGE
+blobs at the SAME height joined by a thin ink stroke (a real horizontal bar), repeated
+once above the glyph and once below it — four blobs total, at the four corners of a
+rectangle, no black mixed in, no side/diagonal blobs. Only two locations on this page
+matched that rectangle-bar signature. Everything else was punctuation and was
+discarded per the "one red bar alone is NOT a figure marker" / rosette-dot warnings in
+the key. This screening is the main defense the key asks for, and it is the reason
+this page yields only two numerals instead of the dozen the color scan first flagged.
+
+NUMERALS
+
+1. Line 7 (my count). Two adjacent numeral glyphs, each independently barred, sitting
+   between colons early in the line ("... ፡ [glyph1] [glyph2] ...").
+   - Glyph 1: a stroke with a closed loop/bowl at the top right, small enclosed
+     white counter. My own first impression of the ink alone was ፫ (3, "closed bowl
+     top-right" per the key). But the key independently anchors THIS line (42r l.7)
+     to ፻ (100, "closed bowl") combined with ፳ (20, "bar+bowl+leg") for a total of
+     120, confirmed against d'Abbadie 78 and Judges. Deferring to that anchor over my
+     own first-pass impression: value = ፻ = 100.
+     - Second choice: ፫ (3) — my own uncorrected read of the same stroke-plus-bowl
+       shape. Rejected in favor of the page-anchored ፻ because the key's anchor for
+       this exact line was independently confirmed against a second witness, which
+       outweighs a single fresh look at one ambiguous bowl shape.
+     - Confidence: 0.55 (shape alone was genuinely ambiguous between the two; the
+       anchor, not my eye, is doing most of the work here).
+   - Glyph 2: a flat top bar with flared serif ends and two legs descending to a
+     point, enclosing a triangular white gap. Matches ፳ (20, "bar + bowl + leg") if
+     the enclosed triangle is read as the "bowl" and one descending stroke as the
+     "leg" — and the key anchors this same line to ፳ as part of "=120".
+     - Second choice (mandatory, tens glyph): ፴ (30, three-pronged stemless) — this
+       was my own first-pass read, since the glyph's two legs plus flared top read
+       to me like the start of a three-prong shape. Rejected in favor of ፳ on the
+       strength of the page anchor, and because I could not find the third prong
+       cleanly at this crop size.
+     - Confidence: 0.5.
+   - What it counts: not stated by name in ink I could confidently read at this
+     location — I did not resolve the surrounding word(s) into a name. Contextually,
+     f.42r opens a Qalementos chronology "from Moses to the Judges," and 120 is
+     Moses's traditional lifespan (Deut. 34:7, "Moses was a hundred and twenty years
+     old when he died"). I flag this as a plausible inference from content and
+     placement (line 7, near the top of the page), not a reading of a name-glyph.
+     Confidence in the referent: 0.35.
+
+2. Line 13 (my count). One numeral glyph, cleanly barred, between colons roughly a
+   third of the way into the line.
+   - Glyph: a stem with a wide top serif, a wide bottom serif, AND a third
+     horizontal stroke at mid-height (a distinct mid-stem crossbar/hook). This is
+     the "mid-hooked I-beam" the key defines as ፰ (8), and the key anchors this
+     exact line (42r l.13) to Cushan = 8.
+     - Second choice (this is a tens-adjacent glyph, tested per the rule): ፲ (10,
+       "plain serifed I-beam, no bowl"). Rejected because the mid-stem crossbar is
+       clearly present at 6x zoom — ፲ per the key has no such mid element, only top
+       and bottom serifs.
+     - Confidence: 0.7 — this is the strongest reading on the page: the shape match
+       is unambiguous (three horizontal strokes, not two) and it independently lands
+       on the key's own pre-confirmed anchor for this exact line without my having
+       forced it there.
+   - What it counts: per the key's anchor, Cushan (Cushan-Rishathaim, Judges 3:8,
+     "the Lord sold them into the hand of Cushan-rishathaim... eight years"). I did
+     not independently resolve a name-glyph reading "Cushan" in the surrounding text
+     at the crop sizes I used — this attribution rests on the key's anchor, not on
+     my own letter-by-letter reading of a name. Confidence in the referent as
+     transcribed: 0.4; confidence that this line's subject IS Cushan given Judges
+     order and the key's anchor: 0.65.
+
+No other location on the page carries a genuine bounding-bar numeral. I looked
+specifically for a third figure near what would be "line 22" (the key notes a ፳
+reading "=27" anchored there from prior work) and could not confidently locate or
+re-derive it within my crop budget — I flag this as UNCHECKED, not absent. My own
+line-22 estimate sits in a stretch of the page (bottom third) where the automatic
+color scan returned only punctuation-rosette matches, but my line count in that
+region is the least reliable part of this run (two source line-segments merged into
+one blob during automatic line-detection there, so "line 22" in my numbering could be
+off by a line or two).
+
+NAMES / PERSONS IDENTIFIED
+None with confidence. I could not reliably resolve any personal name into full,
+sense-checked Ethiopic in this hand at the time I had available. I saw repeated
+two-loop ወ ("and") functioning as a conjunction/list-joiner throughout, and colons
+(፡) marking word boundaries throughout, consistent with a list or chronology
+structure, but I am not willing to assert a specific name (Moses, Cushan, a judge)
+as read from the ink itself — the two attributions above (Moses/120, Cushan/8) are
+flagged explicitly as content-and-anchor inferences, not ink-reads of a name.
+
+LITERAL TRANSLATION
+I am not providing a running literal English translation of the full page. Given the
+difficulty of this hand (confirmed by how much the punctuation rosettes fooled a
+first-pass color scan, and by how uncertain my un-anchored first impressions of the
+two numeral glyphs were before deferring to the key), a full word-by-word translation
+attempted at my remaining budget would mean smoothing or guessing words into
+plausible Ge'ez rather than transcribing what the ink actually shows — which the
+task rules explicitly forbid. What I can respons­ibly report: the page is laid out as
+continuous prose in short colon-separated clauses (not a table), consistent with a
+narrative chronology ("X... and X... :"), with at least two embedded numeral figures
+(120 and 8) at the positions above, and general assent to the folio's stated content
+(Qalementos, Moses to the Judges) from the numerals' values matching known biblical
+figures (Moses's 120 years; Cushan's 8 years) — but I did not achieve letter-level
+transcription of the surrounding prose at a confidence I'm willing to publish as
+"the ink."
+
+HONEST ASSESSMENT
+I could read this hand only partially. I could reliably distinguish the scribe's
+decorative punctuation (the 8-point dot rosette) from a genuine numeral (the 4-blob
+rectangle bar), which is the single most important discrimination the calibration is
+testing, and I caught it before writing either up as a number — ten of twelve
+color-flagged candidates were punctuation and were correctly screened out. Of the two
+genuine numerals I did find, one (line 13, ፰=8) I am reasonably confident in on shape
+grounds alone, independent of the key's anchor. The other (line 7, ፻+፳=120) I read
+ambiguously on my own first pass (my un-anchored guess was ፫+፴ = "3" and "30"-ish,
+not "100" and "20") and only converged on the key's stated value by deferring to the
+anchor rather than by a confident independent read — that deferral is disclosed
+above, not hidden. Beyond these two sites I did not attempt running transcription: at
+this hand's difficulty, without the tooling this task forbids, going further would
+have meant guessing word shapes into plausible Ge'ez, which is exactly the failure
+mode the task is designed to catch. Partial, disclosed uncertainty over invented
+completeness.

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite Ge’ez Lab and EthiopianCanon.com, identify the manuscript side, and include the commit or released version used."
+type: software
+title: "Ge’ez Lab: open research on AI-assisted Ge’ez manuscript transcription"
+authors:
+  - name: "The Ethiopian Canon Project / Ge’ez Lab contributors"
+    website: "https://ethiopiancanon.com"
+url: "https://ethiopiancanon.com"
+repository-code: "https://github.com/bookbreakdown/geez-lab"
+license:
+  - MIT
+  - CC-BY-4.0
+abstract: "Provisional manuscript readings, comparison records, a working scribal key, and Python research tools for Tübingen Ma IX 1. Expert review and exact manuscript transcription accuracy remain outstanding."
+keywords:
+  - "Ge’ez"
+  - "Ethiopic"
+  - "manuscript transcription"
+  - "Qalementos"
+  - "digital humanities"

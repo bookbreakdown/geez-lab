@@ -1,0 +1,125 @@
+MAIX1-42V
+LINES: 24
+
+1  ወባርቅ ፡ ፵ ዓመተ ። ወእምድ
+2  ኅሬሁ ፡ [struck through: ኵ፲?ሙ] ፡ ቀነይዎሙ ፡
+3  ስብእ ፡ ምድያም ፡ ፯ ዓመተ ። ወ
+4  አድኃኖሙ ፡ እግዚአብሔር ፡ በ
+5  እዴሁ ፡ ለጌዴዎን ፡ ፵ ዓመተ ።
+6  ወእምድኅሬሁ ፡ ኵኖሙ ፡ አቢሜ
+7  ሌክ ፡ ፫ ዓመተ ። ወእምድኅሬሁ
+8  ኵኖሙ ፡ ቱላ ፡ ወልደ ፡ ፉሐ ፡ ፳ወ፫
+9  ዓመተ ። ወቆመ ፡ እምድኅሬሁ ፡ ኢ
+10 ኤል ፡ ገላአዊ ፡ ወኵኖሙ ፡ ለእስራ
+11 ኤል ፡ ፲ወ፪ ዓመተ ። ወእምድኅሬ
+12 ሁ ፡ አድኃኖሙ ፡ እግዚአብሔር
+13 ወኵኖሙ ፡ ዮፍታሔ ፡ ፯ ዓመተ
+14 ወእምድኅሬሁ ፡ ኵኖሙ ፡ ሔሴቦ
+15 ን ፡ ፯ ዓመተ ። ወእምድኅሬሁ ፡ ቀ
+16 ነይዎሙ ፡ ኤሎፍሊ ፡ ለደቂቀ ፡ እስራ
+17 ኤል ፡ ፵ ዓመተ ። ወእምድኅሬሁ ፡
+18 ኵኖሙ ፡ ኤሎሙ ፡ ዘቡለዊ ፡ ፵
+19 ዓመተ ። ወእምድኅሬሁ ፡ ቀነይዎሙ
+20 ኤሎፍሊ ፡ ፵ ዓመተ ። ወእምድኅሬ
+21 ሁ ፡ አድኃኖሙ ፡ እግዚአብሔር ፡
+22 በእዴሁ ፡ ለሶምሶን ፡ ኃያል ፡ ወኵኖ
+23 ሙ ፡ ሶምሶን ፡ ፲ወ፰ተ ፡ ዓመተ ። ለ
+24 ለሕዝብ ። ወእምዝ ፡ ዘንተ ፡ ? ቀቁቀ
+
+TRANSLATION:
+1-2   And Barak, 40 years. And after him [struck-through word] they enslaved them,
+3     the men of Midian, 7 years. And
+4-5   God saved them by the hand of Gideon, 40 years.
+6-7   And after him Abimelech was (ruler) over them, 3 years. And after him
+8-9   Tola son of Puah was over them, 23 years. And there arose after him
+10    I-el (= Jair) the Gileadite, and he was over Israel
+11-12 12 years. And after him God saved them,
+13    and Jephthah was over them, 7 years.
+14-15 And after him Hesebon (= Ibzan) was over them, 7 years. And after him
+16-17 the Philistines (Allophyloi) enslaved the children of Israel, 40 years. And after him
+18-19 Elom (= Elon) the Zebulunite was over them, 40 years. And after him
+20    the Philistines enslaved them, 40 years. And after him
+21-22 God saved them by the hand of Samson the mighty, and
+23    Samson was over them 18 years. For
+24    the people. And after this, this ... [later-hand scrawl: ? ቀቁቀ]
+
+NUMERALS:
+All numerals are in black ink with red (orange) bars above and below. Values assigned by
+glyph shape cross-checked against the internal sequence (the "ሠ"-shaped three-pronged glyph
+recurs for Barak, Gideon and the Philistine oppression, all 40 in Judges, so it is ፵; the
+"ገ"-with-foot glyph recurs for Midian and Ibzan, both 7, so it is ፯).
+  line 1   ፵      = 40   Barak (ባርቅ) — length of his judgeship / years of rest (Judg 5:31)
+  line 3   ፯      = 7    Midian (ስብእ ፡ ምድያም) — length of the Midianite oppression (Judg 6:1)
+  line 5   ፵      = 40   Gideon (ጌዴዎን) — length of his judgeship
+  line 7   ፫      = 3    Abimelech (አቢሜሌክ) — length of his rule
+  line 8   ፳ወ፫    = 23   Tola son of Puah (ቱላ ፡ ወልደ ፡ ፉሐ) — length of his judgeship
+  line 11  ፲ወ፪    = 12   Jair the Gileadite (ኢኤል ፡ ገላአዊ) — length of judgeship. Bible has 22;
+                         the ink's first glyph is the plain bar ፲, not ፳. Second glyph is an
+                         "I-beam" form read as ፪ (least certain identification on the page).
+  line 13  ፯      = 7    Jephthah (ዮፍታሔ) — length of judgeship. Bible has 6; ink glyph is the
+                         same ፯ form as lines 3 and 15.
+  line 15  ፯      = 7    Hesebon = Ibzan (ሔሴቦን) — length of judgeship
+  line 17  ፵      = 40   Philistines (ኤሎፍሊ) over the children of Israel — length of oppression
+  line 18  ፵      = 40   Elon the Zebulunite (ኤሎሙ ፡ ዘቡለዊ) — length of judgeship. Bible has 10;
+                         the ink glyph is unambiguously the same ፵ form as lines 1, 5, 17, 20.
+  line 20  ፵      = 40   Philistines (ኤሎፍሊ) — length of oppression (second mention)
+  line 23  ፲ወ፰ተ   = 18?  Samson (ሶምሶን) — length of judgeship. Bible has 20. Second glyph is
+                         a stem with left pennant and right foot; read as ፰ (8), but ፫ (13)
+                         is possible. The trailing ተ is unbarred and is probably a phonetic
+                         complement (-tu) on the number, not a numeral.
+  line 2   [struck through] the deleted word contains a bar-shaped glyph like ፲ with black
+                         bars; it is part of a cancelled false start (probably a botched ኵኖሙ),
+                         not a count.
+
+KINGS:
+No king of Judah is named on this page. It is the Judges chronology, not the regnal list.
+Persons named, with their figure:
+  ባርቅ        Barak              40 (years)
+  ምድያም       Midian (men of)    7  (years of oppression)
+  ጌዴዎን       Gideon             40
+  አቢሜሌክ      Abimelech          3
+  ቱላ ወልደ ፉሐ  Tola son of Puah   23
+  ኢኤል ገላአዊ   Jair the Gileadite 12 (ink)
+  ዮፍታሔ       Jephthah           7  (ink)
+  ሔሴቦን       Hesebon/Ibzan      7
+  ኤሎፍሊ       Philistines        40 (line 17) and 40 (line 20)
+  ኤሎሙ ዘቡለዊ   Elon the Zebulunite 40 (ink)
+  ሶምሶን       Samson             18? (ink, ፲ወ፰ተ)
+  ABIJAH (አብያ/አብያም):   NOT PRESENT
+  JEHOSHAPHAT (ኢዮሳፍጥ): NOT PRESENT
+  ASA (አሳ):             NOT PRESENT
+  JORAM (ኢዮራም):        NOT PRESENT
+  REHOBOAM (ሮብዓም):     NOT PRESENT
+No AGE-at-accession figure of any kind occurs on the page; every numeral is a length of
+rule or oppression.
+
+NOTES:
+- Folio identification: the caller expected the end of Book One / start of Book Two with
+  the kings of Judah. The ink on this image runs from Barak to Samson (Judges 4-16). Either
+  the image is a different folio than 42v, or the Judah regnal figures are on a later leaf.
+  The Abijah/Jehoshaphat figures should be sought a few folios on.
+- Line 2: a whole word is cancelled with a wavy strike-through in brown ink. Readable
+  strokes under the cancellation: ኵ, a barred bar-glyph, a bowl-glyph, ሙ. Transcribed as
+  [struck through: ኵ፲?ሙ].
+- Line 2 ኅሬሁ (and each ወእምድኅሬሁ): the ኀ-glyph could be read ኃ; kept as ኅ.
+- Line 3 ስብእ: first glyph has the bent lower leg of ስ; third glyph reads እ. Standard
+  spelling would be ሰብአ. Ink kept.
+- Line 6, 8, 10, 13, 14, 18, 22 ኵኖሙ: first glyph is ከ with a right-side tail (ኵ/ኰ form);
+  standard ኮኖሙ "he was over them". Ink kept.
+- Line 9-10 ኢ|ኤል: the name of Jair is split across the line break and reads ኢ-ኤል in the ink
+  (a corruption of ኢያኤር/ኢያኢር).
+- Line 13 ends ዓመተ with no ። before ወእምድኅሬሁ on line 14.
+- Line 16 ለደቂቀ: second glyph is ደ, giving "the children of Israel".
+- Line 18 ኤሎሙ: third glyph is ሙ not ን; ink kept (Elon).
+- Line 18 ዘቡለዊ: ink kept (standard ዘብሎናዊ).
+- Line 22 ኃያል: the ኀ-glyph read as ኃ.
+- Line 23-24: line 23 ends ለ and line 24 begins ለሕዝብ — either dittography of ለ or the
+  scribe restarted the word at the new line.
+- Line 24 end: after ዘንተ ፡ there is a heavy sign in a darker ink (resembles ጀ/ያ) followed by
+  ቀ ቁ ቀ in a paler, different hand with small strokes above the first ቀ. Probably a pen
+  trial or an incomplete later addition, not part of the running text; transcribed as
+  ? ቀቁቀ.
+- Numeral identifications for ፵, ፯, ፫, ፳, ፲ are confident (shape and internal sequence
+  agree). ፪ (line 11) and ፰ (line 23) are the two uncertain glyph identifications.
+- Right margin carries the beginnings of the next page's lines showing through / a strip of
+  the facing page; not transcribed.

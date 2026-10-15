@@ -1,0 +1,321 @@
+THIRTY-ANCHOR RUN — Ma IX 1, ff. 42r and 42v
+Task: give ፴ a shape, or establish that neither site carries one.
+Date: 2026-09-17.  No tooling: crop / zoom / montage only. 31 tool calls.
+Crops: groundtruth/crops/thirty-*.png
+
+====================================================================
+0. HEADLINE
+====================================================================
+
+SITE B (f.42v, Abimelech) CARRIES NO ፴.  It is not a pronged sign at all:
+one vertical stem with a single upper-right arm.  Settled, high confidence.
+
+SITE A (f.42r, the son of Nun) CARRIES A TENS SIGN THAT IS NOT ፲, NOT ፳,
+NOT ፵ AND NOT ፻.  It has TWO prongs, not three.  It is therefore ፴ or ፶ —
+the two empty cells — and the ink cannot separate them, because separating
+them needs exactly the anchor that is missing.  What this run DOES deliver
+is the first recorded morphology for whichever of the two it is, described
+below in anchor-ready form, plus the hard negative that the sign in the
+30/50 slot on this leaf is NOT three-pronged.
+
+That negative is itself a correction to the key: the key asserts "፴ and ፵
+are a three-pronged family".  On this folio the sign that must be ፴ or ፶
+is two-pronged.  Either ፴ is not in the three-pronged family, or this is
+፶ and ፶ is a two-pronged stem-bearing form.  Do not keep asserting the
+family claim for ፴ as if it were observed.  It never has been.
+
+====================================================================
+1. LOCATING THE SITES, AND THE SURROUNDING TEXT
+====================================================================
+
+Located by reading, not by line number.  My own line count is given for
+reference only; it agrees with the key's (f.42v l.8 = Tola, f.42v l.5 =
+Gideon, f.42r l.7 = the 100+20 pair), which is a useful cross-check that
+the key's numbering and mine are the same numbering.
+
+--- SITE A, f.42r (MAIX1-c089), my l.10-l.13 -----------------------
+
+  l.10  ...እምድኅሬ፡ሞት፡ሙሴ፡ኰነኖሙ፡
+        "after the death of Moses he judged them"
+        (ink has the ኮ-for-ኰ and the ዮ-infix this scribe uses for this
+        verb throughout the page: ኮነነዮሙ.  Not normalised in the ink.)
+
+  l.11  ለሕዝብ፡ወልደ፡ነዌ፡ [N1] ወ [N2] ዓመት
+        "...the people; the son of Nun, [N1] and [N2] years"
+        ዓመት is written with this hand's 9-bowl ዓ, so it reads ቅወምት at 2x.
+        ኢያሱ is NOT written.  The subject is ወልደ፡ነዌ alone.
+
+  l.12  ።ወእምድኅሬሁ፡ኰነኖሙ፡ [name begins, ...ኩ]
+  l.13  ስ፡... ኰነኖሙ፡[single figure]፡ዓመት።
+        i.e. "and after him ...-s judged them N years" — the Kus / Cushan
+        entry.  Confirms the position the brief describes: the figure I
+        read sits between Moses' death and the Kus entry.
+
+  HOW I FOUND IT: swept ll.4-13 in four-line bands looking for the ሙሴ /
+  ኰነኖሙ collocation, then read forward.  The ወልደ፡ነዌ of l.11 and the ...ኩ /
+  ስ seam across ll.12-13 fix it independently of any line count.
+
+  The figure is a COMPOUND: [N1] ወ [N2] ዓመት.  The same construction
+  appears on this leaf at l.7 as ፻ ወ ፳ ዓመት (=120), so the scribe writes
+  compounds larger-first with an explicit ወ.  N1 is therefore the larger
+  term (tens or above) and N2 the smaller.
+
+--- SITE B, f.42v (MAIX1-c090), my l.6-l.8 -------------------------
+
+  l.6   ወእምድኅሬሁ፡ኰነኖሙ፡አቢሜ-
+  l.7   -ሌክ፡ [B-FIG] ዓመት።ወእምድኅሬሁ...
+        "And after him Abimelech judged them [B-FIG] years.  And after
+        him..."   (ink: እቢሜሌክ — the hooked alef, per the key's አ/እ rule.)
+  l.8   ...ኰነኖሙ፡ቶላ፡ወልደ፡ፉአ፡ [፳] ወ [unit] ዓመት
+        Tola son of Puah — the key's ፳ anchor, and my on-page ፳ control.
+
+  HOW I FOUND IT: found Gideon (ለጌድዮን + figure) and Tola (ቶላ፡ወልደ፡ፉአ +
+  figure), then read the two lines between them.  The አቢሜ / ሌክ seam
+  across ll.6-7 fixes the site.
+
+  The Site B figure is SINGLE, not compound: [B-FIG] ዓመት.
+
+====================================================================
+2. MORPHOLOGY — PRONG COUNT FIRST, THEN STEMS
+====================================================================
+
+--- SITE A, N1 (the first term, f.42r l.11) ------------------------
+crops: thirty-A-N1-9x.png, thirty-cmp-montage.png, thirty-A-N1-baseline.png
+
+  PRONGS: TWO.  Two limbs, ONE valley between them.  The valley is a
+  small U/V notch that OPENS UPWARD at the top of the sign, roughly a
+  third of the way across from the left; it is a genuine gap in the ink,
+  clean-edged, not a fill defect.  There is no second valley anywhere on
+  the top edge.  Total width is visibly narrower than every ፵ on either
+  leaf, consistent with one fewer prong rather than with a merged one.
+
+  CAPS: each limb carries its own short flat cap bar, and the two caps
+  sit at DIFFERENT heights (left cap higher).  The left cap overhangs to
+  the LEFT only, ending in a downward wedge tip; it does not overhang to
+  the right.  There is NO single wide cap spanning both limbs, and no
+  right-hand wing.
+
+  COUNTER: NONE.  The notch is open to the air above.  Nothing is
+  enclosed anywhere in the sign.
+
+  FEET / BASELINE: left limb ends in a flat foot that stops SHORT of the
+  line's baseline.  The right limb runs down past it and lands ON the
+  baseline, level with the feet of the adjacent ወ and of N2.  So the
+  right limb is longer than the left — a stem in the relative sense —
+  but it does NOT descend below the baseline.  There is NO hairline bar
+  joining the two feet.
+
+  INK: solid, evenly loaded, no blotting; the lower-left quadrant is
+  filled black, which is why at 2x the left limb reads as a single broad
+  mass.  Bounding bars present ABOVE and BELOW (thin brown rules with
+  orange rosettes at the ends) — it is unambiguously a numeral.
+
+--- SITE A, N2 (the second term, f.42r l.11) -----------------------
+crops: thirty-A-N1-9x.png (right panel), thirty-A-N1-baseline.png
+
+  PRONGS: none — it is a closed ring.
+  Upright, roughly rectangular body; two thick near-parallel sides; a
+  tall closed OVAL counter running nearly the full body height; a small
+  ear/overhang at the TOP LEFT only; the bottom closes across.  A short
+  tail at bottom left.  Height equal to the neighbouring ወ.  Nothing
+  projects below the closure.  Bounding bars above and below.
+
+--- SITE B, B-FIG (f.42v l.7) --------------------------------------
+crops: thirty-B-montage.png, thirty-bowl-compare.png
+
+  PRONGS: ZERO.  This is not a pronged sign and not a member of the
+  30/40/50 family in any form.
+  ONE vertical stem on the left, full height, ending in a broad flat
+  foot.  From the top of the stem a single ARM runs right and tapers to
+  a fine point.  From under the arm a wedge returns down-and-left and
+  meets the stem at about mid-height.  The area between the arm and the
+  returning wedge is OPEN to the right — the arm tip and the wedge do
+  not meet, so nothing is enclosed.  Below the junction the stem
+  continues to the foot.  Bounding bars above and below.
+
+====================================================================
+3. VALUES, SECOND CHOICES, AND THE SEPARATING FEATURE
+====================================================================
+
+SITE A, N1
+  Reading:        a tens sign, ፴ or ፶ — NOT resolvable on this page.
+  First choice:   ፶ = 50.
+  Second choice:  ፴ = 30.
+  Separating feature I would use, if an anchor existed: prong count.
+  Why I lean ፶: every description of ፴ available anywhere in this key
+  puts it in the three-pronged family, and this sign has two prongs
+  with a lengthened right limb.  If ፴ really is three-pronged, this is
+  not ፴, and ፶ is the only tens cell left.
+  Why that lean is WEAK and must be labelled as such: the key's ፴ entry
+  is explicitly a description-by-contrast with ፵, never an observation.
+  Excluding ፴ by it is excluding a sign by a guess.  If the true ፴ of
+  this hand is two-pronged, this is ፴ and the family claim is wrong.
+  NOTHING on these two leaves can break that.  Confidence in the value:
+  LOW (~55/45).  Confidence in the morphology: HIGH.
+  POSITIVELY EXCLUDED, and these are the grounds:
+    ፲  — N1 has two limbs, a notch and two caps.  ፲ is a plain serifed
+         I-beam with no notch.  Excluded on silhouette.
+    ፳  — ፳ has ONE wide cap bar winged on BOTH sides, a closed
+         pear/triangular counter, feet joined by a hairline, and nothing
+         below the baseline.  N1 has two separate caps at different
+         heights, NO counter at all, NO hairline foot-bar, and a right
+         limb longer than the left.  Excluded on four independent
+         features.  This matters: the two previous wrong 30-readings on
+         these leaves were ፳.  This sign is not that sign.
+    ፵  — three prongs, two valleys, and a right stem that plunges
+         clearly BELOW the feet of its neighbours.  N1 has two prongs,
+         one valley, and a right limb that only reaches the baseline.
+         Excluded on prong count, which per the key is the primary test.
+    ፻  — ፻ is a stem with an arm and a CLOSED counter (see §5).  N1 has
+         no stem-and-arm construction and no counter.  Excluded.
+
+SITE A, N2
+  First choice:   ፪ = 2.  The key's ፪ is "loop, not a Z"; N2 is a closed
+                  loop with a top-left ear and nothing else.
+  Second choice:  ፻ = 100.
+  Separating feature: ፻ is a stem that CONTINUES BELOW its bowl to a
+  separate foot, with the bowl occupying only the upper right (see the
+  42r l.7 control, §5).  N2's counter fills the whole body and no stem
+  projects below it.  Also the slot argues: the scribe writes compounds
+  larger-first, so the term after ወ is the smaller one; a hundred cannot
+  follow a tens here.
+  So Site A reads [30 or 50] ወ [2] ዓመት — i.e. thirty-two or fifty-two.
+  Confidence: MEDIUM-HIGH on N2 = 2; LOW on the tens, as above.
+
+SITE B, B-FIG
+  First choice:   ፫ = 3.
+  Second choice:  ፻ = 100.
+  Separating feature — and this is the key's own criterion, applied and
+  it works: RHO'S BOWL MUST CLOSE BACK ONTO THE STEM.  Put the Abimelech
+  sign beside the first term of the 120 on f.42r l.7 (crops/
+  thirty-bowl-compare.png) and the difference is not subtle:
+    42r l.7 (=the hundreds of 120): the returning stroke rejoins the
+      stem and a small white triangle is FULLY ENCLOSED.  Closed bowl.
+    42v l.7 (Abimelech): the arm tapers to a free point and the white
+      runs out to the right.  OPEN hook.  Nothing enclosed.
+  Two signs of the same family, same pen, one page apart, one closed and
+  one open.  ፻ closed, ፫ open.
+  Confidence: HIGH that these are two different signs and that the
+  Abimelech one is the open member.  MEDIUM-HIGH that open = ፫ = 3.
+
+====================================================================
+4. ANCHOR-READY DESCRIPTION  (for the key, whichever cell it fills)
+====================================================================
+
+Put this in the ፶ row, with the caveat that it may belong in the ፴ row,
+and say so in the row.  Either way the SHAPE is now on record, which it
+was not before, and a future reader can match a sign against it blind:
+
+  TWO-PRONGED, OPEN-NOTCHED, LONGER RIGHT LIMB.
+  Two limbs side by side, each with its own short flat cap bar, the LEFT
+  cap set HIGHER than the right and overhanging to the LEFT only, ending
+  in a downward wedge tip.  Between the limbs a single clean U-notch
+  that OPENS UPWARD; no second notch, no enclosed counter anywhere.  The
+  left limb stops SHORT of the baseline; the right limb runs past it and
+  lands ON the baseline — longer than its neighbour but NOT descending
+  below the line.  No hairline bar joins the feet.  Overall width
+  noticeably narrower than ፵ in the same hand.
+  Attestation: f.42r, the son-of-Nun entry, first term of [N]ወ፪ዓመት.
+
+  TESTS THAT SEPARATE IT FROM ITS NEIGHBOURS, in the order to apply them:
+   1. Count prongs.  Three prongs -> ፴/፵ family, not this.  Two -> this
+      or ፳.
+   2. Is anything enclosed?  A closed pear/triangular counter -> ፳.
+      Open notch -> this.
+   3. Is there ONE wide cap winged both sides, or TWO separate caps at
+      different heights?  One wide winged cap -> ፳.  Two caps -> this.
+   4. Do the feet sit on a hairline bar?  Yes -> ፳.  No -> this.
+   5. Does the right limb go BELOW the baseline?  Yes -> ፵.  Level with
+      it -> this.
+
+====================================================================
+5. ON-PAGE CONTROLS AND WHAT THEY SHOWED
+====================================================================
+
+crops/thirty-cmp-montage.png, thirty-A-montage.png, thirty-B-montage.png
+
+  ፵ x3, all three read blind and all three identical:
+    f.42r l.8, f.42r l.9, f.42v l.5 (the Gideon figure).
+    THREE prongs, TWO valleys, hooked/flagged left prong, and a right
+    limb whose stem descends CLEARLY BELOW the feet of the neighbouring
+    letters.  This is the control the brief asked for and it did its job:
+    set beside N1, the missing middle prong and the missing descender
+    are both obvious at 8x, and neither is a judgement call.
+
+  ፳ x2, on two different leaves, identical to each other:
+    f.42r l.7 (the tens of 120), f.42v l.8 (Tola son of Puah).
+    ONE wide cap bar with wings BOTH sides; two strokes splaying from a
+    narrow neck; a CLOSED triangular/pear counter widest at the bottom;
+    feet joined by a hairline; nothing below the baseline.
+    Confirms the key's expanded ፳ entry exactly, on a second leaf.  Also
+    the single most useful negative control here: N1 fails every one of
+    those four features, so the ፳/፴ trap that spoiled the two earlier
+    30-readings is not what is happening at Site A.
+
+  ፻ x1: f.42r l.7, first term of ፻ወ፳.
+    Stem + upper-right arm + CLOSED counter + stem continuing below to a
+    foot.  Used as the positive control for the closed-bowl test in §3.
+
+  ሠ / ሡ: I did not secure one.  Two attempts at candidate positions on
+  f.42r missed (crops/thirty-A-ctrl2.png shows what came up instead) and
+  I stopped rather than burn the call budget, because the three ፵ forms
+  already gave me a three-pronged control in ink from this same pen,
+  which is a better control than a letter anyway.  A ሠ would still be
+  worth having for the STEMLESS three-prong silhouette specifically, and
+  it is the one control this run is missing.
+
+====================================================================
+6. CAN ፶ BE EXCLUDED?
+====================================================================
+
+  SITE B: YES, decisively, and without needing a ፶ anchor.  Whatever ፶
+  looks like, it is a tens sign, and every tens sign in this system is
+  built from prongs on a baseline.  The Abimelech figure has no prongs
+  at all — it is a single vertical stem carrying one upper-right arm,
+  the same construction as ፻ and ፫.  You do not need to know a sign's
+  shape to exclude it from a different construction class.  ፴ is
+  excluded at Site B on exactly the same ground.
+
+  SITE A: NO, and this is the whole finding.  ፶ cannot be excluded at
+  Site A because the table still contains no shape for it; and ፴ cannot
+  be excluded either, except by a ፴ description that was never observed.
+  The gap is now HALF closed: the sign in that slot has a recorded
+  morphology, and four of the five tens are positively separated from it
+  by named features.  What remains is a one-bit ambiguity — 30 against
+  50 — and closing it needs a figure on another folio whose value is
+  fixed by scripture or by our own English, not more pixels from f.42r.
+
+  RECOMMENDED NEXT MOVE: hunt the two-pronged open-notch form on a leaf
+  where the value is externally pinned.  It is a distinctive silhouette
+  and now describable, so it can be searched for.  One sighting in an
+  anchored slot closes both empty cells at once, because whichever it
+  is, the other is then the three-pronged stemless form by elimination.
+
+====================================================================
+7. READING VERSUS INFERRING
+====================================================================
+
+  READ FROM THE INK (no inference):
+    - the surrounding text at both sites, and both seams (ኩ/ስ on 42r,
+      አቢሜ/ሌክ on 42v)
+    - that Site A's figure is a COMPOUND [N1]ወ[N2] and Site B's is SINGLE
+    - N1's prong count, notch, two caps, absent counter, limb lengths
+    - N2's closed loop and top-left ear
+    - B-FIG's stem, arm, and OPEN (unenclosed) hook
+    - all five controls, and the closed-vs-open contrast in §3
+
+  INFERRED:
+    - N1 = ፶ rather than ፴.  Inferred from the key's unobserved claim
+      that ፴ is three-pronged.  Flagged LOW confidence.  If you only
+      take one thing from this run, take the morphology and the
+      exclusions, not this preference.
+    - N2 = ፪ rather than another loop-like unit.  Inferred partly from
+      the larger-first compound order.
+    - B-FIG = ፫ rather than ፻.  The OPEN/CLOSED distinction is read; the
+      mapping open->3, closed->100 is taken from the key's rule.
+
+  NOT DONE, DELIBERATELY: I did not look up what any witness or any
+  earlier reader says either figure should be, and no expected number
+  was in front of me while I read.  The compound at Site A resolves to
+  thirty-two or fifty-two; I noticed only afterwards that neither is a
+  number I would have guessed, which is the right order to notice it in.
