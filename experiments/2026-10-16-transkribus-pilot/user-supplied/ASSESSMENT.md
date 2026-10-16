@@ -4,9 +4,9 @@ Ge’ez Lab / [EthiopianCanon.com](https://ethiopiancanon.com), October 16, 2026
 
 [Raw pasted text](page-1.txt) and [receipt metadata](page-1.json) are preserved
 separately from the earlier public-demo previews. This is a new input, not a
-replacement for a preview or an archived reading. The context suggests Transkribus
-output, but model, uploaded filename, resolution, and full-export status have not
-been confirmed. Do not attribute this input definitively to model 48371 yet.
+replacement for a preview or an archived reading. The user confirmed that this is Transkribus output from **MAIX1-153R using
+model 48371**. That provenance is user-reported rather than instrumented. Uploaded
+filename, image resolution, and full-export status remain unconfirmed.
 
 ## Identification and coverage
 
@@ -39,7 +39,7 @@ correction-time advantage follows from this inspection.
 
 ## Next action
 
-Confirm provenance and obtain the corresponding 168r output. Then align the full
+Obtain the corresponding 168r output and record its provenance. Then align the full
 texts to image lines, independently correct a representative subset, and compare
 existing, specialist, and combined candidates as specified in the
 [roadmap](../../../docs/ROADMAP.md). Sample agreements too. Keep recognition work

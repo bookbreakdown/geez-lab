@@ -8,8 +8,10 @@
   "probable_side": "MAIX1-153R",
   "identification_basis": "Content and 24-line sequence match the source image and archived 153r drafts.",
   "uploaded_filename": null,
-  "model_id": null,
+  "model_id": 48371,
   "input_dimensions": null,
   "complete_export_confirmed": false,
-  "expert_corrected": false
+  "expert_corrected": false,
+  "confirmed_side": "MAIX1-153R",
+  "provenance_confirmation": "User answered yes to whether this was produced from MAIX1-153R using model 48371. Filename and resolution were not supplied; confirmation is user-reported, not instrumented."
 }

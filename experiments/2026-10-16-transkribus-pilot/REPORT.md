@@ -44,8 +44,9 @@ This is neither accuracy nor evidence that one resolution is better.
 
 A user later supplied a 24-line text block matching 153r. See the
 [preliminary inspection](user-supplied/ASSESSMENT.md) and preserved raw input.
-Its model, image resolution, and full-export status remain unconfirmed; it is
-not included in the four instrumented demo submissions above.
+The user confirmed 153r and model 48371; image resolution and full-export status
+remain unconfirmed. It is not included in the four instrumented demo submissions
+above.
 
 ## Next step
 
