@@ -8,6 +8,11 @@ are documented separately in [HISTORY.md](docs/HISTORY.md).
 
 ### Research evaluation, October 16
 
+- Ran four public-demo Transkribus submissions across three manuscript sides,
+  confirming specialist model 48371. Preserved visible previews and observations;
+  full export requires an account and accuracy remains unmeasured. Recorded Leo
+  as outside the advertised script coverage for Ge’ez.
+
 - Assessed two additional analyses against primary sources. Verified the specialist
   Transkribus model listing and inspected the TheoDoor DOCX, which is currently
   a placeholder. Recorded source checks and revised practical priorities.

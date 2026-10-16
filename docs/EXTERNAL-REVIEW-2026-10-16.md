@@ -27,8 +27,11 @@ availability also does not establish that model weights are openly licensed.
 **Recommendation:** compare its output with the existing draft and a fresh image
 reading on three to five representative sides. Keep a small independent corrected
 subset for scoring. Include narrative, church-order prose, and difficult numerals.
-No Transkribus processing, account creation, or paid recognition was performed
-in this review; no performance claim is made for our source.
+A subsequent [public-demo pilot](../experiments/2026-10-16-transkribus-pilot/REPORT.md)
+processed four uploads across three sides and confirmed model 48371. Only partial
+previews were accessible; full export requested an account. No account was created
+or purchase made, and no accuracy claim is made for our source. Leo was also
+checked and ruled out for Ge’ez because its advertised recognition scope is Latin script.
 
 ### TheoDoor DOCX: currently a placeholder
 

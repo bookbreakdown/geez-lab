@@ -66,8 +66,11 @@ repository. See the [roadmap](ROADMAP.md).
 ## Additional analyses and checked leads
 
 [An October 16 source review](EXTERNAL-REVIEW-2026-10-16.md) verified that
-Transkribus offers a specialist Classical Ethiopic recogniser, not yet tested
-here. It also inspected the suggested TheoDoor DOCX: the current download is a
+Transkribus offers a specialist Classical Ethiopic recogniser. A subsequent
+[demo trial](../experiments/2026-10-16-transkribus-pilot/REPORT.md) processed four
+uploads across three sides. It produced Ge’ez previews, but full export required
+an account and accuracy remains unmeasured. Leo advertises Latin-script recognition
+and was ruled out for these Ge’ez images. It also inspected the suggested TheoDoor DOCX: the current download is a
 placeholder with no Ge’ez text. The 2008 edition and its digitisation are
 excluded as commercial translation sources without explicit permission; see
 [the source policy](SOURCES.md). The next bounded experiment should compare
