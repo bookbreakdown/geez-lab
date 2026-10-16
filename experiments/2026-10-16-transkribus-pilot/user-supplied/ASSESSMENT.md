@@ -44,3 +44,21 @@ texts to image lines, independently correct a representative subset, and compare
 existing, specialist, and combined candidates as specified in the
 [roadmap](../../../docs/ROADMAP.md). Sample agreements too. Keep recognition work
 bounded while the complete-English milestone proceeds.
+
+## Repeat run supplied by the user
+
+The user supplied [a second run](page-1-repeat.txt), described as the exact same
+page. Its [receipt and comparison](page-1-repeat.json) record 25 lines: an extra
+leading **ማ፡**, followed by the **same 24 lines, character for character**, as the
+first pasted input. The interface label “Saved in: My Transcriptions” is metadata,
+not part of the transcription. Repeat model/settings were not independently
+observed; the source and model provenance follow the earlier user confirmation.
+
+The leading fragment's role is unadjudicated; it is not evidence of an extra
+main-text manuscript line. This helps explain why a service line count can differ
+from the 24-line main-text count, without establishing exactly how the service
+segmented the image. The repeated body shows stable output in these two supplied
+results. It does not establish recognition accuracy, independent corroboration,
+or whether the service recomputed or reused a saved result. The same apparent
+errors persist. No further identical-page reruns are needed for this comparison;
+168r is the next useful input.

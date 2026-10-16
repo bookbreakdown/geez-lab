@@ -1,0 +1,20 @@
+{
+  "project_home": "https://ethiopiancanon.com",
+  "received_date": "2026-10-16",
+  "origin": "User pasted a second run, described as the exact same page; interface label Saved in: My Transcriptions.",
+  "preservation": "UI label excluded; transcription retained from the leading ማ፡ line, terminal newline added.",
+  "source_side": "MAIX1-153R",
+  "source_basis": "User states same page as the earlier confirmed 153r run.",
+  "model_id": 48371,
+  "model_basis": "Inherited from previously confirmed run; repeat settings not independently observed.",
+  "input_resolution": null,
+  "sha256": "c61dc6cf474a7945b3b32873497304f4a21b5dfefa7950e3e0b2d5fb01b1ac49",
+  "nonempty_lines": 25,
+  "comparison": {
+    "first_input": "page-1.txt",
+    "repeat_input": "page-1-repeat.txt",
+    "change": "One additional leading line: ማ፡",
+    "remaining_24_lines_identical": true,
+    "accuracy_measured": false
+  }
+}
