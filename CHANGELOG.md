@@ -8,6 +8,11 @@ are documented separately in [HISTORY.md](docs/HISTORY.md).
 
 ### Research evaluation, October 16
 
+- Inspected manuscript images and aligned 71 main-text lines across 41v, 153r,
+  and 168r. Added 20 targeted review observations and a complete-side English
+  draft packet with explicit unresolved clauses. No independent expert review,
+  character accuracy, or human correction-time improvement is claimed.
+
 - Prioritised complete-page English for independent review, with expert correction
   time and residual substantive errors as outcomes. Separated the bounded
   Transkribus comparison and disagreement-driven correction experiment from

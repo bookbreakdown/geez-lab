@@ -16,14 +16,20 @@ not a confirmed subscription charge. It did not test new source images, run a
 genetic search, or establish transfer to the missing books. The next useful work
 is better paired data and an image-to-English baseline for expert review.
 
-## Next milestone
+## October 16 image review and English packet
 
-The [roadmap](ROADMAP.md) prioritises several complete sides of English for
-independent review, starting with a three-side Grébaut-aligned packet. The first
-excerpt pilot is complete; complete-page translation quality and human correction
-time remain unmeasured. Transkribus comparison on 153r and 168r is a separate,
-bounded supporting experiment requiring full outputs. Agreement alone will not
-authorise automatic corrections.
+An [image-review pass](../experiments/2026-10-16-image-review/REPORT.md) aligned
+71 main-text lines across 41v, 153r, and 168r, recorded 20 targeted observations,
+and produced [provisional English for all three sides](../experiments/2026-10-16-image-review/ENGLISH-REVIEW-PACKET.md).
+The three sides are nonconsecutive and some clauses remain unresolved. This is
+immediate expert-review material, not the planned three-side Grébaut-aligned test,
+a new blind comparison, or independently checked English.
+
+The user has supplied full-length Transkribus text for the comparison; further
+signup or repeat uploads are not required for this packet. Source/English expert
+corrections and correction-time measurement remain outstanding. Agreement alone
+will not authorise automatic corrections. Complete English for review remains
+the priority over expanding recognition research.
 
 ## What exists
 
