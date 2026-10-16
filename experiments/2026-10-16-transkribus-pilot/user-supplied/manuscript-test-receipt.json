@@ -1,0 +1,51 @@
+{
+  "project_home": "https://ethiopiancanon.com",
+  "received_date": "2026-10-16",
+  "source_filename": "manuscript test..txt",
+  "raw_sha256": "6a465ee587ba0cfa8fa93da351380fdb3e9c252d40c99b1aa4d756ed568e5371",
+  "raw_preserved_as": "manuscript-test-original.txt",
+  "extraction": "Original bytes preserved. Extracted blocks normalise CRLF to LF, remove headings/UI preamble preceding first Ethiopic character, trim surrounding blank lines, and end in newline. Internal text, fragments and line breaks retained.",
+  "records": [
+    {
+      "section": 1,
+      "side_label": "153R",
+      "text_file": "file-section-1-153R.txt",
+      "lines": 25,
+      "sha256": "c61dc6cf474a7945b3b32873497304f4a21b5dfefa7950e3e0b2d5fb01b1ac49",
+      "model_id": null,
+      "input_resolution": null,
+      "note": "Side label provided in file; per-section model and image variant not independently confirmed.",
+      "matches_previous_repeat_after_line_ending_normalisation": true
+    },
+    {
+      "section": 2,
+      "side_label": "41V",
+      "text_file": "file-section-2-41V.txt",
+      "lines": 25,
+      "sha256": "40b7f2bba718eee620de25cb56871595046ff510ebb3a9388c1fb9eb6301ce9e",
+      "model_id": null,
+      "input_resolution": null,
+      "note": "Side label provided in file; per-section model and image variant not independently confirmed."
+    },
+    {
+      "section": 3,
+      "side_label": "168R",
+      "text_file": "file-section-3-168R.txt",
+      "lines": 25,
+      "sha256": "0a318501b58b804feeef5298989a0524be0dd81c682e0e99748365d1f2c78c5d",
+      "model_id": null,
+      "input_resolution": null,
+      "note": "Side label provided in file; per-section model and image variant not independently confirmed."
+    },
+    {
+      "section": 4,
+      "side_label": "153R",
+      "text_file": "file-section-4-153R.txt",
+      "lines": 25,
+      "sha256": "56e835dbd9feaffb62cb4471a99433f809cabc4e04d89f925dc615f2eec29059",
+      "model_id": null,
+      "input_resolution": null,
+      "note": "Side label provided in file; per-section model and image variant not independently confirmed."
+    }
+  ]
+}

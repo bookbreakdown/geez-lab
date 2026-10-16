@@ -48,10 +48,18 @@ The user confirmed 153r and model 48371; image resolution and full-export status
 remain unconfirmed. It is not included in the four instrumented demo submissions
 above.
 
+A later four-output file includes full-length supplied texts for 153r, 41v,
+168r, and a second 153r variant. See the
+[file assessment](user-supplied/FILE-ASSESSMENT.md) and
+[comparison inputs](user-supplied/FULL-OUTPUT-PACKET.md). These user-supplied
+outputs allow the comparison to proceed; full coverage and per-section settings
+still need verification. They do not change the recorded demo-export outcome.
+
 ## Next step
 
-Obtain complete TXT and, if available, PAGE XML outputs through an authenticated
-Transkribus account. Preserve raw outputs, compare aligned regions against the
+Complete plain-text inputs have now been supplied by the user. Confirm their
+settings and, if available, obtain PAGE XML for layout. Preserve raw outputs,
+compare aligned regions against the
 existing draft and a fresh image reading, and obtain independent corrections on
 a small sample. This will show whether specialist HTR reduces expert correction
 work. The current demo alone does not justify replacing the translation workflow.
