@@ -43,8 +43,9 @@ available joins and historically checked joins are different counts.
 - The working key has no secure positive shape for the 30 and 50 signs.
 - Several numerical differences may be genuine witness variants. Othniel and
   Abimelech are candidates for expert adjudication, not settled corrections.
-- Text identification across the range is incomplete. The run identified the
-  *Rest of the Words of Baruch* on 165v–166v; other identifications remain disputed.
+- Text identification across the range is incomplete. The run proposed the
+  *Rest of the Words of Baruch* on 165v–166v; independent confirmation is pending,
+  and other identifications remain disputed.
   The old catalogue-derived book ranges are provisional working labels.
 - The neighbouring sides 187r/187v have an unresolved continuity issue.
 
@@ -61,3 +62,14 @@ This package shares research and tools. It does not add Books IV–VII to a
 published Bible, establish a critical edition, or justify a “first English
 translation” claim. Those require scholarly and bibliographic work beyond this
 repository. See the [roadmap](ROADMAP.md).
+
+## Additional analyses and checked leads
+
+[An October 16 source review](EXTERNAL-REVIEW-2026-10-16.md) verified that
+Transkribus offers a specialist Classical Ethiopic recogniser, not yet tested
+here. It also inspected the suggested TheoDoor DOCX: the current download is a
+placeholder with no Ge’ez text. The 2008 edition and its digitisation are
+excluded as commercial translation sources without explicit permission; see
+[the source policy](SOURCES.md). The next bounded experiment should compare
+source-reading methods on a few representative sides, then produce complete
+English for expert review. A larger evolutionary search is not yet justified.

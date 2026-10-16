@@ -139,6 +139,16 @@ boundaries and an expert-adjudicated subset before attempting many mutations.
 The practical target remains an English draft that reduces expert correction
 work, not duplication of a particular witness’s wording.
 
+## Additional source review after the pilot
+
+Two user-supplied analyses prompted a [source review](../../docs/EXTERNAL-REVIEW-2026-10-16.md).
+A specialist Transkribus recogniser is available and deserves a small manuscript
+trial. The proposed TheoDoor typed-source download was inspected and contains
+only a placeholder, with no Ge’ez text. The underlying 2008 edition and derived
+digitisation are excluded as commercial translation sources without explicit
+permission. Neither finding changes this pilot’s
+recorded results. They inform the next source-reading experiment.
+
 ## Reproduction
 
 Inputs, freezes, exact requests, responses, usage, raw scores, and selection are
@@ -167,7 +177,7 @@ independent run requires a new directory and an appropriate authenticated CLI.
     for data in load('dataset.json'):
         response = outputs[data['id']]
         packet += [f"## {data['id']} — {data['manuscript']}, {data['lines']} ({data['split']})", '',
-                   '### Ge’ez input', '', '```text', data['geez'], '```', '',
+                   '### Ge’ez input', '', '```text', '\n'.join(line.rstrip() for line in data['geez'].splitlines()), '```', '',
                    '### French comparator', '', data['reference_french'], '',
                    'Source: Grébaut, ROC 17 (1912), printed pages' + ','.join(map(str,data['reference_source']['printed_pages'])) + '.', '',
                    '### Baseline English', '', response['english'], '', '### Model-declared uncertainties', '']
@@ -175,7 +185,7 @@ independent run requires a new directory and an appropriate authenticated CLI.
         packet += ['', '### Predeclared review-only differences', '']
         packet += ['- '+x for x in data['review_only']]
         packet += ['']
-    (ROOT / 'READING-PACKET.md').write_text('\n'.join(packet)+'\n', encoding='utf-8')
+    (ROOT / 'READING-PACKET.md').write_text('\n'.join(packet).rstrip()+'\n', encoding='utf-8')
     summary = {'date':'2026-10-16','project_home':'https://ethiopiancanon.com',
                'calls':len(ledger),'reported_usd_equivalent':round(spent,6),
                'summed_call_seconds':round(seconds,3),'reported_models':models,

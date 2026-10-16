@@ -1,0 +1,13 @@
+{
+  "checked_on": "2026-10-16",
+  "project_home": "https://ethiopiancanon.com",
+  "source_url": "https://tohdee.github.io/Dbbb-Ebc/B107-Clm.docx",
+  "sha256": "aa243d7d7c569d6f16d5bd6baa5014d1b5038ea19b5fe1e77c0a71ac524a0e1d",
+  "bytes": 14041,
+  "inspection": "Python zipfile and ElementTree: concatenated w:t text in word/document.xml, grouped by w:p. No macros or embedded content executed.",
+  "paragraphs": 1,
+  "text_characters": 68,
+  "ethiopic_U1200_U137F_characters": 0,
+  "conclusion": "Placeholder only; no usable Ge’ez source text in the linked DOCX on the check date.",
+  "document_included_in_repository": false
+}

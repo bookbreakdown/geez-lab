@@ -95,7 +95,7 @@ As for him, Moses the prophet of God: for the holy books relate that when Levi w
 2b: ወጐየ ፡ ኀበ ፡ ራዳቢል ፡ ካህኒ ፡
 3: ምድያም ፡ በእንተ ፡ ፍርሃተ ፡ ፈርዖ
 4: ን ፡ ወበህየ ፡ አውሰበ ፡ ብእሲተ ፡ ለራ
-5a: ጉኤል ፡ ወወለደ ፡ ፪ ፡ እምውሉደ 
+5a: ጉኤል ፡ ወወለደ ፡ ፪ ፡ እምውሉደ
 ```
 
 ### French comparator
@@ -252,4 +252,3 @@ And after him God saved them, and Jephthah judged them 7 years. And after him He
 - Order of Elon and Philistine oppression differs; do not score the ordering.
 - Elon10 versus40 and Samson20 versus18 are not scored.
 - The French opening Philistine18-year clause precedes the chosen Ge’ez span; do not score its omission.
-

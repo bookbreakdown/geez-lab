@@ -38,8 +38,8 @@ Images are fetched from the library; they are not bundled in this repository.
   spelling differences can also inflate disagreement without changing meaning.
 - The September run reported useful checks from quotations and continuity
   between sides. These support selected readings, not a corpus-wide accuracy claim.
-- The run identified the *Rest of the Words of Baruch* within the range initially
-  treated as Book IV. The book labels in our old index need expert checking.
+- The run proposed an identification of the *Rest of the Words of Baruch* within the range initially
+  treated as Book IV. That identification and the old book labels need expert checking.
 - Some apparent reading errors were differences between manuscript witnesses.
   An English translation of d’Abbadie 78 is not exact ground truth for Ma IX 1.
 

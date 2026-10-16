@@ -8,6 +8,13 @@ are documented separately in [HISTORY.md](docs/HISTORY.md).
 
 ### Research evaluation, October 16
 
+- Assessed two additional analyses against primary sources. Verified the specialist
+  Transkribus model listing and inspected the TheoDoor DOCX, which is currently
+  a placeholder. Recorded source checks and revised practical priorities.
+- Recorded the commercial-source restriction: the 2008 printed edition and
+  digitisation derived from it are excluded as translation sources without
+  explicit permission. The manuscript remains the base.
+
 - Added a bounded French-reference translation pilot with six aligned excerpts,
   three fixed procedures, reserved passages, exact requests/results, and source
   provenance. The original evaluator failure and revised qualification remain visible.
