@@ -1,0 +1,15 @@
+{
+  "project_home": "https://ethiopiancanon.com",
+  "received_date": "2026-10-16",
+  "origin": "User pasted text labelled page 1 in conversation following Transkribus signup discussion.",
+  "preservation": "Text block preserved with supplied line breaks; page 1 label excluded and terminal newline added.",
+  "sha256": "5c81ec7d82c41fec7cfbf6f586313749c71b9826e36ad44955eccc369e1cfa64",
+  "nonempty_lines": 24,
+  "probable_side": "MAIX1-153R",
+  "identification_basis": "Content and 24-line sequence match the source image and archived 153r drafts.",
+  "uploaded_filename": null,
+  "model_id": null,
+  "input_dimensions": null,
+  "complete_export_confirmed": false,
+  "expert_corrected": false
+}

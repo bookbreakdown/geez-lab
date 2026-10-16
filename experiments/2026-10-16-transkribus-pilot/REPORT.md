@@ -40,6 +40,13 @@ character SequenceMatcher ratio was approximately 0.758, but neither is ground
 truth, the preview extent/segmentation differs, and there was no repeat control.
 This is neither accuracy nor evidence that one resolution is better.
 
+## Subsequent user-supplied text
+
+A user later supplied a 24-line text block matching 153r. See the
+[preliminary inspection](user-supplied/ASSESSMENT.md) and preserved raw input.
+Its model, image resolution, and full-export status remain unconfirmed; it is
+not included in the four instrumented demo submissions above.
+
 ## Next step
 
 Obtain complete TXT and, if available, PAGE XML outputs through an authenticated
