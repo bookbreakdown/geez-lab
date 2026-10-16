@@ -16,6 +16,15 @@ not a confirmed subscription charge. It did not test new source images, run a
 genetic search, or establish transfer to the missing books. The next useful work
 is better paired data and an image-to-English baseline for expert review.
 
+## Next milestone
+
+The [roadmap](ROADMAP.md) prioritises several complete sides of English for
+independent review, starting with a three-side Grébaut-aligned packet. The first
+excerpt pilot is complete; complete-page translation quality and human correction
+time remain unmeasured. Transkribus comparison on 153r and 168r is a separate,
+bounded supporting experiment requiring full outputs. Agreement alone will not
+authorise automatic corrections.
+
 ## What exists
 
 The main corpus contains **68 consecutive sides, 156r–189v**, representing

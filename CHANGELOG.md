@@ -8,6 +8,11 @@ are documented separately in [HISTORY.md](docs/HISTORY.md).
 
 ### Research evaluation, October 16
 
+- Prioritised complete-page English for independent review, with expert correction
+  time and residual substantive errors as outcomes. Separated the bounded
+  Transkribus comparison and disagreement-driven correction experiment from
+  Grébaut optimisation; agreement alone does not establish a correct reading.
+
 - Ran four public-demo Transkribus submissions across three manuscript sides,
   confirming specialist model 48371. Preserved visible previews and observations;
   full export requires an account and accuracy remains unmeasured. Recorded Leo
