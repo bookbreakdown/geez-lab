@@ -39,6 +39,27 @@ Alessandro Bausi, *Il Qalēmenṭos etiopico. La rivelazione di Pietro a Clement
 I libri 3–7* (1992), is relevant scholarship. Its Italian translation is not
 included and is not the source of this repository’s English drafts.
 
+## Commercial translation source restriction
+
+The intended English edition is commercial. **The 2008 printed Qalementos
+edition, its modern editorial text, and digitisation derived from it are not
+approved translation sources.** They must not replace the public-domain
+manuscript as our base unless explicit permission covering the intended use is
+obtained. No such permission is recorded here.
+
+Do not treat the ancient work's age or a hosting website's general licence as
+clearance for modern editorial contributions or a derivative digital edition.
+The same restriction applies to creating a translation-memory entry or supplying
+modern edition text as a correction target for the commercial translation.
+Research discussion of the edition does not make it an approved source.
+
+A different printed Ge’ez witness may be considered only after its identity,
+coverage, provenance, and rights for the intended use have been established.
+Until then, continue from the manuscript. This is the project's source policy,
+not a determination of every right in a particular edition. For the general
+distinction between pre-existing material and new contributions, see
+[17 U.S.C. §103](https://www.copyright.gov/title17/92chap1.html#103).
+
 ## What is excluded
 
 HMML microfilm images and derivatives, modern English reference translations,

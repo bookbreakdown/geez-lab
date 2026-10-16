@@ -1,0 +1,24 @@
+{
+  "instructions": "Translate the supplied Ge’ez passage completely into clear English. Preserve names, numbers, speakers, negations, and repetitions. Mark uncertainty and do not invent missing text. Treat numbered lines as manuscript layout, not separate sentences.",
+  "output": {
+    "records": [
+      {
+        "id": "passage ID",
+        "english": "complete English translation",
+        "uncertainties": [
+          "short uncertainty notes; do not add a full commentary"
+        ]
+      }
+    ]
+  },
+  "passages": [
+    {
+      "id": "H01",
+      "geez": "carry-in MAIX1-42R24: ወእ⟨ም⟩ድኅረሁ ፡ ኮነኖሙ ፡ ዲቦራ ፡\n1: ወባርቅ ፡ ፵ ዓመተ ። ወእምድ\n2: ኅሬሁ ፡ [struck through: ኵ፲?ሙ] ፡ ቀነይዎሙ ፡\n3: ስብእ ፡ ምድያም ፡ ፯ ዓመተ ። ወ\n4: አድኃኖሙ ፡ እግዚአብሔር ፡ በ\n5: እዴሁ ፡ ለጌዴዎን ፡ ፵ ዓመተ ።\n6: ወእምድኅሬሁ ፡ ኵኖሙ ፡ አቢሜ\n7: ሌክ ፡ ፫ ዓመተ ። ወእምድኅሬሁ\n8: ኵኖሙ ፡ ቱላ ፡ ወልደ ፡ ፉሐ ፡ ፳ወ፫\n9: ዓመተ ። ወቆመ ፡ እምድኅሬሁ ፡ ኢ\n10: ኤል ፡ ገላአዊ ፡ ወኵኖሙ ፡ ለእስራ\n11a: ኤል ፡ ፲ወ፪ ዓመተ ።"
+    },
+    {
+      "id": "H02",
+      "geez": "11b:  ወእምድኅሬ\n12: ሁ ፡ አድኃኖሙ ፡ እግዚአብሔር\n13: ወኵኖሙ ፡ ዮፍታሔ ፡ ፯ ዓመተ\n14: ወእምድኅሬሁ ፡ ኵኖሙ ፡ ሔሴቦ\n15: ን ፡ ፯ ዓመተ ። ወእምድኅሬሁ ፡ ቀ\n16: ነይዎሙ ፡ ኤሎፍሊ ፡ ለደቂቀ ፡ እስራ\n17: ኤል ፡ ፵ ዓመተ ። ወእምድኅሬሁ ፡\n18: ኵኖሙ ፡ ኤሎሙ ፡ ዘቡለዊ ፡ ፵\n19: ዓመተ ። ወእምድኅሬሁ ፡ ቀነይዎሙ\n20: ኤሎፍሊ ፡ ፵ ዓመተ ። ወእምድኅሬ\n21: ሁ ፡ አድኃኖሙ ፡ እግዚአብሔር ፡\n22: በእዴሁ ፡ ለሶምሶን ፡ ኃያል ፡ ወኵኖ\n23: ሙ ፡ ሶምሶን ፡ ፲ወ፰ተ ፡ ዓመተ ። ለ\n24a: ለሕዝብ ።"
+    }
+  ]
+}

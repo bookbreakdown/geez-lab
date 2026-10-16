@@ -1,0 +1,35 @@
+{
+  "project_home": "https://ethiopiancanon.com",
+  "text_inputs": [
+    {
+      "path": "groundtruth/out-41V.txt",
+      "sha256": "91548b620b1ec705cb94670d25433d4111486a4f25ff3b8258b21aa2779c1f15",
+      "status": "Historical machine transcription, not expert ground truth."
+    },
+    {
+      "path": "groundtruth/out-42R.txt",
+      "sha256": "3aee2d8fd5711b17a259fd462c4f3d72c0bce67738693b09650a86a78b1d45db",
+      "status": "Historical machine transcription, not expert ground truth."
+    },
+    {
+      "path": "groundtruth/out-42V.txt",
+      "sha256": "dc4f286e86ae2512349827d37dfc4bf20ea3af75e5a31ec3f06054dc82a46cc7",
+      "status": "Historical machine transcription, not expert ground truth."
+    }
+  ],
+  "reference_pdf": {
+    "name": "roc-vol17-1912-qalementos.pdf",
+    "sha256": "b6d9ffac5a67bd76b55e20765f2b7055cfc812d6ff2bd4eeaad6f9fc63040810",
+    "included_in_git": false,
+    "archive_url": "https://archive.org/details/revue-de-orient-chretien_1912_17",
+    "pdf_pages_visually_checked": [
+      145,
+      146
+    ],
+    "printed_pages": [
+      141,
+      142
+    ]
+  },
+  "alignment_review": "Prepared by Codex assistant from images and existing records; no independent Ge’ez expert review."
+}

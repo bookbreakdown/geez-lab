@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-16",
+  "project_home": "https://ethiopiancanon.com",
+  "calls": 10,
+  "reported_usd_equivalent": 0.972122,
+  "summed_call_seconds": 253.094,
+  "reported_models": [
+    "claude-fable-5-1",
+    "claude-sonnet-5-5"
+  ],
+  "candidate_improvement_demonstrated": false,
+  "feedback_mutation_performed": false,
+  "reserved_baseline_shared_fact_score": 1.0,
+  "evaluator_caveat": "A mask-handling error and fragment/alignment sensitivity invalidate interpreting tiny development score differences as gains.",
+  "next_action": "Improve paired data and test an image-to-English baseline; do not scale evolutionary search on this evaluator."
+}

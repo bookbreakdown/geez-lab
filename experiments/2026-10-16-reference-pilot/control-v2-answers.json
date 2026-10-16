@@ -1,0 +1,72 @@
+[
+  {
+    "id": "Q01",
+    "expected_acceptable": false,
+    "mutation": "negation"
+  },
+  {
+    "id": "Q02",
+    "expected_acceptable": true,
+    "mutation": "transliteration"
+  },
+  {
+    "id": "Q03",
+    "expected_acceptable": false,
+    "mutation": "instrument_omission"
+  },
+  {
+    "id": "Q04",
+    "expected_acceptable": false,
+    "mutation": "name"
+  },
+  {
+    "id": "Q05",
+    "expected_acceptable": false,
+    "mutation": "masked_variant_does_not_excuse_wrong_person"
+  },
+  {
+    "id": "Q06",
+    "expected_acceptable": true,
+    "mutation": "faithful"
+  },
+  {
+    "id": "Q07",
+    "expected_acceptable": true,
+    "mutation": "harmless_connective_omission"
+  },
+  {
+    "id": "Q08",
+    "expected_acceptable": false,
+    "mutation": "unsupported_addition"
+  },
+  {
+    "id": "Q09",
+    "expected_acceptable": false,
+    "mutation": "roles"
+  },
+  {
+    "id": "Q10",
+    "expected_acceptable": true,
+    "mutation": "paraphrase"
+  },
+  {
+    "id": "Q11",
+    "expected_acceptable": false,
+    "mutation": "sequence"
+  },
+  {
+    "id": "Q12",
+    "expected_acceptable": false,
+    "mutation": "parentage"
+  },
+  {
+    "id": "Q13",
+    "expected_acceptable": false,
+    "mutation": "number"
+  },
+  {
+    "id": "Q14",
+    "expected_acceptable": true,
+    "mutation": "masked_variant"
+  }
+]

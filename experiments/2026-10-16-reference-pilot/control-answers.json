@@ -1,0 +1,62 @@
+[
+  {
+    "id": "C01",
+    "expected_acceptable": false,
+    "mutation": "omission"
+  },
+  {
+    "id": "C02",
+    "expected_acceptable": false,
+    "mutation": "name"
+  },
+  {
+    "id": "C03",
+    "expected_acceptable": false,
+    "mutation": "addition"
+  },
+  {
+    "id": "C04",
+    "expected_acceptable": true,
+    "mutation": "paraphrase"
+  },
+  {
+    "id": "C05",
+    "expected_acceptable": false,
+    "mutation": "roles"
+  },
+  {
+    "id": "C06",
+    "expected_acceptable": true,
+    "mutation": "paraphrase"
+  },
+  {
+    "id": "C07",
+    "expected_acceptable": true,
+    "mutation": "faithful"
+  },
+  {
+    "id": "C08",
+    "expected_acceptable": true,
+    "mutation": "name_equivalence"
+  },
+  {
+    "id": "C09",
+    "expected_acceptable": false,
+    "mutation": "negation"
+  },
+  {
+    "id": "C10",
+    "expected_acceptable": false,
+    "mutation": "number"
+  },
+  {
+    "id": "C11",
+    "expected_acceptable": false,
+    "mutation": "parentage"
+  },
+  {
+    "id": "C12",
+    "expected_acceptable": false,
+    "mutation": "roles"
+  }
+]

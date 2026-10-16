@@ -1,0 +1,219 @@
+[
+  {
+    "id": "D01",
+    "split": "development",
+    "manuscript": "MAIX1-41V",
+    "lines": "4b–13a",
+    "geez": "4b: እስመ፡እውስበ፡ስል\n5: ሞን፡ወልደ፡ዳዊት፡አንስተ፡፯፻ዕ\n6: ቁባት፡ወኢረከበ፡በውስቴቶን፡ወ\n7: ሉደ፡ወ፩እምኔሆን፡እስመ፡እግዚአ\n8: ብሔር፡ልዑል፡ኢሠምረ፡ይደመር\n9: ዘርአሙ፡ለከነዓን፡ምስለ፡ዘርአ፡\n10: ቅዱሳን፡ሕዝብ፡ወእምኔሆሙ፡ተሰብ\n11: አ፡እግዚእነ፡ኢየሱስ፡ክርስቶስ፨\n12: ኮሎንኪ፡እንስቲያሁ፡ለስልሞን\n13a: እምዘርአ፡ከነዓን፡እሙንቱ፨",
+    "reference_french": "En effet, Salomon, fils de David, épousa 700 femmes et 80 concubines. Mais aucune d’entre elles n’obtint de fils. En effet, le Seigneur Très-Haut ne voulait pas que la postérité de Canaan s’unît avec le peuple élu, duquel s’incarnerait Notre-Seigneur et Notre-Sauveur Jésus-Christ. (Or), toutes les femmes de Salomon étaient de la postérité de Canaan.",
+    "score_facts": [
+      "Solomon is son of David and has many wives/concubines.",
+      "None of these women bears him a son.",
+      "The Most High does not want Canaanite descent mixed with the chosen people.",
+      "Jesus Christ becomes incarnate from the chosen people.",
+      "Solomon’s women are of Canaanite descent."
+    ],
+    "review_only": [
+      "The machine transcription does not clearly support the French distinction of 700 wives plus 80 concubines. Do not score that numerical distinction."
+    ],
+    "geez_sha256": "ed16c34c0d65989e219b8c88b8b7078ebcf3e2390f6af35f3ea29b37344dccc3",
+    "reference_source": {
+      "author": "Sylvain Grébaut",
+      "journal": "Revue de l’Orient Chrétien",
+      "volume": 17,
+      "year": 1912,
+      "printed_pages": [
+        141
+      ],
+      "archive_url": "https://archive.org/details/revue-de-orient-chretien_1912_17",
+      "rights": "Historical French source; excluded from the project’s original-work licence grant.",
+      "preparation": "Manually corrected from local OCR. French printed pages141–142 visually checked against original PDF pages145–146 on 2026-10-16. Footnote markers, folio references, and page-wrap hyphens removed; supplied parentheses and source lacunae retained. Names retain transliteration variants.",
+      "pdf_pages": [
+        145
+      ]
+    }
+  },
+  {
+    "id": "D02",
+    "split": "development",
+    "manuscript": "MAIX1-41V",
+    "lines": "13b–22a",
+    "geez": "13b: ዚዓ\n14: ሁስ፡ለሙሴ፡ነቢይ፡እግዚአብሔ\n15: ር፡እስመ፡መጻሕፍት፡ቅዱሳት፡ይ\n16: ዜንው፡ከመ፡ሌዊ፡ሶበ፡ሖረ፡ምስለ\n17: አቡሁ፡ብሔረ፡ግብጽ፨ወበህየ፡\n18: ተወልደ፡ሙሴ፡ወትስማራን፡ወኤ\n19: ያሱ፡ወልደ፡ነዌ፡ወካሌብ፡እምዘ\n20: እ፡ዚእሁ፨ወለሙሴ፡ሶበ፡ወረው\n21: ዖ፡ውስቱ፡ተከዚ፡ንሠእቶ፡ስፊር\n22a: ወለት፡ፈርዖን፡ወእትወቶ፡ቤታ",
+    "reference_french": "(A propos de) l’histoire de Moïse, le prophète du Seigneur, voici que les Livres Saints racontent que, lorsque Lévi fut allé avec son père au pays d’Égypte, c’est là que naquirent Moïse, Te‘mrân, Josué, fils de Nawé, et Caleb de la postérité de Lévi. Lorsqu’on eut jeté Moïse dans le fleuve, Sâfir, fille de Pharaon, le prit, et l’apporta dans sa maison.",
+    "score_facts": [
+      "Moses is identified as a prophet of God.",
+      "Levi goes to Egypt with his father.",
+      "Moses and other named descendants are born there.",
+      "Joshua is son of Nun/Nawé.",
+      "Moses is put in the river.",
+      "Pharaoh’s daughter Safir takes Moses and brings him to her house."
+    ],
+    "review_only": [
+      "Te‘mrân versus the machine transcription’s name is a transliteration/reading question; do not penalise the spelling."
+    ],
+    "geez_sha256": "91162c1ec8909a021de444d2c6b632957ebec66b3a5c7a184ae562ceac6572a5",
+    "reference_source": {
+      "author": "Sylvain Grébaut",
+      "journal": "Revue de l’Orient Chrétien",
+      "volume": 17,
+      "year": 1912,
+      "printed_pages": [
+        141
+      ],
+      "archive_url": "https://archive.org/details/revue-de-orient-chretien_1912_17",
+      "rights": "Historical French source; excluded from the project’s original-work licence grant.",
+      "preparation": "Manually corrected from local OCR. French printed pages141–142 visually checked against original PDF pages145–146 on 2026-10-16. Footnote markers, folio references, and page-wrap hyphens removed; supplied parentheses and source lacunae retained. Names retain transliteration variants.",
+      "pdf_pages": [
+        145
+      ]
+    }
+  },
+  {
+    "id": "D03",
+    "split": "development",
+    "manuscript": "MAIX1-42R",
+    "lines": "2b–5a",
+    "geez": "2b: ወጐየ ፡ ኀበ ፡ ራዳቢል ፡ ካህኒ ፡\n3: ምድያም ፡ በእንተ ፡ ፍርሃተ ፡ ፈርዖ\n4: ን ፡ ወበህየ ፡ አውሰበ ፡ ብእሲተ ፡ ለራ\n5a: ጉኤል ፡ ወወለደ ፡ ፪ ፡ እምውሉደ ",
+    "reference_french": "(Puis) il s’enfuit chez Râ‘ow’él, prêtre (du pays) de Madian, par crainte de Pharaon. Là il épousa la sœur de Râ‘ou’él, et engendra deux enfants.",
+    "score_facts": [
+      "Moses flees because he fears Pharaoh.",
+      "He goes to a priest of Midian.",
+      "Moses marries there.",
+      "He fathers two children."
+    ],
+    "review_only": [
+      "Radabil/Raguel/Râ‘ow’él name readings differ; do not score spelling.",
+      "The French says the priest’s sister; the raw Ge’ez transcription has a wife/woman construction. Do not reward selecting sister over wife or daughter without manuscript review."
+    ],
+    "geez_sha256": "20d5689c4a35f6eb99e7631387c11a4b6da646ce2692edbf665a741a115af670",
+    "reference_source": {
+      "author": "Sylvain Grébaut",
+      "journal": "Revue de l’Orient Chrétien",
+      "volume": 17,
+      "year": 1912,
+      "printed_pages": [
+        141
+      ],
+      "archive_url": "https://archive.org/details/revue-de-orient-chretien_1912_17",
+      "rights": "Historical French source; excluded from the project’s original-work licence grant.",
+      "preparation": "Manually corrected from local OCR. French printed pages141–142 visually checked against original PDF pages145–146 on 2026-10-16. Footnote markers, folio references, and page-wrap hyphens removed; supplied parentheses and source lacunae retained. Names retain transliteration variants.",
+      "pdf_pages": [
+        145
+      ]
+    }
+  },
+  {
+    "id": "D04",
+    "split": "development",
+    "manuscript": "MAIX1-42R",
+    "lines": "9b–23",
+    "geez": "9b:  ወእ\n10: ምድኅረ ፡ ሞተ ፡ ሙሴ ፡ ኮነኖሙ ፡\n11: ለሕዝብ ፡ ወልደ ፡ ነዌ ፡ ፳ወ፬ ፡ ዓመት\n12: ። ወእምድኅረሁ ፡ ኮነኖሙ ፡ ፣ ኩ\n13: ስ ፡ ዕልው ፡ ኮነኖሙ ፡ ፰ ዓመተ ።\n14: ወእምድኅረሁ ፡ ጎቶንያል ፡ ወልደ ፡\n15: ቄኔዝ ፡ እ?ኁሁ ፡ ለካሌብ ፡ ፲ ፡ ዓመ\n16: ተ ፡ ወእምድኅረሁ ፡ ተቀንዩ ፡ ደቂቀ\n17: እስራኤል ፡ ለኤግሎም ፡ ንጉሠ ፡ ሞ\n18: አብ ፡ ፻፰ ዓመተ ። ወእምዝ ፡ አድ\n19: ኀኖሙ ፡ እግዚአብሔር ፡ እምእዴ\n20: ሁ ። ወእምድኅረሁ ፡ ኮነኖሙ ፡\n21: ናዖድ ፡ ወልደ ፡ ጌራ ፡ ፹ ፡ ዓመተ ፡ ወ\n22: በ፲ወ፯ ዓመተ ። ምኵናኑ ፡ ለናዖ\n23: ድ ፡ ተፈጸመ ፡ ፵፻ እምፍጥረት ።",
+    "reference_french": "Après que Moïse fut mort, Josué, fils de Nawé, jugea le peuple pendant 31 ans. Après lui, l’impie Kuesâ les jugea pendant 8 ans. Après lui, Hatonyâl, fils de Qénéz, frère de Caleb, les jugea pendant 50 ans. Ensuite, les enfants d’Israël furent asservis à Églon, roi de Moab, pendant 18 ans. Puis le Seigneur les délivra. Ensuite, Nâ’od, fils de Gérâ, les jugea pendant 80 ans. C’est (pendant) la 27e année de la judicature de Nâ’od que s’écoula l’an 4000 de la création.",
+    "score_facts": [
+      "Moses dies before Joshua son of Nun judges the people.",
+      "A wicked ruler follows Joshua and rules eight years.",
+      "Othniel/Hatonyâl is son of Kenaz/Qénéz and related as brother to Caleb.",
+      "Israel becomes subject to Eglon, king of Moab.",
+      "God delivers Israel from that ruler.",
+      "Ehud/Na’od is son of Gera and rules eighty years.",
+      "The narrative connects Ehud’s judgeship with year 4000 from creation."
+    ],
+    "review_only": [
+      "Joshua 31 versus raw transcription 24; Othniel 50 versus 10; Eglon 18 versus108; Ehud anniversary27 versus17 are not scored. These could be transcription errors or witness differences.",
+      "The omitted given name Joshua in one clause is partly recoverable from son of Nun; allow an explicit supplied Joshua."
+    ],
+    "geez_sha256": "958ead099917bea37748d317ec4b6b6eacc9036b34916db8a898e5ffec27d33f",
+    "reference_source": {
+      "author": "Sylvain Grébaut",
+      "journal": "Revue de l’Orient Chrétien",
+      "volume": 17,
+      "year": 1912,
+      "printed_pages": [
+        141,
+        142
+      ],
+      "archive_url": "https://archive.org/details/revue-de-orient-chretien_1912_17",
+      "rights": "Historical French source; excluded from the project’s original-work licence grant.",
+      "preparation": "Manually corrected from local OCR. French printed pages141–142 visually checked against original PDF pages145–146 on 2026-10-16. Footnote markers, folio references, and page-wrap hyphens removed; supplied parentheses and source lacunae retained. Names retain transliteration variants.",
+      "pdf_pages": [
+        145,
+        146
+      ]
+    }
+  },
+  {
+    "id": "H01",
+    "split": "heldout",
+    "manuscript": "MAIX1-42V",
+    "lines": "42R24–42V11a",
+    "geez": "carry-in MAIX1-42R24: ወእ⟨ም⟩ድኅረሁ ፡ ኮነኖሙ ፡ ዲቦራ ፡\n1: ወባርቅ ፡ ፵ ዓመተ ። ወእምድ\n2: ኅሬሁ ፡ [struck through: ኵ፲?ሙ] ፡ ቀነይዎሙ ፡\n3: ስብእ ፡ ምድያም ፡ ፯ ዓመተ ። ወ\n4: አድኃኖሙ ፡ እግዚአብሔር ፡ በ\n5: እዴሁ ፡ ለጌዴዎን ፡ ፵ ዓመተ ።\n6: ወእምድኅሬሁ ፡ ኵኖሙ ፡ አቢሜ\n7: ሌክ ፡ ፫ ዓመተ ። ወእምድኅሬሁ\n8: ኵኖሙ ፡ ቱላ ፡ ወልደ ፡ ፉሐ ፡ ፳ወ፫\n9: ዓመተ ። ወቆመ ፡ እምድኅሬሁ ፡ ኢ\n10: ኤል ፡ ገላአዊ ፡ ወኵኖሙ ፡ ለእስራ\n11a: ኤል ፡ ፲ወ፪ ዓመተ ።",
+    "reference_french": "Débora et Barac les jugèrent pendant 40 ans. Ensuite, les gens de Madian les asservirent pendant 7 ans. Mais le Seigneur les délivra par la main de Gédéon. Gédéon les jugea pendant… ans. Après lui, Abimélec les jugea pendant 30 ans. Après lui, Tolâ, fils de Fouha, les jugea pendant 23 ans, et les rendit forts. Après lui, Iyâ’ér de Galaad jugea Israël pendant 22 ans.",
+    "score_facts": [
+      "Deborah and Barak judge for forty years.",
+      "The people of Midian enslave Israel for seven years.",
+      "God delivers Israel through Gideon.",
+      "Abimelech rules after Gideon.",
+      "Tola is son of Puah/Fouha and rules twenty-three years.",
+      "A Gileadite ruler follows Tola and rules Israel."
+    ],
+    "review_only": [
+      "Gideon’s years are a gap in the French.",
+      "Abimelech30 versus3 and Jair22 versus12 are not scored.",
+      "French makes Tola strengthen them; raw transcription reads a standing/arising phrase. Treat as review-only."
+    ],
+    "geez_sha256": "bbe046df601a8c19f877251e27ded846bc0da2d2ba407858e2d63b9344f2b1a0",
+    "reference_source": {
+      "author": "Sylvain Grébaut",
+      "journal": "Revue de l’Orient Chrétien",
+      "volume": 17,
+      "year": 1912,
+      "printed_pages": [
+        142
+      ],
+      "archive_url": "https://archive.org/details/revue-de-orient-chretien_1912_17",
+      "rights": "Historical French source; excluded from the project’s original-work licence grant.",
+      "preparation": "Manually corrected from local OCR. French printed pages141–142 visually checked against original PDF pages145–146 on 2026-10-16. Footnote markers, folio references, and page-wrap hyphens removed; supplied parentheses and source lacunae retained. Names retain transliteration variants.",
+      "pdf_pages": [
+        146
+      ]
+    }
+  },
+  {
+    "id": "H02",
+    "split": "heldout",
+    "manuscript": "MAIX1-42V",
+    "lines": "11b–24a",
+    "geez": "11b:  ወእምድኅሬ\n12: ሁ ፡ አድኃኖሙ ፡ እግዚአብሔር\n13: ወኵኖሙ ፡ ዮፍታሔ ፡ ፯ ዓመተ\n14: ወእምድኅሬሁ ፡ ኵኖሙ ፡ ሔሴቦ\n15: ን ፡ ፯ ዓመተ ። ወእምድኅሬሁ ፡ ቀ\n16: ነይዎሙ ፡ ኤሎፍሊ ፡ ለደቂቀ ፡ እስራ\n17: ኤል ፡ ፵ ዓመተ ። ወእምድኅሬሁ ፡\n18: ኵኖሙ ፡ ኤሎሙ ፡ ዘቡለዊ ፡ ፵\n19: ዓመተ ። ወእምድኅሬሁ ፡ ቀነይዎሙ\n20: ኤሎፍሊ ፡ ፵ ዓመተ ። ወእምድኅሬ\n21: ሁ ፡ አድኃኖሙ ፡ እግዚአብሔር ፡\n22: በእዴሁ ፡ ለሶምሶን ፡ ኃያል ፡ ወኵኖ\n23: ሙ ፡ ሶምሶን ፡ ፲ወ፰ተ ፡ ዓመተ ። ለ\n24a: ለሕዝብ ።",
+    "reference_french": "Ensuite, les Philistins asservirent les enfants d’Israël pendant 18 ans. Puis le Seigneur les délivra par la main de Jephté, qui sacrifia sa fille devant le Seigneur. Jephté les jugea pendant 7 ans. Après lui, Hésébon les jugea pendant 7 ans. Après lui, Élômou, (de la tribu) de Zabulon, les jugea pendant 10 ans. Après lui, Lâbon les jugea pendant 8 ans. Ensuite, les Philistins asservirent les enfants d’Israël pendant 40 ans. Mais le Seigneur les délivra par la main de Samson le Fort. Samson jugea le peuple pendant 20 ans.",
+    "score_facts": [
+      "God delivers Israel and Jephthah rules for seven years.",
+      "Hesebon/Ibzan follows and rules seven years.",
+      "Philistines enslave Israel for forty years.",
+      "Elon/Elomou is a Zebulunite ruler.",
+      "God delivers Israel through mighty Samson.",
+      "Samson rules/judges the people."
+    ],
+    "review_only": [
+      "The French contains Jephthah’s daughter sacrifice and Labon, absent from this raw transcript; those reference-only clauses are not scored.",
+      "Order of Elon and Philistine oppression differs; do not score the ordering.",
+      "Elon10 versus40 and Samson20 versus18 are not scored.",
+      "The French opening Philistine18-year clause precedes the chosen Ge’ez span; do not score its omission."
+    ],
+    "geez_sha256": "5adc1999f9824edde3f65a73c927f5d73f27ff84c5314f99335f1b19d1bcf633",
+    "reference_source": {
+      "author": "Sylvain Grébaut",
+      "journal": "Revue de l’Orient Chrétien",
+      "volume": 17,
+      "year": 1912,
+      "printed_pages": [
+        142
+      ],
+      "archive_url": "https://archive.org/details/revue-de-orient-chretien_1912_17",
+      "rights": "Historical French source; excluded from the project’s original-work licence grant.",
+      "preparation": "Manually corrected from local OCR. French printed pages141–142 visually checked against original PDF pages145–146 on 2026-10-16. Footnote markers, folio references, and page-wrap hyphens removed; supplied parentheses and source lacunae retained. Names retain transliteration variants.",
+      "pdf_pages": [
+        146
+      ]
+    }
+  }
+]

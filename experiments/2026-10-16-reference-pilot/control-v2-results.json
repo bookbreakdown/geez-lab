@@ -1,0 +1,139 @@
+{
+  "qualified": true,
+  "correct": 14,
+  "total": 14,
+  "cases": [
+    {
+      "id": "Q01",
+      "expected_acceptable": false,
+      "mutation": "negation",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Reversal: candidate says 'He did not kill Nesom' whereas French says he killed Nâsom"
+      ]
+    },
+    {
+      "id": "Q02",
+      "expected_acceptable": true,
+      "mutation": "transliteration",
+      "observed_acceptable": true,
+      "correct": true,
+      "explanation": []
+    },
+    {
+      "id": "Q03",
+      "expected_acceptable": false,
+      "mutation": "instrument_omission",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Omits 'by the hand of Samson the Mighty' (agent/instrument Samson missing)",
+        "'God' for 'le Seigneur' is a minor rendering; main issue is the missing Samson"
+      ]
+    },
+    {
+      "id": "Q04",
+      "expected_acceptable": false,
+      "mutation": "name",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Incorrect name: Gideon instead of Samson",
+        "Omits 'the Mighty/Fort'"
+      ]
+    },
+    {
+      "id": "Q05",
+      "expected_acceptable": false,
+      "mutation": "masked_variant_does_not_excuse_wrong_person",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Incorrect name: Joshua instead of Moses (the age value is review-only and not scored)"
+      ]
+    },
+    {
+      "id": "Q06",
+      "expected_acceptable": true,
+      "mutation": "faithful",
+      "observed_acceptable": true,
+      "correct": true,
+      "explanation": []
+    },
+    {
+      "id": "Q07",
+      "expected_acceptable": true,
+      "mutation": "harmless_connective_omission",
+      "observed_acceptable": true,
+      "correct": true,
+      "explanation": []
+    },
+    {
+      "id": "Q08",
+      "expected_acceptable": false,
+      "mutation": "unsupported_addition",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Unsupported addition: Samson was given a golden crown"
+      ]
+    },
+    {
+      "id": "Q09",
+      "expected_acceptable": false,
+      "mutation": "roles",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Names swapped: Joshua died and Moses son of Nun judged, whereas French has Moses dying and Joshua son of Nawé judging"
+      ]
+    },
+    {
+      "id": "Q10",
+      "expected_acceptable": true,
+      "mutation": "paraphrase",
+      "observed_acceptable": true,
+      "correct": true,
+      "explanation": []
+    },
+    {
+      "id": "Q11",
+      "expected_acceptable": false,
+      "mutation": "sequence",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Reversal of before/after: 'Before Moses died' instead of 'After Moses died'"
+      ]
+    },
+    {
+      "id": "Q12",
+      "expected_acceptable": false,
+      "mutation": "parentage",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Incorrect name: Joshua son of Pharaoh instead of son of Nawé/Nun"
+      ]
+    },
+    {
+      "id": "Q13",
+      "expected_acceptable": false,
+      "mutation": "number",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Incorrect number: four hundred years in Egypt instead of forty"
+      ]
+    },
+    {
+      "id": "Q14",
+      "expected_acceptable": true,
+      "mutation": "masked_variant",
+      "observed_acceptable": true,
+      "correct": true,
+      "explanation": []
+    }
+  ]
+}

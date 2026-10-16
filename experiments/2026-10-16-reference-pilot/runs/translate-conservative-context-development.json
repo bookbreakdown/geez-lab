@@ -1,0 +1,107 @@
+{
+  "label": "translate-conservative-context-development",
+  "role": "translate",
+  "model_alias": "fable",
+  "reported_models": {
+    "claude-fable-5-1": {
+      "inputTokens": 2,
+      "outputTokens": 3924,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 2406,
+      "webSearchRequests": 0,
+      "costUSD": 0.24434,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 64000,
+      "thinkingTokens": 2337,
+      "canonicalModel": "claude-fable-5-1",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 2406,
+    "cache_read_input_tokens": 0,
+    "output_tokens": 3924,
+    "output_tokens_details": {
+      "thinking_tokens": 2337
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2406,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 3924,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 2406,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 2406
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "num_turns": 1,
+  "permission_denials": [],
+  "reported_usd": 0.24434,
+  "elapsed_seconds": 90.285,
+  "cli_version": "2.1.301",
+  "request_sha256": "a4c8ad7e7b3e4bb88e4e40f94515a82205c329be0c847c461751b64c6d75b0a5",
+  "response": {
+    "records": [
+      {
+        "id": "D01",
+        "english": "For Solomon son of David married women, seven hundred concubines, and he found among them no child, not even one from them, because God Most High was not pleased that the seed of Canaan should be joined with the seed of the holy people; and from them (the holy people) our Lord Jesus Christ became man. Indeed all of them, the wives of Solomon, were of the seed of Canaan.",
+        "uncertainties": [
+          "Line 4b–5 እውስበ read as አውሰበ 'he married' (orthographic variant, not emended).",
+          "፯፻ዕቁባት 'seven hundred concubines' kept as written although 1 Kings 11:3 distributes the numbers differently.",
+          "Line 12 ኮሎንኪ is not a standard form; taken as ኵሎን(ኬ) 'all of them indeed' with feminine plural agreeing with 'wives'; alternative: a corrupt word, left as interpretive rather than letter-level doubt.",
+          "ወእምኔሆሙ 'from them' – antecedent taken as the holy people, not the Canaanite seed."
+        ]
+      },
+      {
+        "id": "D02",
+        "english": "As for his own [lineage], (that of) Moses the prophet of God: for the holy scriptures relate how Levi, when he went with his father to the land of Egypt — and there were born Moses and Tesmaran and Joshua son of Nun and Caleb, from his own [seed/kin]. And as for Moses, when they had thrown him into the river, Sefir, the daughter of Pharaoh, took him and brought him into her house.",
+        "uncertainties": [
+          "ዚዓሁስ (13b–14) read as ዚአሁ-ስ 'as for his (own)'; syntax of the opening is elliptical and the main clause after ከመ ሌዊ ሶበ ሖረ is never completed in the text as transmitted.",
+          "ትስማራን (18) treated as a personal name; identification uncertain (possibly a woman of Moses' family or a corrupt name).",
+          "እምዘእ፡ዚእሁ (19–20) read as እምዘ ዚአሁ 'from that which is his own' (i.e., his seed/kin); letter-level reading uncertain across the line break.",
+          "ወረውዖ read as ወረወዎ 'they threw him'; ንሠእቶ as ነሥአቶ 'she took him'; ወእትወቶ as ወአትወቶ 'she brought him in'.",
+          "ስፊር taken as the name of Pharaoh's daughter (not a biblical name); alternative that it is an epithet is not supported."
+        ]
+      },
+      {
+        "id": "D03",
+        "english": "And he fled to Radabil the priest of Midian for fear of Pharaoh, and there he married a wife of Raguel's [household], and he begot two of the sons of…",
+        "uncertainties": [
+          "Passage breaks off after 'two of the sons of'.",
+          "ራዳቢል and ራጉኤል appear as two different names in the same passage; both kept as written rather than harmonised to Reuel/Jethro.",
+          "ብእሲተ ለራጉኤል literally 'a wife (belonging) to Raguel'; understood as 'a woman of Raguel's family', i.e., his daughter — interpretive.",
+          "ካህኒ for ካህነ 'priest (of)', orthographic variant."
+        ]
+      },
+      {
+        "id": "D04",
+        "english": "And after Moses died, the son of Nun governed the people for 24 years. And after him, Kus the apostate governed them — he governed them for 8 years. And after him, Othniel son of Kenaz, the brother of Caleb, for 10 years. And after him the children of Israel were enslaved to Eglon king of Moab for 108 years. And then God delivered them from his hand. And after him, Ehud (Na'od) son of Gera governed them for 80 years; and in the 17th year of Ehud's rule, 4,000 [years] from creation were completed.",
+        "uncertainties": [
+          "ኩስ ዕልው 'Kus the apostate/rebel' likely refers to Cushan-rishathaim; name kept as written. ኮነኖሙ is written twice (12–13), apparently dittography; translated once with the repetition shown.",
+          "Line 15 እ?ኁሁ: one letter marked illegible in the source; reading እኁሁ 'his brother' is the only plausible fit.",
+          "፻፰ '108' years for Eglon kept as written though Judges 3:14 has 18.",
+          "፵፻ read as 40×100 = 4,000; alternative 4,100 (፵+፻) is less likely given the construction.",
+          "Punctuation places ። after 'ወበ፲ወ፯ ዓመተ'; translated with '17th year' attached to the following clause about Ehud's rule and the creation era."
+        ]
+      }
+    ]
+  }
+}

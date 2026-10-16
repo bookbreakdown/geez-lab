@@ -38,13 +38,19 @@ Images are fetched from the library; they are not bundled in this repository.
   spelling differences can also inflate disagreement without changing meaning.
 - The September run reported useful checks from quotations and continuity
   between sides. These support selected readings, not a corpus-wide accuracy claim.
-- The run identified the *Rest of the Words of Baruch* within the range initially
-  treated as Book IV. The book labels in our old index need expert checking.
+- The run proposed an identification of the *Rest of the Words of Baruch* within the range initially
+  treated as Book IV. That identification and the old book labels need expert checking.
 - Some apparent reading errors were differences between manuscript witnesses.
   An English translation of d’Abbadie 78 is not exact ground truth for Ma IX 1.
 
 The [current status](docs/STATUS.md) distinguishes reported checks, unresolved
 readings, and hypotheses. Character error rate on this manuscript is unmeasured.
+
+An [October 16 reference-guided translation pilot](experiments/2026-10-16-reference-pilot/REPORT.md)
+tested three procedures against French with reserved passages. It found no
+demonstrated prompt improvement and exposed evaluator/alignment problems;
+the [reading packet](experiments/2026-10-16-reference-pilot/READING-PACKET.md)
+shows the actual provisional English.
 
 ## Try the tools
 
