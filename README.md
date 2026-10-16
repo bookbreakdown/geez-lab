@@ -46,6 +46,12 @@ Images are fetched from the library; they are not bundled in this repository.
 The [current status](docs/STATUS.md) distinguishes reported checks, unresolved
 readings, and hypotheses. Character error rate on this manuscript is unmeasured.
 
+An [October 16 reference-guided translation pilot](experiments/2026-10-16-reference-pilot/REPORT.md)
+tested three procedures against French with reserved passages. It found no
+demonstrated prompt improvement and exposed evaluator/alignment problems;
+the [reading packet](experiments/2026-10-16-reference-pilot/READING-PACKET.md)
+shows the actual provisional English.
+
 ## Try the tools
 
 Python **3.10 or newer** is sufficient. The included tools use only the Python

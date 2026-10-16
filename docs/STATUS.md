@@ -3,6 +3,19 @@
 Prepared October 15, 2026, for [EthiopianCanon.com](https://ethiopiancanon.com).
 **Unreleased; expert review pending.**
 
+## October 16 translation-method pilot
+
+A [small French-reference pilot](../experiments/2026-10-16-reference-pilot/REPORT.md)
+used existing machine transcriptions, four development excerpts, and two reserved
+excerpts. The simple baseline recovered the selected shared facts; more elaborate
+instructions did not demonstrate a gain. The evaluator also mishandled an
+excluded numerical difference, and a source fragment affected comparison.
+
+The trial used ten model calls and approximately $0.97 reported USD-equivalent,
+not a confirmed subscription charge. It did not test new source images, run a
+genetic search, or establish transfer to the missing books. The next useful work
+is better paired data and an image-to-English baseline for expert review.
+
 ## What exists
 
 The main corpus contains **68 consecutive sides, 156r–189v**, representing

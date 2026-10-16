@@ -6,6 +6,17 @@ are documented separately in [HISTORY.md](docs/HISTORY.md).
 
 ## Unreleased
 
+### Research evaluation, October 16
+
+- Added a bounded French-reference translation pilot with six aligned excerpts,
+  three fixed procedures, reserved passages, exact requests/results, and source
+  provenance. The original evaluator failure and revised qualification remain visible.
+- Added a baseline English review packet and a report of the limitations. No
+  improved procedure or manuscript accuracy was established; no feedback-driven
+  mutation was justified by the narrow development results.
+- Added checks for source/reference separation, frozen inputs, cached-request
+  integrity, and the reserved-test selection boundary.
+
 ### Added
 
 - Standalone repository prepared from the existing Ge’ez Lab research workspace.

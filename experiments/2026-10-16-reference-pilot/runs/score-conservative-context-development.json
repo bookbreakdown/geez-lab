@@ -1,0 +1,215 @@
+{
+  "label": "score-conservative-context-development",
+  "role": "judge",
+  "model_alias": "sonnet",
+  "reported_models": {
+    "claude-sonnet-5-5": {
+      "inputTokens": 2,
+      "outputTokens": 2291,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 4356,
+      "webSearchRequests": 0,
+      "costUSD": 0.040338,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 873,
+      "canonicalModel": "claude-sonnet-5-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 4356,
+    "cache_read_input_tokens": 0,
+    "output_tokens": 2291,
+    "output_tokens_details": {
+      "thinking_tokens": 873
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4356,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 2291,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 4356,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 4356
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "num_turns": 1,
+  "permission_denials": [],
+  "reported_usd": 0.040338,
+  "elapsed_seconds": 15.933,
+  "cli_version": "2.1.301",
+  "request_sha256": "9a69e8b7a0a350aca27bc7307a5bfce22d7eda67d8a52b6356107ec28a199b2e",
+  "response": {
+    "records": [
+      {
+        "id": "D01",
+        "facts": [
+          {
+            "index": 1,
+            "verdict": "supported",
+            "evidence": "\"Solomon son of David married women, seven hundred concubines\" gives son of David and many wives/concubines. The 700/80 distinction is not scored."
+          },
+          {
+            "index": 2,
+            "verdict": "supported",
+            "evidence": "\"found among them no child, not even one from them\" says that none of them bore him offspring."
+          },
+          {
+            "index": 3,
+            "verdict": "supported",
+            "evidence": "\"God Most High was not pleased that the seed of Canaan should be joined with the seed of the holy people\""
+          },
+          {
+            "index": 4,
+            "verdict": "supported",
+            "evidence": "\"from them (the holy people) our Lord Jesus Christ became man\""
+          },
+          {
+            "index": 5,
+            "verdict": "supported",
+            "evidence": "\"all of them, the wives of Solomon, were of the seed of Canaan\""
+          }
+        ],
+        "unsupported_additions": [],
+        "review_only_differences": [
+          "Candidate has 'seven hundred concubines' with no separate 80, where the French has 700 wives and 80 concubines. Not scored."
+        ]
+      },
+      {
+        "id": "D02",
+        "facts": [
+          {
+            "index": 1,
+            "verdict": "supported",
+            "evidence": "\"Moses the prophet of God\""
+          },
+          {
+            "index": 2,
+            "verdict": "supported",
+            "evidence": "\"Levi, when he went with his father to the land of Egypt\""
+          },
+          {
+            "index": 3,
+            "verdict": "supported",
+            "evidence": "\"there were born Moses and Tesmaran and Joshua son of Nun and Caleb\""
+          },
+          {
+            "index": 4,
+            "verdict": "supported",
+            "evidence": "\"Joshua son of Nun\""
+          },
+          {
+            "index": 5,
+            "verdict": "supported",
+            "evidence": "\"when they had thrown him into the river\""
+          },
+          {
+            "index": 6,
+            "verdict": "supported",
+            "evidence": "\"Sefir, the daughter of Pharaoh, took him and brought him into her house\""
+          }
+        ],
+        "unsupported_additions": [],
+        "review_only_differences": [
+          "Name reading 'Tesmaran' versus Te‘mrân. Not scored."
+        ]
+      },
+      {
+        "id": "D03",
+        "facts": [
+          {
+            "index": 1,
+            "verdict": "supported",
+            "evidence": "\"fled ... for fear of Pharaoh\""
+          },
+          {
+            "index": 2,
+            "verdict": "supported",
+            "evidence": "\"the priest of Midian\""
+          },
+          {
+            "index": 3,
+            "verdict": "supported",
+            "evidence": "\"there he married a wife of Raguel's [household]\""
+          },
+          {
+            "index": 4,
+            "verdict": "partial",
+            "evidence": "\"he begot two of the sons of…\" gives the begetting and the number two. The text breaks off and does not state two children cleanly."
+          }
+        ],
+        "unsupported_additions": [],
+        "review_only_differences": [
+          "Names Radabil/Raguel versus Râ‘ow’él. Not scored.",
+          "Candidate has 'a wife of Raguel's household' where the French has the priest's sister. Not scored."
+        ]
+      },
+      {
+        "id": "D04",
+        "facts": [
+          {
+            "index": 1,
+            "verdict": "supported",
+            "evidence": "\"after Moses died, the son of Nun governed the people\". Joshua's given name is omitted but recoverable from 'son of Nun'."
+          },
+          {
+            "index": 2,
+            "verdict": "supported",
+            "evidence": "\"after him, Kus the apostate governed them — ... for 8 years\""
+          },
+          {
+            "index": 3,
+            "verdict": "supported",
+            "evidence": "\"Othniel son of Kenaz, the brother of Caleb\""
+          },
+          {
+            "index": 4,
+            "verdict": "supported",
+            "evidence": "\"enslaved to Eglon king of Moab\""
+          },
+          {
+            "index": 5,
+            "verdict": "supported",
+            "evidence": "\"then God delivered them from his hand\""
+          },
+          {
+            "index": 6,
+            "verdict": "supported",
+            "evidence": "\"Ehud (Na'od) son of Gera governed them for 80 years\""
+          },
+          {
+            "index": 7,
+            "verdict": "supported",
+            "evidence": "\"in the ... year of Ehud's rule, 4,000 [years] from creation were completed\""
+          }
+        ],
+        "unsupported_additions": [],
+        "review_only_differences": [
+          "Candidate has Joshua 24 years where the French has 31. Not scored.",
+          "Candidate has Othniel 10 years where the French has 50. Not scored.",
+          "Candidate has Eglon 108 years where the French has 18. Not scored.",
+          "Candidate has the 17th year of Ehud where the French has the 27th. Not scored."
+        ]
+      }
+    ]
+  }
+}

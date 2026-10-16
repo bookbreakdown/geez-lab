@@ -1,0 +1,72 @@
+{
+  "instructions": "Evaluate English against the supplied French for semantic fidelity, not stylistic similarity.\nDo not repair the candidate. Normal transliterations (Puah/Fouha, Joshua/Josué) are equivalent.\nFor controls: acceptable is true only if all substantive French meaning is preserved and no\nsubstantive unsupported claim is added. Detect omissions, reversals, incorrect names and numbers.\nFor fact scoring: examine ONLY score_facts for the score, assigning supported, partial, missing,\nor contradicted, with a short quotation or explanation from the candidate for each fact. A fact\nbundling several details is supported only if they are all present. Do not credit facts only in\nuncertainty notes as if confidently translated; an explicitly offered main reading can receive\npartial credit. Respect review_only exclusions; report those differences separately, never as\ntranslation errors. Flag substantive additions outside review_only, but remember the reference\nis a different witness and cannot prove additions are invented. Ignore stylistic and spelling\npreferences. Return JSON in the specified shape. Do not reveal or invent training answers.\nQualification v2 clarification: judge substantial content, not exact wording. Omitting a rhetorical\nconnective such as indeed or but is acceptable if propositions and substantive logical relations\nremain intact. Omitting an agent/instrument, changing before/after, negation, names, or quantities\nis substantive. For control cases respect ONLY the narrowly named review_only exclusions.\nA masked age difference does not excuse changing the person or another unmasked detail.\n",
+  "output": {
+    "records": [
+      {
+        "id": "case ID",
+        "facts": [
+          {
+            "index": "1-based score_facts index",
+            "verdict": "supported|partial|missing|contradicted",
+            "evidence": "brief explanation"
+          }
+        ],
+        "unsupported_additions": [],
+        "review_only_differences": []
+      }
+    ]
+  },
+  "cases": [
+    {
+      "reference_french": "Débora et Barac les jugèrent pendant 40 ans. Ensuite, les gens de Madian les asservirent pendant 7 ans. Mais le Seigneur les délivra par la main de Gédéon. Gédéon les jugea pendant… ans. Après lui, Abimélec les jugea pendant 30 ans. Après lui, Tolâ, fils de Fouha, les jugea pendant 23 ans, et les rendit forts. Après lui, Iyâ’ér de Galaad jugea Israël pendant 22 ans.",
+      "score_facts": [
+        "Deborah and Barak judge for forty years.",
+        "The people of Midian enslave Israel for seven years.",
+        "God delivers Israel through Gideon.",
+        "Abimelech rules after Gideon.",
+        "Tola is son of Puah/Fouha and rules twenty-three years.",
+        "A Gileadite ruler follows Tola and rules Israel."
+      ],
+      "review_only": [
+        "Gideon’s years are a gap in the French.",
+        "Abimelech30 versus3 and Jair22 versus12 are not scored.",
+        "French makes Tola strengthen them; raw transcription reads a standing/arising phrase. Treat as review-only."
+      ],
+      "candidate_english": "And after him Deborah and Barak judged them 40 years. And after him [struck through: ኵ፲?ሙ] the men of Midian subjected them 7 years. And God saved them by the hand of Gideon, 40 years. And after him Abimelech judged them 3 years. And after him Tola son of Puah judged them 23 years. And after him arose Jair (text: ኢኤል) the Gileadite, and he judged Israel 12 years.",
+      "uncertainties": [
+        "ኵኖሙ (lines 6, 8, 10) read as a shortened spelling of ኰነኖሙ 'judged them'",
+        "struck-through ኵ፲?ሙ in line 2 is illegible; possibly a false start of ኵኖሙ/ኰነኖሙ; not translated",
+        "ኢኤል (lines 9–10) rendered as Jair on the basis of 'the Gileadite'; the name form is irregular",
+        "12 years for Jair (፲ወ፪) is kept as written, though Judges 10:3 has 22",
+        "'40 years' after Gideon is attached to the clause as written; the Ge'ez has no separate verb for his judging"
+      ],
+      "id": "T01"
+    },
+    {
+      "reference_french": "Ensuite, les Philistins asservirent les enfants d’Israël pendant 18 ans. Puis le Seigneur les délivra par la main de Jephté, qui sacrifia sa fille devant le Seigneur. Jephté les jugea pendant 7 ans. Après lui, Hésébon les jugea pendant 7 ans. Après lui, Élômou, (de la tribu) de Zabulon, les jugea pendant 10 ans. Après lui, Lâbon les jugea pendant 8 ans. Ensuite, les Philistins asservirent les enfants d’Israël pendant 40 ans. Mais le Seigneur les délivra par la main de Samson le Fort. Samson jugea le peuple pendant 20 ans.",
+      "score_facts": [
+        "God delivers Israel and Jephthah rules for seven years.",
+        "Hesebon/Ibzan follows and rules seven years.",
+        "Philistines enslave Israel for forty years.",
+        "Elon/Elomou is a Zebulunite ruler.",
+        "God delivers Israel through mighty Samson.",
+        "Samson rules/judges the people."
+      ],
+      "review_only": [
+        "The French contains Jephthah’s daughter sacrifice and Labon, absent from this raw transcript; those reference-only clauses are not scored.",
+        "Order of Elon and Philistine oppression differs; do not score the ordering.",
+        "Elon10 versus40 and Samson20 versus18 are not scored.",
+        "The French opening Philistine18-year clause precedes the chosen Ge’ez span; do not score its omission."
+      ],
+      "candidate_english": "And after him God saved them, and Jephthah judged them 7 years. And after him Hesebon (ሔሴቦን) judged them 7 years. And after him the Philistines subjected the children of Israel 40 years. And after him Elon the Zebulunite judged them 40 years. And after him the Philistines subjected them 40 years. And after him God saved them by the hand of Samson the mighty, and Samson judged them 18 years. For the people [text breaks off].",
+      "uncertainties": [
+        "ኵኖሙ read as ኰነኖሙ 'judged them' throughout",
+        "ሔሴቦን transliterated as Hesebon; the expected judge here is Ibzan (Judges 12:8), identification uncertain",
+        "numbers kept as written (Jephthah 7, Elon 40, Samson 18) even where they differ from the Hebrew Bible",
+        "final ለ/ለሕዝብ (lines 23–24a) is a fragment, possibly ለለሕዝብ 'for each people'; rendered as 'For the people' and marked incomplete",
+        "line 11b–12 'after him' has no explicit antecedent beyond the preceding judge in H01"
+      ],
+      "id": "T02"
+    }
+  ]
+}

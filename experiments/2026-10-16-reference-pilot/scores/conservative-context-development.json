@@ -1,0 +1,33 @@
+{
+  "candidate": "conservative-context",
+  "split": "development",
+  "mean_score": 0.96875,
+  "contradictions": 0,
+  "additions": 0,
+  "passages": [
+    {
+      "id": "D01",
+      "score": 1.0,
+      "contradictions": 0,
+      "additions": 0
+    },
+    {
+      "id": "D02",
+      "score": 1.0,
+      "contradictions": 0,
+      "additions": 0
+    },
+    {
+      "id": "D03",
+      "score": 0.875,
+      "contradictions": 0,
+      "additions": 0
+    },
+    {
+      "id": "D04",
+      "score": 1.0,
+      "contradictions": 0,
+      "additions": 0
+    }
+  ]
+}

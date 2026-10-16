@@ -1,0 +1,146 @@
+{
+  "label": "judge-controls",
+  "role": "judge",
+  "model_alias": "sonnet",
+  "reported_models": {
+    "claude-sonnet-5-5": {
+      "inputTokens": 2,
+      "outputTokens": 686,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 2377,
+      "webSearchRequests": 0,
+      "costUSD": 0.016372,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 0,
+      "canonicalModel": "claude-sonnet-5-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 2377,
+    "cache_read_input_tokens": 0,
+    "output_tokens": 686,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2377,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 686,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 2377,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 2377
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "reported_usd": 0.016372,
+  "elapsed_seconds": 6.003,
+  "cli_version": "2.1.301",
+  "request_sha256": "5a79b59bf184bfa061ffd0880f15e70a7465c522cda20ec73d8dc3ede80a549f",
+  "response": {
+    "records": [
+      {
+        "id": "C01",
+        "acceptable": false,
+        "errors": [
+          "Omits the second sentence: the Lord delivered them by the hand of Gideon."
+        ]
+      },
+      {
+        "id": "C02",
+        "acceptable": false,
+        "errors": [
+          "Wrong deliverer: Samson instead of Gideon.",
+          "'God' for 'le Seigneur' is acceptable, but the name error is substantive."
+        ]
+      },
+      {
+        "id": "C03",
+        "acceptable": false,
+        "errors": [
+          "Adds unsupported claim that Safir immediately crowned Moses king of Egypt."
+        ]
+      },
+      {
+        "id": "C04",
+        "acceptable": true,
+        "errors": []
+      },
+      {
+        "id": "C05",
+        "acceptable": false,
+        "errors": [
+          "Reverses subject and object: Safir is cast into the river and Moses takes her.",
+          "Pharaoh's daughter identity is omitted.",
+          "Wrong possessive: 'his house' instead of her/Safir's house."
+        ]
+      },
+      {
+        "id": "C06",
+        "acceptable": true,
+        "errors": []
+      },
+      {
+        "id": "C07",
+        "acceptable": false,
+        "errors": [
+          "Omits 'aucune d'entre elles n'obtint de fils' reason relation: 'En effet' (causal link) is lost.",
+          "Most substantively, the Lord's will is rendered as 'The Most High did not want...' which is faithful, but the explicit causal connection to the sons is absent; minor. Main issue: causal link omitted."
+        ]
+      },
+      {
+        "id": "C08",
+        "acceptable": true,
+        "errors": []
+      },
+      {
+        "id": "C09",
+        "acceptable": false,
+        "errors": [
+          "Reverses meaning: says the Most High wanted the union, whereas French says he did not want it.",
+          "Omits causal 'En effet' link."
+        ]
+      },
+      {
+        "id": "C10",
+        "acceptable": false,
+        "errors": [
+          "Number error: seventy years instead of 7 years."
+        ]
+      },
+      {
+        "id": "C11",
+        "acceptable": false,
+        "errors": [
+          "Wrong name: Tola is son of Gideon instead of Puah/Fouha."
+        ]
+      },
+      {
+        "id": "C12",
+        "acceptable": false,
+        "errors": [
+          "Reverses agent and object: Tola was judged by them and they strengthened him, instead of Tola judging them and strengthening them."
+        ]
+      }
+    ]
+  }
+}

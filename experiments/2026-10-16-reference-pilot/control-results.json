@@ -1,0 +1,126 @@
+{
+  "qualified": false,
+  "correct": 11,
+  "total": 12,
+  "cases": [
+    {
+      "id": "C01",
+      "expected_acceptable": false,
+      "mutation": "omission",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Omits the second sentence: the Lord delivered them by the hand of Gideon."
+      ]
+    },
+    {
+      "id": "C02",
+      "expected_acceptable": false,
+      "mutation": "name",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Wrong deliverer: Samson instead of Gideon.",
+        "'God' for 'le Seigneur' is acceptable, but the name error is substantive."
+      ]
+    },
+    {
+      "id": "C03",
+      "expected_acceptable": false,
+      "mutation": "addition",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Adds unsupported claim that Safir immediately crowned Moses king of Egypt."
+      ]
+    },
+    {
+      "id": "C04",
+      "expected_acceptable": true,
+      "mutation": "paraphrase",
+      "observed_acceptable": true,
+      "correct": true,
+      "explanation": []
+    },
+    {
+      "id": "C05",
+      "expected_acceptable": false,
+      "mutation": "roles",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Reverses subject and object: Safir is cast into the river and Moses takes her.",
+        "Pharaoh's daughter identity is omitted.",
+        "Wrong possessive: 'his house' instead of her/Safir's house."
+      ]
+    },
+    {
+      "id": "C06",
+      "expected_acceptable": true,
+      "mutation": "paraphrase",
+      "observed_acceptable": true,
+      "correct": true,
+      "explanation": []
+    },
+    {
+      "id": "C07",
+      "expected_acceptable": true,
+      "mutation": "faithful",
+      "observed_acceptable": false,
+      "correct": false,
+      "explanation": [
+        "Omits 'aucune d'entre elles n'obtint de fils' reason relation: 'En effet' (causal link) is lost.",
+        "Most substantively, the Lord's will is rendered as 'The Most High did not want...' which is faithful, but the explicit causal connection to the sons is absent; minor. Main issue: causal link omitted."
+      ]
+    },
+    {
+      "id": "C08",
+      "expected_acceptable": true,
+      "mutation": "name_equivalence",
+      "observed_acceptable": true,
+      "correct": true,
+      "explanation": []
+    },
+    {
+      "id": "C09",
+      "expected_acceptable": false,
+      "mutation": "negation",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Reverses meaning: says the Most High wanted the union, whereas French says he did not want it.",
+        "Omits causal 'En effet' link."
+      ]
+    },
+    {
+      "id": "C10",
+      "expected_acceptable": false,
+      "mutation": "number",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Number error: seventy years instead of 7 years."
+      ]
+    },
+    {
+      "id": "C11",
+      "expected_acceptable": false,
+      "mutation": "parentage",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Wrong name: Tola is son of Gideon instead of Puah/Fouha."
+      ]
+    },
+    {
+      "id": "C12",
+      "expected_acceptable": false,
+      "mutation": "roles",
+      "observed_acceptable": false,
+      "correct": true,
+      "explanation": [
+        "Reverses agent and object: Tola was judged by them and they strengthened him, instead of Tola judging them and strengthening them."
+      ]
+    }
+  ]
+}
