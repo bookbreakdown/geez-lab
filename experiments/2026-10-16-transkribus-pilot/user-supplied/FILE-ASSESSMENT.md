@@ -15,10 +15,21 @@ Windows line endings and copied interface labels, are retained in
 | 4 | 153R | 25 | Different text from section 1; retain as a separate variant. |
 
 The user previously confirmed 153r and model 48371 for the first pasted output.
-The other sections follow the same Transkribus discussion, but their individual
-model settings, uploaded filenames, and resolutions have not been confirmed.
-Do not label sections 1 and 4 as high/low resolution solely from packet order.
-Do not infer a new same-image repeat failure from their difference.
+The user subsequently confirmed using all four images in the prepared upload
+folder. Inspection confirms this input set:
+
+| Image | Dimensions | Output mapping |
+| --- | --- | --- |
+| MAIX1-41V-3560px.jpg | 3560 × 5000 | Section 2, uniquely identified by side |
+| MAIX1-168R-1700px.jpg | 1700 × 2387 | Section 3, uniquely identified by side |
+| MAIX1-153R-3560px.jpg | 3560 × 5000 | One of sections 1 and 4 |
+| MAIX1-153R-1700px.jpg | 1700 × 2387 | The other of sections 1 and 4 |
+
+The two different 153r results therefore involve different source sizes in the
+confirmed input set; which output belongs to which size is not yet resolved.
+Their difference is not evidence of instability on an identical image. Per-run
+recognition settings were not independently observed. Hashes and dimensions are
+recorded in the receipt. No further uploads are needed for intake.
 
 ## Comparison prepared
 
