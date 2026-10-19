@@ -1,0 +1,32 @@
+{
+  "instructions": "Translate the supplied Ge’ez into complete English for expert review. Use the entire passage to resolve syntax and recurring words, while preserving the actual input. Distinguish uncertain letter readings from uncertain interpretation. You may give a plausible main reading with a concise alternative in notes; use a gap only when neither is supportable. Preserve scope of negation and who acts on whom. Keep numbers as written even when familiar scripture differs. Do not normalise into a remembered biblical story.",
+  "output": {
+    "records": [
+      {
+        "id": "passage ID",
+        "english": "complete English translation",
+        "uncertainties": [
+          "short uncertainty notes; do not add a full commentary"
+        ]
+      }
+    ]
+  },
+  "passages": [
+    {
+      "id": "D01",
+      "geez": "4b: እስመ፡እውስበ፡ስል\n5: ሞን፡ወልደ፡ዳዊት፡አንስተ፡፯፻ዕ\n6: ቁባት፡ወኢረከበ፡በውስቴቶን፡ወ\n7: ሉደ፡ወ፩እምኔሆን፡እስመ፡እግዚአ\n8: ብሔር፡ልዑል፡ኢሠምረ፡ይደመር\n9: ዘርአሙ፡ለከነዓን፡ምስለ፡ዘርአ፡\n10: ቅዱሳን፡ሕዝብ፡ወእምኔሆሙ፡ተሰብ\n11: አ፡እግዚእነ፡ኢየሱስ፡ክርስቶስ፨\n12: ኮሎንኪ፡እንስቲያሁ፡ለስልሞን\n13a: እምዘርአ፡ከነዓን፡እሙንቱ፨"
+    },
+    {
+      "id": "D02",
+      "geez": "13b: ዚዓ\n14: ሁስ፡ለሙሴ፡ነቢይ፡እግዚአብሔ\n15: ር፡እስመ፡መጻሕፍት፡ቅዱሳት፡ይ\n16: ዜንው፡ከመ፡ሌዊ፡ሶበ፡ሖረ፡ምስለ\n17: አቡሁ፡ብሔረ፡ግብጽ፨ወበህየ፡\n18: ተወልደ፡ሙሴ፡ወትስማራን፡ወኤ\n19: ያሱ፡ወልደ፡ነዌ፡ወካሌብ፡እምዘ\n20: እ፡ዚእሁ፨ወለሙሴ፡ሶበ፡ወረው\n21: ዖ፡ውስቱ፡ተከዚ፡ንሠእቶ፡ስፊር\n22a: ወለት፡ፈርዖን፡ወእትወቶ፡ቤታ"
+    },
+    {
+      "id": "D03",
+      "geez": "2b: ወጐየ ፡ ኀበ ፡ ራዳቢል ፡ ካህኒ ፡\n3: ምድያም ፡ በእንተ ፡ ፍርሃተ ፡ ፈርዖ\n4: ን ፡ ወበህየ ፡ አውሰበ ፡ ብእሲተ ፡ ለራ\n5a: ጉኤል ፡ ወወለደ ፡ ፪ ፡ እምውሉደ "
+    },
+    {
+      "id": "D04",
+      "geez": "9b:  ወእ\n10: ምድኅረ ፡ ሞተ ፡ ሙሴ ፡ ኮነኖሙ ፡\n11: ለሕዝብ ፡ ወልደ ፡ ነዌ ፡ ፳ወ፬ ፡ ዓመት\n12: ። ወእምድኅረሁ ፡ ኮነኖሙ ፡ ፣ ኩ\n13: ስ ፡ ዕልው ፡ ኮነኖሙ ፡ ፰ ዓመተ ።\n14: ወእምድኅረሁ ፡ ጎቶንያል ፡ ወልደ ፡\n15: ቄኔዝ ፡ እ?ኁሁ ፡ ለካሌብ ፡ ፲ ፡ ዓመ\n16: ተ ፡ ወእምድኅረሁ ፡ ተቀንዩ ፡ ደቂቀ\n17: እስራኤል ፡ ለኤግሎም ፡ ንጉሠ ፡ ሞ\n18: አብ ፡ ፻፰ ዓመተ ። ወእምዝ ፡ አድ\n19: ኀኖሙ ፡ እግዚአብሔር ፡ እምእዴ\n20: ሁ ። ወእምድኅረሁ ፡ ኮነኖሙ ፡\n21: ናዖድ ፡ ወልደ ፡ ጌራ ፡ ፹ ፡ ዓመተ ፡ ወ\n22: በ፲ወ፯ ዓመተ ። ምኵናኑ ፡ ለናዖ\n23: ድ ፡ ተፈጸመ ፡ ፵፻ እምፍጥረት ።"
+    }
+  ]
+}

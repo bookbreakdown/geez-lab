@@ -1,0 +1,152 @@
+{
+  "label": "score-reserved-batch",
+  "role": "judge",
+  "model_alias": "sonnet",
+  "reported_models": {
+    "claude-sonnet-5-5": {
+      "inputTokens": 2,
+      "outputTokens": 895,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 3011,
+      "webSearchRequests": 0,
+      "costUSD": 0.020998,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 0,
+      "canonicalModel": "claude-sonnet-5-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 3011,
+    "cache_read_input_tokens": 0,
+    "output_tokens": 895,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3011,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 895,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 3011,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 3011
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "num_turns": 1,
+  "permission_denials": [],
+  "reported_usd": 0.020998,
+  "elapsed_seconds": 7.131,
+  "cli_version": "2.1.301",
+  "request_sha256": "23bd2654dee8958330c92cd42010812586802343b245efb8841f102c0d5b59b8",
+  "response": {
+    "records": [
+      {
+        "id": "T01",
+        "facts": [
+          {
+            "index": 1,
+            "verdict": "supported",
+            "evidence": "\"Deborah and Barak judged them 40 years.\""
+          },
+          {
+            "index": 2,
+            "verdict": "supported",
+            "evidence": "\"the men of Midian subjected them 7 years\""
+          },
+          {
+            "index": 3,
+            "verdict": "supported",
+            "evidence": "\"God saved them by the hand of Gideon\""
+          },
+          {
+            "index": 4,
+            "verdict": "supported",
+            "evidence": "\"after him Abimelech judged them 3 years\" (number difference is review-only)"
+          },
+          {
+            "index": 5,
+            "verdict": "supported",
+            "evidence": "\"Tola son of Puah judged them 23 years\""
+          },
+          {
+            "index": 6,
+            "verdict": "supported",
+            "evidence": "\"arose Jair ... the Gileadite, and he judged Israel 12 years\""
+          }
+        ],
+        "unsupported_additions": [
+          "\"40 years\" attached to Gideon's clause: the French has a gap there, so this cannot be confirmed from the reference; it is a different witness and is flagged in the candidate's uncertainties."
+        ],
+        "review_only_differences": [
+          "Gideon's years are a gap in the French; the candidate gives 40.",
+          "Abimelech 3 vs 30 and Jair 12 vs 22 are not scored.",
+          "The French says Tola strengthened them; the candidate omits this (raw transcription reads 'arose'/standing)."
+        ]
+      },
+      {
+        "id": "T02",
+        "facts": [
+          {
+            "index": 1,
+            "verdict": "supported",
+            "evidence": "\"God saved them, and Jephthah judged them 7 years\""
+          },
+          {
+            "index": 2,
+            "verdict": "supported",
+            "evidence": "\"Hesebon judged them 7 years\""
+          },
+          {
+            "index": 3,
+            "verdict": "supported",
+            "evidence": "\"the Philistines subjected the children of Israel 40 years\""
+          },
+          {
+            "index": 4,
+            "verdict": "supported",
+            "evidence": "\"Elon the Zebulunite judged them 40 years\" (number is review-only)"
+          },
+          {
+            "index": 5,
+            "verdict": "supported",
+            "evidence": "\"God saved them by the hand of Samson the mighty\""
+          },
+          {
+            "index": 6,
+            "verdict": "supported",
+            "evidence": "\"Samson judged them 18 years\""
+          }
+        ],
+        "unsupported_additions": [
+          "\"For the people [text breaks off]\" is a fragment with no counterpart in the French; it is flagged as incomplete in the candidate's uncertainties."
+        ],
+        "review_only_differences": [
+          "The French's Jephthah's daughter sacrifice and Labon are absent from the candidate.",
+          "The order of Elon and the Philistine oppression differs.",
+          "Elon 10 vs 40 and Samson 20 vs 18 are not scored.",
+          "The French opening Philistine 18-year clause is not in the candidate's span."
+        ]
+      }
+    ]
+  }
+}

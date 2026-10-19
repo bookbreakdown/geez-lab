@@ -1,0 +1,211 @@
+{
+  "label": "score-baseline-development",
+  "role": "judge",
+  "model_alias": "sonnet",
+  "reported_models": {
+    "claude-sonnet-5-5": {
+      "inputTokens": 2,
+      "outputTokens": 1434,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 3985,
+      "webSearchRequests": 0,
+      "costUSD": 0.030284,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 0,
+      "canonicalModel": "claude-sonnet-5-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 3985,
+    "cache_read_input_tokens": 0,
+    "output_tokens": 1434,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 3985,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 1434,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 3985,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 3985
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "num_turns": 1,
+  "permission_denials": [],
+  "reported_usd": 0.030284,
+  "elapsed_seconds": 9.721,
+  "cli_version": "2.1.301",
+  "request_sha256": "38e7ca9187c0279975f9e8e6905416aa76ce09debfefdde176eb371e53bf9489",
+  "response": {
+    "records": [
+      {
+        "id": "D01",
+        "facts": [
+          {
+            "index": 1,
+            "verdict": "partial",
+            "evidence": "'Solomon, the son of David, married women, 700 concubines' - son of David present, but the wives/concubines quantity is garbled (700 concubines only); numeric distinction is review-only."
+          },
+          {
+            "index": 2,
+            "verdict": "supported",
+            "evidence": "'he did not find among them a son, [not] even one from them'"
+          },
+          {
+            "index": 3,
+            "verdict": "supported",
+            "evidence": "'God Most High was not pleased that the seed of Canaan should be joined with the seed of the holy people'"
+          },
+          {
+            "index": 4,
+            "verdict": "supported",
+            "evidence": "'from whom our Lord Jesus Christ became man'"
+          },
+          {
+            "index": 5,
+            "verdict": "supported",
+            "evidence": "'All the wives of Solomon were from the seed of Canaan.'"
+          }
+        ],
+        "unsupported_additions": [],
+        "review_only_differences": [
+          "Candidate gives '700 concubines' without a separate 80 and without 700 wives; the wives/concubines numeric distinction is not scored."
+        ]
+      },
+      {
+        "id": "D02",
+        "facts": [
+          {
+            "index": 1,
+            "verdict": "supported",
+            "evidence": "'Moses the prophet of God'"
+          },
+          {
+            "index": 2,
+            "verdict": "supported",
+            "evidence": "'when Levi went with his father to the land of Egypt'"
+          },
+          {
+            "index": 3,
+            "verdict": "supported",
+            "evidence": "'there were born Moses and Tismaran (?) and Joshua... and Caleb' - Moses and other named descendants born there; 'from his own [seed] (?)' is tentative but the substance is present."
+          },
+          {
+            "index": 4,
+            "verdict": "supported",
+            "evidence": "'Joshua the son of Nun'"
+          },
+          {
+            "index": 5,
+            "verdict": "supported",
+            "evidence": "'when they threw him into the river'"
+          },
+          {
+            "index": 6,
+            "verdict": "supported",
+            "evidence": "'Sefir, the daughter of Pharaoh, took him and brought him into her house'"
+          }
+        ],
+        "unsupported_additions": [],
+        "review_only_differences": [
+          "Name 'Tismaran (?)' versus Te‘mrân is a transliteration/reading question and is not penalised."
+        ]
+      },
+      {
+        "id": "D03",
+        "facts": [
+          {
+            "index": 1,
+            "verdict": "supported",
+            "evidence": "'because of fear of Pharaoh'"
+          },
+          {
+            "index": 2,
+            "verdict": "supported",
+            "evidence": "'fled to Radabil (?), the priest of Midian'"
+          },
+          {
+            "index": 3,
+            "verdict": "supported",
+            "evidence": "'there he married a wife [of the house] of Raguel'"
+          },
+          {
+            "index": 4,
+            "verdict": "supported",
+            "evidence": "'he begot 2 of [the] children'"
+          }
+        ],
+        "unsupported_additions": [],
+        "review_only_differences": [
+          "Priest's name 'Radabil (?)' versus Râ‘ow’él, and candidate's 'a wife of Raguel' versus French 'sister of Râ‘ou’él' - not scored."
+        ]
+      },
+      {
+        "id": "D04",
+        "facts": [
+          {
+            "index": 1,
+            "verdict": "supported",
+            "evidence": "'after Moses died, the son of Nun judged the people' - Joshua supplied via son of Nun, allowed; duration 24 is review-only."
+          },
+          {
+            "index": 2,
+            "verdict": "supported",
+            "evidence": "'Kus (Cushan) the rebel judged them; he judged them 8 years' - wicked ruler after Joshua, 8 years."
+          },
+          {
+            "index": 3,
+            "verdict": "supported",
+            "evidence": "'Othniel the son of Kenaz, the brother of Caleb'"
+          },
+          {
+            "index": 4,
+            "verdict": "supported",
+            "evidence": "'the children of Israel served Eglon, king of Moab'"
+          },
+          {
+            "index": 5,
+            "verdict": "supported",
+            "evidence": "'God delivered them from his hand'"
+          },
+          {
+            "index": 6,
+            "verdict": "supported",
+            "evidence": "'Ehud (Naod) the son of Gera judged them 80 years'"
+          },
+          {
+            "index": 7,
+            "verdict": "supported",
+            "evidence": "'in the 17th year of the judgeship of Ehud, 4000 [years] from creation were completed' - the year-4000 connection is present; 17 versus 27 is review-only."
+          }
+        ],
+        "unsupported_additions": [],
+        "review_only_differences": [
+          "Joshua's term 24 vs 31 years; Othniel 10 vs 50 years; Eglon 108 vs 18 years; Ehud anniversary 17th vs 27th year - not scored as errors."
+        ]
+      }
+    ]
+  }
+}

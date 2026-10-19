@@ -1,0 +1,90 @@
+[
+  {
+    "id": "Q01",
+    "reference_french": "Il tua Nâsom l’Égyptien, chef des échansons de Pharaon. Puis il s’enfuit chez Râ‘ow’él, prêtre du pays de Madian, par crainte de Pharaon.",
+    "candidate_english": "He did not kill Nesom, the Egyptian chief cupbearer of Pharaoh. He then fled to Raguel, the priest of Midian, because he feared Pharaoh.",
+    "review_only": []
+  },
+  {
+    "id": "Q02",
+    "reference_french": "Il tua Nâsom l’Égyptien, chef des échansons de Pharaon. Puis il s’enfuit chez Râ‘ow’él, prêtre du pays de Madian, par crainte de Pharaon.",
+    "candidate_english": "He killed Nesom, the Egyptian chief cupbearer of Pharaoh, and then fled to Raguel, the priest of Midian, because he feared Pharaoh.",
+    "review_only": []
+  },
+  {
+    "id": "Q03",
+    "reference_french": "Mais le Seigneur les délivra par la main de Samson le Fort.",
+    "candidate_english": "God delivered them.",
+    "review_only": []
+  },
+  {
+    "id": "Q04",
+    "reference_french": "Mais le Seigneur les délivra par la main de Samson le Fort.",
+    "candidate_english": "God rescued them through Gideon.",
+    "review_only": []
+  },
+  {
+    "id": "Q05",
+    "reference_french": "Tous les jours de la vie de Moïse furent de 120 ans. Il demeura dans la terre d’Égypte pendant quarante ans.",
+    "candidate_english": "Joshua lived 110 years and spent forty years in Egypt.",
+    "review_only": [
+      "The age120 versus110 is a preregistered review-only witness/reading difference. Do not score the age value. All other names, actions, locations and numbers remain scored."
+    ]
+  },
+  {
+    "id": "Q06",
+    "reference_french": "Tous les jours de la vie de Moïse furent de 120 ans. Il demeura dans la terre d’Égypte pendant quarante ans.",
+    "candidate_english": "Moses lived 120 years, spending forty years in Egypt.",
+    "review_only": []
+  },
+  {
+    "id": "Q07",
+    "reference_french": "Mais le Seigneur les délivra par la main de Samson le Fort.",
+    "candidate_english": "God rescued them through mighty Samson.",
+    "review_only": []
+  },
+  {
+    "id": "Q08",
+    "reference_french": "Mais le Seigneur les délivra par la main de Samson le Fort.",
+    "candidate_english": "God rescued them through mighty Samson and gave Samson a golden crown.",
+    "review_only": []
+  },
+  {
+    "id": "Q09",
+    "reference_french": "Après que Moïse fut mort, Josué, fils de Nawé, jugea le peuple pendant 31 ans.",
+    "candidate_english": "After Joshua died, Moses son of Nun judged the people for thirty-one years.",
+    "review_only": []
+  },
+  {
+    "id": "Q10",
+    "reference_french": "Après que Moïse fut mort, Josué, fils de Nawé, jugea le peuple pendant 31 ans.",
+    "candidate_english": "Following Moses’s death, Joshua son of Nun judged the people for thirty-one years.",
+    "review_only": []
+  },
+  {
+    "id": "Q11",
+    "reference_french": "Après que Moïse fut mort, Josué, fils de Nawé, jugea le peuple pendant 31 ans.",
+    "candidate_english": "Before Moses died, Joshua son of Nun judged the people for thirty-one years.",
+    "review_only": []
+  },
+  {
+    "id": "Q12",
+    "reference_french": "Après que Moïse fut mort, Josué, fils de Nawé, jugea le peuple pendant 31 ans.",
+    "candidate_english": "After Moses died, Joshua son of Pharaoh judged the people for thirty-one years.",
+    "review_only": []
+  },
+  {
+    "id": "Q13",
+    "reference_french": "Tous les jours de la vie de Moïse furent de 120 ans. Il demeura dans la terre d’Égypte pendant quarante ans.",
+    "candidate_english": "Moses lived 120 years and stayed in Egypt for four hundred years.",
+    "review_only": []
+  },
+  {
+    "id": "Q14",
+    "reference_french": "Tous les jours de la vie de Moïse furent de 120 ans. Il demeura dans la terre d’Égypte pendant quarante ans.",
+    "candidate_english": "Moses lived 110 years and spent forty years in Egypt.",
+    "review_only": [
+      "The age120 versus110 is a preregistered review-only witness/reading difference. Do not score the age value. All other names, actions, locations and numbers remain scored."
+    ]
+  }
+]

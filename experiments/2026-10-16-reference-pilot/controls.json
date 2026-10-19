@@ -1,0 +1,62 @@
+[
+  {
+    "id": "C01",
+    "reference_french": "Ensuite, les gens de Madian les asservirent pendant 7 ans. Mais le Seigneur les délivra par la main de Gédéon.",
+    "candidate_english": "The Midianites enslaved them for seven years."
+  },
+  {
+    "id": "C02",
+    "reference_french": "Ensuite, les gens de Madian les asservirent pendant 7 ans. Mais le Seigneur les délivra par la main de Gédéon.",
+    "candidate_english": "The Midianites enslaved them for seven years. God delivered them through Samson."
+  },
+  {
+    "id": "C03",
+    "reference_french": "Lorsqu’on eut jeté Moïse dans le fleuve, Sâfir, fille de Pharaon, le prit, et l’apporta dans sa maison.",
+    "candidate_english": "After Moses was thrown into the river, Safir, Pharaoh’s daughter, took him home and immediately crowned him king of Egypt."
+  },
+  {
+    "id": "C04",
+    "reference_french": "Ensuite, les gens de Madian les asservirent pendant 7 ans. Mais le Seigneur les délivra par la main de Gédéon.",
+    "candidate_english": "The Midianites then held them in servitude for seven years. God delivered them through Gideon."
+  },
+  {
+    "id": "C05",
+    "reference_french": "Lorsqu’on eut jeté Moïse dans le fleuve, Sâfir, fille de Pharaon, le prit, et l’apporta dans sa maison.",
+    "candidate_english": "After Safir was cast into the river, Moses took her and brought her into his house."
+  },
+  {
+    "id": "C06",
+    "reference_french": "Lorsqu’on eut jeté Moïse dans le fleuve, Sâfir, fille de Pharaon, le prit, et l’apporta dans sa maison.",
+    "candidate_english": "After Moses was cast into the river, Pharaoh’s daughter Safir took him and brought him into her home."
+  },
+  {
+    "id": "C07",
+    "reference_french": "Mais aucune d’entre elles n’obtint de fils. En effet, le Seigneur Très-Haut ne voulait pas que la postérité de Canaan s’unît avec le peuple élu.",
+    "candidate_english": "None of them bore a son. The Most High did not want Canaan’s descendants to unite with the chosen people."
+  },
+  {
+    "id": "C08",
+    "reference_french": "Après lui, Tolâ, fils de Fouha, les jugea pendant 23 ans, et les rendit forts.",
+    "candidate_english": "Tola, the son of Puah, subsequently judged them for twenty-three years and strengthened them."
+  },
+  {
+    "id": "C09",
+    "reference_french": "Mais aucune d’entre elles n’obtint de fils. En effet, le Seigneur Très-Haut ne voulait pas que la postérité de Canaan s’unît avec le peuple élu.",
+    "candidate_english": "None of them bore a son. The Most High wanted Canaan’s descendants to unite with the chosen people."
+  },
+  {
+    "id": "C10",
+    "reference_french": "Ensuite, les gens de Madian les asservirent pendant 7 ans. Mais le Seigneur les délivra par la main de Gédéon.",
+    "candidate_english": "The Midianites enslaved them for seventy years. God delivered them through Gideon."
+  },
+  {
+    "id": "C11",
+    "reference_french": "Après lui, Tolâ, fils de Fouha, les jugea pendant 23 ans, et les rendit forts.",
+    "candidate_english": "Tola, son of Gideon, judged them for twenty-three years and strengthened them."
+  },
+  {
+    "id": "C12",
+    "reference_french": "Après lui, Tolâ, fils de Fouha, les jugea pendant 23 ans, et les rendit forts.",
+    "candidate_english": "Tola, son of Puah, was judged by them for twenty-three years, and they strengthened him."
+  }
+]

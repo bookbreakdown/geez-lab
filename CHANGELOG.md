@@ -6,6 +6,49 @@ are documented separately in [HISTORY.md](docs/HISTORY.md).
 
 ## Unreleased
 
+### Machine first pass, October 19
+
+- Added provisional English for five consecutive sides, 169r–171r: 118 source
+  lines mapped to 21 translation blocks, with explicit gaps and alternatives.
+- Retained exact translator inputs/results, image hashes, six boundary checks,
+  sequential revisions, and separate machine-review dispositions. Preserved
+  the initial review-format failure and one schema-enforced recovery.
+- Added structural checks for frozen inputs, request hashes, line assignment,
+  and logged revisions. No expert accuracy or correction-time result is claimed.
+
+### Research evaluation, October 16
+
+- Inspected manuscript images and aligned 71 main-text lines across 41v, 153r,
+  and 168r. Added 20 targeted review observations and a complete-side English
+  draft packet with explicit unresolved clauses. No independent expert review,
+  character accuracy, or human correction-time improvement is claimed.
+
+- Prioritised complete-page English for independent review, with expert correction
+  time and residual substantive errors as outcomes. Separated the bounded
+  Transkribus comparison and disagreement-driven correction experiment from
+  Grébaut optimisation; agreement alone does not establish a correct reading.
+
+- Ran four public-demo Transkribus submissions across three manuscript sides,
+  confirming specialist model 48371. Preserved visible previews and observations;
+  full export requires an account and accuracy remains unmeasured. Recorded Leo
+  as outside the advertised script coverage for Ge’ez.
+
+- Assessed two additional analyses against primary sources. Verified the specialist
+  Transkribus model listing and inspected the TheoDoor DOCX, which is currently
+  a placeholder. Recorded source checks and revised practical priorities.
+- Recorded the commercial-source restriction: the 2008 printed edition and
+  digitisation derived from it are excluded as translation sources without
+  explicit permission. The manuscript remains the base.
+
+- Added a bounded French-reference translation pilot with six aligned excerpts,
+  three fixed procedures, reserved passages, exact requests/results, and source
+  provenance. The original evaluator failure and revised qualification remain visible.
+- Added a baseline English review packet and a report of the limitations. No
+  improved procedure or manuscript accuracy was established; no feedback-driven
+  mutation was justified by the narrow development results.
+- Added checks for source/reference separation, frozen inputs, cached-request
+  integrity, and the reserved-test selection boundary.
+
 ### Added
 
 - Standalone repository prepared from the existing Ge’ez Lab research workspace.

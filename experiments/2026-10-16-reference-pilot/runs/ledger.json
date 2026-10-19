@@ -1,0 +1,82 @@
+[
+  {
+    "label": "judge-controls",
+    "role": "judge",
+    "status": "complete",
+    "request_sha256": "5a79b59bf184bfa061ffd0880f15e70a7465c522cda20ec73d8dc3ede80a549f",
+    "reported_usd": 0.016372,
+    "elapsed_seconds": 6.003
+  },
+  {
+    "label": "judge-controls-v2",
+    "role": "judge",
+    "status": "complete",
+    "request_sha256": "d3b88c71f71143f532e0710909d2d9f72658c4bc5fdb6bd69a2396d34d94bae4",
+    "reported_usd": 0.017696,
+    "elapsed_seconds": 5.142
+  },
+  {
+    "label": "translate-baseline-development",
+    "role": "translate",
+    "status": "complete",
+    "request_sha256": "27b7436253336f2e3ac2352c52675a4583f2304d46bc076666335e7f5a3fabb9",
+    "reported_usd": 0.21739,
+    "elapsed_seconds": 39.108
+  },
+  {
+    "label": "score-baseline-development",
+    "role": "judge",
+    "status": "complete",
+    "request_sha256": "38e7ca9187c0279975f9e8e6905416aa76ce09debfefdde176eb371e53bf9489",
+    "reported_usd": 0.030284,
+    "elapsed_seconds": 9.721
+  },
+  {
+    "label": "translate-clause-audit-development",
+    "role": "translate",
+    "status": "complete",
+    "request_sha256": "24a6e39286dc497bfd6edd7027725225ebc8e7a60e9c73fddb3869a523851597",
+    "reported_usd": 0.23429,
+    "elapsed_seconds": 44.337
+  },
+  {
+    "label": "score-clause-audit-development",
+    "role": "judge",
+    "status": "complete",
+    "request_sha256": "2b368f469728f03b44cbf5c15de7ff595d88cfa84ecae7e9534961b6bc1b7d8c",
+    "reported_usd": 0.041074,
+    "elapsed_seconds": 16.339
+  },
+  {
+    "label": "translate-conservative-context-development",
+    "role": "translate",
+    "status": "complete",
+    "request_sha256": "a4c8ad7e7b3e4bb88e4e40f94515a82205c329be0c847c461751b64c6d75b0a5",
+    "reported_usd": 0.24434,
+    "elapsed_seconds": 90.285
+  },
+  {
+    "label": "score-conservative-context-development",
+    "role": "judge",
+    "status": "complete",
+    "request_sha256": "9a69e8b7a0a350aca27bc7307a5bfce22d7eda67d8a52b6356107ec28a199b2e",
+    "reported_usd": 0.040338,
+    "elapsed_seconds": 15.933
+  },
+  {
+    "label": "translate-baseline-heldout",
+    "role": "translate",
+    "status": "complete",
+    "request_sha256": "3145bcd5065c74791f93e116dd3c9790fb0c82be503fcdd87d8bf8a83bf7f8a1",
+    "reported_usd": 0.10934,
+    "elapsed_seconds": 19.095
+  },
+  {
+    "label": "score-reserved-batch",
+    "role": "judge",
+    "status": "complete",
+    "request_sha256": "23bd2654dee8958330c92cd42010812586802343b245efb8841f102c0d5b59b8",
+    "reported_usd": 0.020998,
+    "elapsed_seconds": 7.131
+  }
+]

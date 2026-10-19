@@ -1,0 +1,139 @@
+{
+  "label": "review-format-recovery",
+  "request_sha256": "af3e064d371d71cc9cb457d65c04fdc3d0bc7963851fdf03aaf00fe3a1b1a13b",
+  "model_alias": "sonnet",
+  "model_usage": {
+    "claude-sonnet-5-5": {
+      "inputTokens": 2,
+      "outputTokens": 2530,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 9532,
+      "webSearchRequests": 0,
+      "costUSD": 0.063432,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 0,
+      "canonicalModel": "claude-sonnet-5-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 9532,
+    "cache_read_input_tokens": 0,
+    "output_tokens": 2530,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 9532,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 2530,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 9532,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 9532
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "num_turns": 2,
+  "permission_denials": [],
+  "reported_usd": 0.063432,
+  "elapsed_seconds": 18.591,
+  "response": {
+    "flags": [
+      {
+        "id": "f1",
+        "side": "169R",
+        "block_index": 1,
+        "issue": "The English asserts 'my Father' and 'I and [my Father] are one', but the source reads 'እሉየ፡ወእነ፡፩ንሕነ' (roughly 'these of mine ... and I ... one ... we'). The divine-Father wording is not supported by the visible Ge'ez. The 'received him who sent me' clause is also fluent but uncertain.",
+        "suggestion": "Mark 'my Father' as unsupported and render the 'these of mine / I / one / we' sequence more literally.",
+        "source_basis": "ተወክሮ፡ለዘፈነወኒ፡እሉየ፡እስመ፡እሉየ፡ወእነ፡፩ንሕነ"
+      },
+      {
+        "id": "f2",
+        "side": "169R",
+        "block_index": 4,
+        "issue": "'ወረሰዩ፡ጥቁሙ' is rendered 'made [unresolved expression]'. The next clause, 'እንዘ፡ኢይኃድጉ፡ቀናና' (not abandoning the canon/rule), is kept, but the subject and the link to the first verb are lost.",
+        "suggestion": "Render 'ወረሰዩ' as 'and they made/appointed' with 'ጥቁሙ' as uncertain. Keep the negation 'while they do not abandon'.",
+        "source_basis": "ወዓቀቡ፡ወረሰዩ፡ጥቁሙ፡እንዘ፡ኢይኃድጉ፡ቀናና"
+      },
+      {
+        "id": "f3",
+        "side": "169V",
+        "block_index": 1,
+        "issue": "The English has 'he spoke with him in a pillar of cloud, so that he fasted forty days'. The source says 'ከመ፡ደጸውም' with 'ከመ፡ደተናገር፡ምስሌ' (so that he might speak with God). 'Fasted' is an interpretive gloss. The 'without washing away/diminishing' gloss on 'እንዘ፡ኢየሐፅቡ' is also speculative.",
+        "suggestion": "Keep 'ደጸውም' as an unresolved verb. Do not add 'fasted' here. Treat 'not washing/diminishing' as uncertain.",
+        "source_basis": "እንዘ፡ኢየሐፅቡ፡... ከመ፡ደጸውም፡፵መዓልተ"
+      },
+      {
+        "id": "f4",
+        "side": "169V",
+        "block_index": 2,
+        "issue": "'ወደግለሠኢ' and 'እክለ፡እበለዕኩ' are rendered as 'I did not eat bread'. The source has 'እክለ' (food) and 'እበለዕኩ' (I ate). The English supplies 'bread' and the negative 'did not eat'. The negation is flagged as uncertain but is still asserted in the text. The next phrase, 'ማየ፡ኢስተየኩ' (water I did not drink), does carry a negative.",
+        "suggestion": "Render as 'food I ate/consumed [uncertain]' and 'water I did not drink'. Remove 'bread'.",
+        "source_basis": "እክለ፡እበለዕኩ፡ወማየ፡ኢስተየኩ"
+      },
+      {
+        "id": "f5",
+        "side": "170R",
+        "block_index": 2,
+        "issue": "'ይእቲሜርዓት፡ነፍሶሙ' is rendered as 'bride of their souls—for Christians'. 'Bride' is not visible in the source, which has 'ሜርዓት' (possibly 'ሜርዓት' / 'the order/ordinance of their souls'). The addition is unsupported.",
+        "suggestion": "Remove 'bride'. Render as 'which is the ... of the souls of the Christians' with the unresolved term.",
+        "source_basis": "እንተ፡ይእቲ ሜርዓት፡ነፍሶሙ፡ለክርስቲያን"
+      },
+      {
+        "id": "f6",
+        "side": "170V",
+        "block_index": 0,
+        "issue": "The English gives a fluent quote, 'Take off your sandals... the ground where you stand is holy; it is the church.' The source has 'ወደቢለኪ፡ክለዕ፡እሠዕኒክ፡እምእግሪክ' with an unclear second-person form and the odd 'እሠዕኒክ'. 'ውእቱ፡እስት' is 'that fire', and the quotation framing is stronger than the source supports.",
+        "suggestion": "Mark the quoted command as uncertain and keep 'ክለዕ' and 'እሠዕኒክ' hedged.",
+        "source_basis": "ወደቢለኪ፡ክለዕ፡እሠዕኒክ፡እምእግሪክ"
+      },
+      {
+        "id": "f7",
+        "side": "170V",
+        "block_index": 1,
+        "issue": "The English says 'her lamps and her [unresolved object]', but the source has 'ማኅትዊሃ፡ወመስውሪሃ' as two nouns. The olive-branch clause ('ዘእቢ፡እዕፁቀ፡ዘይት') is also thinned. 'Ezra saw her' and 'she was not a woman' are kept, but 'in the likeness of' relies on 'በእምሳለ'.",
+        "suggestion": "Render both nouns, 'her ... and her ...', with each hedged. Keep 'olive trees/branches' as a separate clause.",
+        "source_basis": "ማኅትዊሃ፡ወመስውሪሃ፡ዘእቢ፡እዕፁቀ፡ዘይት"
+      },
+      {
+        "id": "f8",
+        "side": "171R",
+        "block_index": 0,
+        "issue": "The English says 'they did not say yes at those people's command'. The source has 'ኢይበሉ፡እሁ፡በትእዘዘ፡ዚእሆሙ' (not say 'yes' at the command of their lord/master). 'Their lord' is lost. The statement 'He/it did not yield' for 'ኢይየውሕ' is also an ungrounded subject.",
+        "suggestion": "Render as 'at the command of their master(s)'. Keep the subject of 'ኢይየውሕ' unresolved.",
+        "source_basis": "ኢይየውሕ፡ወኢይበሉ፡እሁ፡በትእዘዘ፡ዚእሆሙ"
+      }
+    ],
+    "coverage_notes": [
+      "Block 169R 5 ('God said to Moses: I entrust them...') relies on a hedged reading of 'እማኅፀኖሙ' and 'ለያቁቆ፡ሌዊ'. Not flagged separately.",
+      "Block 171R 3 omits some detail from lines 17-19, 'እለ፡ባሕቱ፡ረሰዩ'. Not flagged separately."
+    ],
+    "join_notes": [
+      "170V block 3 runs into 171R block 0 across the unresolved word split between lines 24 and 1; the join is hedged correctly.",
+      "169R blocks 2 and 3 repeat 'ንቀውም፡ሎሙ፡በስማያት'. The repetition matches the source (lines 11-12 and 16-17)."
+    ],
+    "limitations": [
+      "The source is uncertain machine transcription. I did not verify the readings or the Ge'ez forms, and my flags are tentative.",
+      "Some Ge'ez glosses in the flags are my own best readings and may be wrong."
+    ]
+  }
+}

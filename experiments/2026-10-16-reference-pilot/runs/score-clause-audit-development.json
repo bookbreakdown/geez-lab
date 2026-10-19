@@ -1,0 +1,218 @@
+{
+  "label": "score-clause-audit-development",
+  "role": "judge",
+  "model_alias": "sonnet",
+  "reported_models": {
+    "claude-sonnet-5-5": {
+      "inputTokens": 2,
+      "outputTokens": 2487,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 4050,
+      "webSearchRequests": 0,
+      "costUSD": 0.041074,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 951,
+      "canonicalModel": "claude-sonnet-5-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 4050,
+    "cache_read_input_tokens": 0,
+    "output_tokens": 2487,
+    "output_tokens_details": {
+      "thinking_tokens": 951
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 4050,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 2487,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 4050,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 4050
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "num_turns": 1,
+  "permission_denials": [],
+  "reported_usd": 0.041074,
+  "elapsed_seconds": 16.339,
+  "cli_version": "2.1.301",
+  "request_sha256": "2b368f469728f03b44cbf5c15de7ff595d88cfa84ecae7e9534961b6bc1b7d8c",
+  "response": {
+    "records": [
+      {
+        "id": "D01",
+        "facts": [
+          {
+            "index": 1,
+            "verdict": "supported",
+            "evidence": "\"Solomon son of David married women, seven hundred concubines\" gives Solomon, his father David, and many women."
+          },
+          {
+            "index": 2,
+            "verdict": "supported",
+            "evidence": "\"did not find among them a child, not even one\" says none of them bore him offspring. \"Child\" is used where the French says \"son\", a negligible difference."
+          },
+          {
+            "index": 3,
+            "verdict": "supported",
+            "evidence": "\"God Most High did not consent that the seed of Canaan be joined with the seed of the holy people\""
+          },
+          {
+            "index": 4,
+            "verdict": "supported",
+            "evidence": "\"the people from whom our Lord Jesus Christ took flesh\""
+          },
+          {
+            "index": 5,
+            "verdict": "supported",
+            "evidence": "\"All of them, the wives of Solomon, were of the seed of Canaan.\""
+          }
+        ],
+        "unsupported_additions": [],
+        "review_only_differences": [
+          "The candidate gives \"women, seven hundred concubines\" rather than 700 wives and 80 concubines. This was not scored."
+        ]
+      },
+      {
+        "id": "D02",
+        "facts": [
+          {
+            "index": 1,
+            "verdict": "supported",
+            "evidence": "\"God [made?] Moses a prophet\" is hedged, but it identifies Moses as a prophet of God."
+          },
+          {
+            "index": 2,
+            "verdict": "supported",
+            "evidence": "\"Levi, when he went with his father to the land of Egypt\""
+          },
+          {
+            "index": 3,
+            "verdict": "supported",
+            "evidence": "\"there were born Moses, and Tsemaran(?), and Joshua son of Nun, and Caleb\""
+          },
+          {
+            "index": 4,
+            "verdict": "supported",
+            "evidence": "\"Joshua son of Nun\""
+          },
+          {
+            "index": 5,
+            "verdict": "supported",
+            "evidence": "\"when they threw him into the river\""
+          },
+          {
+            "index": 6,
+            "verdict": "supported",
+            "evidence": "\"Sefir(?), daughter of Pharaoh, took him and brought him into her house\""
+          }
+        ],
+        "unsupported_additions": [],
+        "review_only_differences": [
+          "The names Tsemaran and Sefir are transliteration variants of Te‘mrân and Sâfir. They were not penalised."
+        ]
+      },
+      {
+        "id": "D03",
+        "facts": [
+          {
+            "index": 1,
+            "verdict": "supported",
+            "evidence": "\"fled ... because of fear of Pharaoh\""
+          },
+          {
+            "index": 2,
+            "verdict": "supported",
+            "evidence": "\"to Radabil(?), the priest of Midian\""
+          },
+          {
+            "index": 3,
+            "verdict": "supported",
+            "evidence": "\"there he married a wife (of the house) of Raguel\""
+          },
+          {
+            "index": 4,
+            "verdict": "partial",
+            "evidence": "\"he begot two from (among) the children of…\" shows two offspring, but the clause is truncated and adds an unclear \"children of…\" qualifier."
+          }
+        ],
+        "unsupported_additions": [
+          "\"from (among) the children of…\" is a trailing fragment not in the French. It is probably an artifact of the broken text."
+        ],
+        "review_only_differences": [
+          "The priest is named Radabil, then Raguel, versus Râ‘ow’él. This is a name reading difference and was not scored.",
+          "The candidate has \"a wife (of the house) of Raguel\" where the French has \"the sister of Râ‘ou’él\". This was not scored."
+        ]
+      },
+      {
+        "id": "D04",
+        "facts": [
+          {
+            "index": 1,
+            "verdict": "supported",
+            "evidence": "\"after Moses died, the son of Nun judged the people\". Joshua is recoverable from \"son of Nun\"."
+          },
+          {
+            "index": 2,
+            "verdict": "supported",
+            "evidence": "\"after him Kus the apostate judged them — ... eight years\""
+          },
+          {
+            "index": 3,
+            "verdict": "supported",
+            "evidence": "\"Gotonyal son of Kenez, the brother of Caleb\""
+          },
+          {
+            "index": 4,
+            "verdict": "supported",
+            "evidence": "\"the children of Israel were enslaved to Eglom, king of Moab\""
+          },
+          {
+            "index": 5,
+            "verdict": "supported",
+            "evidence": "\"God delivered them from his hand\""
+          },
+          {
+            "index": 6,
+            "verdict": "supported",
+            "evidence": "\"Na'od son of Gera judged them eighty years\""
+          },
+          {
+            "index": 7,
+            "verdict": "supported",
+            "evidence": "\"in the ... year of Na'od's judgeship four thousand (years) from creation were completed\""
+          }
+        ],
+        "unsupported_additions": [],
+        "review_only_differences": [
+          "Joshua's judging period is 24 years in the candidate versus 31 in the French.",
+          "Othniel's period is 10 years versus 50.",
+          "The servitude to Eglon is 108 years versus 18.",
+          "Ehud's anniversary year is the 17th versus the 27th.",
+          "None of these numeric differences was scored."
+        ]
+      }
+    ]
+  }
+}

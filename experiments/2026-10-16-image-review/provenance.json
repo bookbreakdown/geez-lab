@@ -1,0 +1,49 @@
+{
+  "project_home": "https://ethiopiancanon.com",
+  "date": "2026-10-16",
+  "reviewed_commit": "b4dbd3fd2d2b78c5c5a4a11c28b079efdded868e",
+  "reviewer": "Codex assistant; AI proposal, no expert adjudication",
+  "reference_exposure": "Existing machine transcriptions and English, Transkribus outputs, historical notes, and earlier French-reference pilot were visible. This is not blind evaluation. No new French translation was consulted in this image review.",
+  "images": [
+    {
+      "side": "153R",
+      "filename": "MAIX1-153R.jpg",
+      "sha256": "dbaf3c41f26d355c32dd20c528d1b5704c17b7ed2c6ed86f59157ac6d5a52143",
+      "role": "visually inspected"
+    },
+    {
+      "side": "168R",
+      "filename": "MAIX1-168R.jpg",
+      "sha256": "94ec47c92baac64066ac6c637595014d7ba051956abc2eccd97b618a362b9bba",
+      "role": "visually inspected"
+    },
+    {
+      "side": "41V",
+      "filename": "MAIX1-c088-full.jpg",
+      "sha256": "ad6b63b94447ecdbb6a33caee08224354b56d586bba03c189c80cbf6f9dfe9ae",
+      "role": "visually inspected"
+    },
+    {
+      "side": "168V",
+      "filename": "MAIX1-168V.jpg",
+      "sha256": "77e9027020b37ef8b554d08b7338c0e71647e45ca499e1d5bfd5bd0a662b9733",
+      "role": "join context only"
+    }
+  ],
+  "alignment_rows": 71,
+  "normalisation": "Existing line-number prefixes removed; original text unchanged in source files. Extracted recognition text retains punctuation and spacing.",
+  "excluded_supplied_fragments": {
+    "153R_sections_1_and_4": [
+      1
+    ],
+    "168R_section_3": [
+      1
+    ],
+    "41V_section_2": [
+      2,
+      11
+    ]
+  },
+  "expert_accuracy_measured": false,
+  "human_correction_time_measured": false
+}

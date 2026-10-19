@@ -1,0 +1,21 @@
+{
+  "candidate": "baseline",
+  "split": "heldout",
+  "mean_score": 1.0,
+  "contradictions": 0,
+  "additions": 2,
+  "passages": [
+    {
+      "id": "H01",
+      "score": 1.0,
+      "contradictions": 0,
+      "additions": 1
+    },
+    {
+      "id": "H02",
+      "score": 1.0,
+      "contradictions": 0,
+      "additions": 1
+    }
+  ]
+}

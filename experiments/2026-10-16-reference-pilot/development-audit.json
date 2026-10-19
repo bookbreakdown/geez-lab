@@ -1,0 +1,25 @@
+{
+  "stage": "development",
+  "reviewer": "Codex assistant; not an independent Ge’ez expert",
+  "automatic_results_preserved": true,
+  "findings": [
+    {
+      "candidate": "baseline",
+      "passage": "D01",
+      "fact": 1,
+      "issue": "Judge deducted credit because 700 concubines differs from French700wives+80concubines, despite that distinction being explicitly review-only.",
+      "interpretation": "On the registered fact alone (son of David; many women), the English supports it. The raw0.975 is not a trustworthy accuracy estimate."
+    },
+    {
+      "candidates": [
+        "clause-audit",
+        "conservative-context"
+      ],
+      "passage": "D03",
+      "fact": 4,
+      "issue": "The source selection ends with እምውሉደ (from/among children), leaving a syntactic fragment before Joshua in the following line. Both candidates retain the fragment. The judge penalises the awkward incomplete English.",
+      "interpretation": "This is input/alignment quality interacting with scoring, not established inferiority of a translation procedure. A cleaned, expert-reviewed alignment is needed."
+    }
+  ],
+  "decision": "Do not evolve instructions to erase either difference. Preserve simple baseline, evaluate reserved passages once, and report no demonstrated prompt gain."
+}

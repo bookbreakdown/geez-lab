@@ -1,0 +1,107 @@
+{
+  "label": "translate-clause-audit-development",
+  "role": "translate",
+  "model_alias": "fable",
+  "reported_models": {
+    "claude-fable-5-1": {
+      "inputTokens": 2,
+      "outputTokens": 3727,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 2396,
+      "webSearchRequests": 0,
+      "costUSD": 0.23429,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 64000,
+      "thinkingTokens": 2474,
+      "canonicalModel": "claude-fable-5-1",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 2396,
+    "cache_read_input_tokens": 0,
+    "output_tokens": 3727,
+    "output_tokens_details": {
+      "thinking_tokens": 2474
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2396,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 3727,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 2396,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 2396
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "num_turns": 1,
+  "permission_denials": [],
+  "reported_usd": 0.23429,
+  "elapsed_seconds": 44.337,
+  "cli_version": "2.1.301",
+  "request_sha256": "24a6e39286dc497bfd6edd7027725225ebc8e7a60e9c73fddb3869a523851597",
+  "response": {
+    "records": [
+      {
+        "id": "D01",
+        "english": "For Solomon son of David married women, seven hundred concubines, and he did not find among them a child, not even one from among them, because God Most High did not consent that the seed of Canaan be joined with the seed of the holy people, (the people) from whom our Lord Jesus Christ took flesh. All of them, the wives of Solomon, were of the seed of Canaan.",
+        "uncertainties": [
+          "እውስበ read as አውሰበ 'married'",
+          "፯፻ዕቁባት: the text itself says 'women, 700 concubines' (no separate count of wives); rendered as written",
+          "ወ፩እምኔሆን: 'not even one from among them' (negation carried over from ኢረከበ)",
+          "ኮሎንኪ: unclear form, taken as ኵሎን 'all of them (f.)' with an obscure suffix"
+        ]
+      },
+      {
+        "id": "D02",
+        "english": "And as for him(?) — God [made?] Moses a prophet; for the holy books relate that Levi, when he went with his father to the land of Egypt — and there were born Moses, and Tsemaran(?), and Joshua son of Nun, and Caleb, from his own (seed/line). And as for Moses, when they threw him into the river, Sefir(?), daughter of Pharaoh, took him and brought him into her house.",
+        "uncertainties": [
+          "ዚዓሁስ: obscure opening (perhaps ዚአሁ-ሰ 'as for his own'); the clause lacks an explicit verb and its syntax is uncertain",
+          "ትስማራን: unidentified personal name, left as transliteration",
+          "እምዘእዚእሁ: unclear; read as እምዘ ዚአሁ 'from that which is his / his own line'",
+          "ስፊር: name supplied for Pharaoh's daughter as in the manuscript, not identified",
+          "ወእትወቶ read as አትወቶ 'she brought him in'",
+          "the ከመ-clause about Levi is syntactically incomplete before ፨"
+        ]
+      },
+      {
+        "id": "D03",
+        "english": "And he fled to Radabil(?), the priest of Midian, because of fear of Pharaoh; and there he married a wife (of the house) of Raguel, and he begot two from (among) the children of…",
+        "uncertainties": [
+          "ራዳቢል: unclear name for the priest of Midian; the same figure is then called ራጉኤል (Raguel) on line 4b–5a; both kept as written",
+          "ብእሲተ ለራጉኤል: 'a wife belonging to Raguel', i.e. presumably his daughter, but the text does not say 'daughter'",
+          "passage breaks off mid-clause after እምውሉደ (line 5a)"
+        ]
+      },
+      {
+        "id": "D04",
+        "english": "And after Moses died, the son of Nun judged the people twenty-four years. And after him Kus the apostate judged them — judged them eight years. And after him Gotonyal son of Kenez, the brother of Caleb, ten years. And after him the children of Israel were enslaved to Eglom, king of Moab, one hundred and eight years. And then God delivered them from his hand. And after him Na'od son of Gera judged them eighty years; and in the seventeenth year of Na'od's judgeship four thousand (years) from creation were completed.",
+        "uncertainties": [
+          "ኩስ ዕልው: 'Kus the apostate/rebel', kept as written (not harmonized to a biblical name); the verb ኮነኖሙ is repeated in the manuscript",
+          "እ?ኁሁ: damaged letter, read as እኁሁ 'his brother'",
+          "፻፰ 'one hundred and eight' years rendered as written, not corrected",
+          "፵፻ read as 40×100 = 4000; 'years' is implied, not written",
+          "names Gotonyal, Eglom, Na'od, Gera transliterated as in the text"
+        ]
+      }
+    ]
+  }
+}

@@ -3,6 +3,51 @@
 Prepared October 15, 2026, for [EthiopianCanon.com](https://ethiopiancanon.com).
 **Unreleased; expert review pending.**
 
+## October 19 consecutive machine first pass
+
+[Five consecutive sides, 169r–171r](../experiments/2026-10-19-machine-first-pass/ENGLISH-FIRST-PASS.md)
+now have provisional English in 21 source-linked blocks covering 118 assigned
+manuscript lines. The batch used the existing Ge’ez readings, new English
+inference, source-image checks, and a separately recorded machine review.
+Unrecovered words, difficult clauses, and two unresolved internal joins remain
+visible. Exact work identification is not confirmed. These are five already
+transcribed sides, not additions to the historical corpus count.
+
+The first reviewer output failed parsing; a single schema-enforced recovery was
+used within a three-call cap. Successful calls reported about $0.83 equivalent;
+the failed call's usage is unknown, so no whole-batch cost is established.
+See the [report](../experiments/2026-10-19-machine-first-pass/REPORT.md).
+Expert review remains needed to establish quality, but does not block further
+bounded machine drafting of consecutive material.
+
+## October 16 translation-method pilot
+
+A [small French-reference pilot](../experiments/2026-10-16-reference-pilot/REPORT.md)
+used existing machine transcriptions, four development excerpts, and two reserved
+excerpts. The simple baseline recovered the selected shared facts; more elaborate
+instructions did not demonstrate a gain. The evaluator also mishandled an
+excluded numerical difference, and a source fragment affected comparison.
+
+The trial used ten model calls and approximately $0.97 reported USD-equivalent,
+not a confirmed subscription charge. It did not test new source images, run a
+genetic search, or establish transfer to the missing books. The next useful work
+is better paired data and an image-to-English baseline for expert review.
+
+## October 16 image review and English packet
+
+An [image-review pass](../experiments/2026-10-16-image-review/REPORT.md) aligned
+71 main-text lines across 41v, 153r, and 168r, recorded 20 targeted observations,
+and produced [provisional English for all three sides](../experiments/2026-10-16-image-review/ENGLISH-REVIEW-PACKET.md).
+The three sides are nonconsecutive and some clauses remain unresolved. This is
+immediate expert-review material, not the planned three-side Grébaut-aligned test,
+a new blind comparison, or independently checked English.
+
+The user has supplied full-length Transkribus text for the comparison; further
+signup or repeat uploads are not required for this packet. Source/English expert
+corrections and correction-time measurement remain outstanding. Agreement alone
+will not authorise automatic corrections. Complete English for review remains
+the priority over expanding recognition research.
+
 ## What exists
 
 The main corpus contains **68 consecutive sides, 156r–189v**, representing
@@ -30,8 +75,9 @@ available joins and historically checked joins are different counts.
 - The working key has no secure positive shape for the 30 and 50 signs.
 - Several numerical differences may be genuine witness variants. Othniel and
   Abimelech are candidates for expert adjudication, not settled corrections.
-- Text identification across the range is incomplete. The run identified the
-  *Rest of the Words of Baruch* on 165v–166v; other identifications remain disputed.
+- Text identification across the range is incomplete. The run proposed the
+  *Rest of the Words of Baruch* on 165v–166v; independent confirmation is pending,
+  and other identifications remain disputed.
   The old catalogue-derived book ranges are provisional working labels.
 - The neighbouring sides 187r/187v have an unresolved continuity issue.
 
@@ -48,3 +94,17 @@ This package shares research and tools. It does not add Books IV–VII to a
 published Bible, establish a critical edition, or justify a “first English
 translation” claim. Those require scholarly and bibliographic work beyond this
 repository. See the [roadmap](ROADMAP.md).
+
+## Additional analyses and checked leads
+
+[An October 16 source review](EXTERNAL-REVIEW-2026-10-16.md) verified that
+Transkribus offers a specialist Classical Ethiopic recogniser. A subsequent
+[demo trial](../experiments/2026-10-16-transkribus-pilot/REPORT.md) processed four
+uploads across three sides. It produced Ge’ez previews, but full export required
+an account and accuracy remains unmeasured. Leo advertises Latin-script recognition
+and was ruled out for these Ge’ez images. It also inspected the suggested TheoDoor DOCX: the current download is a
+placeholder with no Ge’ez text. The 2008 edition and its digitisation are
+excluded as commercial translation sources without explicit permission; see
+[the source policy](SOURCES.md). The next bounded experiment should compare
+source-reading methods on a few representative sides, then produce complete
+English for expert review. A larger evolutionary search is not yet justified.

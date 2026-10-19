@@ -1,0 +1,107 @@
+{
+  "project_home": "https://ethiopiancanon.com",
+  "date": "2026-10-19",
+  "base_commit": "8d068aaef42db72274efe8a7ca7e55e9a6448546",
+  "selection": "169r–171r, consecutive existing draft sides within catalogue-assigned missing-book material; selected for continuity and genre, not randomly. Exact work identity unconfirmed.",
+  "images": [
+    {
+      "side": "168V",
+      "canvas": 342,
+      "image_filename": "MAIX1-168V.jpg",
+      "dimensions": [
+        1700,
+        2387
+      ],
+      "sha256": "77e9027020b37ef8b554d08b7338c0e71647e45ca499e1d5bfd5bd0a662b9733",
+      "role": "boundary context",
+      "image_url": "https://opendigi.ub.uni-tuebingen.de/opendigi/image/MaIX1/MaIX1_342.jp2/full/1700,/0/default.jpg"
+    },
+    {
+      "side": "169R",
+      "canvas": 343,
+      "image_filename": "MAIX1-169R.jpg",
+      "dimensions": [
+        1700,
+        2387
+      ],
+      "sha256": "d2862743dad4397d97c1b52f94090e7feb8f560c7a8ec133a3ef1f22a24635c6",
+      "role": "full side inspected",
+      "image_url": "https://opendigi.ub.uni-tuebingen.de/opendigi/image/MaIX1/MaIX1_343.jp2/full/1700,/0/default.jpg"
+    },
+    {
+      "side": "169V",
+      "canvas": 344,
+      "image_filename": "MAIX1-169V.jpg",
+      "dimensions": [
+        1700,
+        2387
+      ],
+      "sha256": "bf1cccb2e430f0b93f8baf2ee7f04d6768f748a4ce5911c02c575d2377b9ce9a",
+      "role": "full side inspected",
+      "image_url": "https://opendigi.ub.uni-tuebingen.de/opendigi/image/MaIX1/MaIX1_344.jp2/full/1700,/0/default.jpg"
+    },
+    {
+      "side": "170R",
+      "canvas": 345,
+      "image_filename": "MAIX1-170R.jpg",
+      "dimensions": [
+        1700,
+        2387
+      ],
+      "sha256": "bb112110be2a9694de9f231c38167ba119a834b70d0cb2549bdf91d65c89c091",
+      "role": "full side inspected",
+      "image_url": "https://opendigi.ub.uni-tuebingen.de/opendigi/image/MaIX1/MaIX1_345.jp2/full/1700,/0/default.jpg"
+    },
+    {
+      "side": "170V",
+      "canvas": 346,
+      "image_filename": "MAIX1-170V.jpg",
+      "dimensions": [
+        1700,
+        2387
+      ],
+      "sha256": "6b9ba69f30c9738c05e93de4acb08852743c9039475363793f0c1be7f320c750",
+      "role": "full side inspected",
+      "image_url": "https://opendigi.ub.uni-tuebingen.de/opendigi/image/MaIX1/MaIX1_346.jp2/full/1700,/0/default.jpg"
+    },
+    {
+      "side": "171R",
+      "canvas": 347,
+      "image_filename": "MAIX1-171R.jpg",
+      "dimensions": [
+        1700,
+        2387
+      ],
+      "sha256": "84d83c6667607fcbf93995de7ee96081027620a252f8f0cafd4ff38a802d47f3",
+      "role": "full side inspected",
+      "image_url": "https://opendigi.ub.uni-tuebingen.de/opendigi/image/MaIX1/MaIX1_347.jp2/full/1700,/0/default.jpg"
+    },
+    {
+      "side": "171V",
+      "canvas": 348,
+      "image_filename": "MAIX1-171V.jpg",
+      "dimensions": [
+        1700,
+        2387
+      ],
+      "sha256": "15ed71bd575fb6a033cc9680533475d190e6c96d43c754dffe65aa7d9494cdcd",
+      "role": "boundary context",
+      "image_url": "https://opendigi.ub.uni-tuebingen.de/opendigi/image/MaIX1/MaIX1_348.jp2/full/1700,/0/default.jpg"
+    }
+  ],
+  "source_lines": 118,
+  "source_status": "Historical calibrated machine readings, not expert ground truth.",
+  "translator_exposure": "Five numbered Ge’ez transcripts only; no old gists/English or French supplied. A known literature passage may still occur in model training.",
+  "coordinator_exposure": "Images, existing transcripts, gists and historical notes; not blind or independent.",
+  "source_restrictions": "2008 edition and derived digitisation excluded; no modern reference translation used.",
+  "expert_review": false,
+  "human_correction_time_measured": false,
+  "cli_version": "2.1.303",
+  "translator_reported_models": [
+    "claude-fable-5-1"
+  ],
+  "review_procedure": "Original review of initial English failed JSON parsing. One explicit schema-enforced recovery reviewed the coordinator-revised English with frozen Ge’ez; no source images or coordinator image notes were supplied to that reviewer. Source and output records retain the distinction.",
+  "reviewer_reported_models": [
+    "claude-sonnet-5-5"
+  ]
+}

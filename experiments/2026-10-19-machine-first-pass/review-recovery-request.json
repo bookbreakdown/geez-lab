@@ -1,0 +1,835 @@
+{
+  "task": "Review the CURRENT revised English against frozen Ge’ez readings. Identify up to eight material source omissions, unsupported additions, negation/person errors or broken joins. Do not fill gaps from familiar scripture. Source itself is uncertain machine transcription. Uncertainty is acceptable; focus on recoverable meaning lost or wrongly asserted, including fluent clauses. Give exact zero-based block index and source words. Keep each issue concise, total response under 1500 words. No images or tools available; do not claim verification or accuracy. Return only structured output matching schema. This is a format-recovery call after a prior review was not parseable; do not infer its findings.",
+  "source": {
+    "project_home": "https://ethiopiancanon.com",
+    "sides": [
+      {
+        "side": "169R",
+        "lines": [
+          {
+            "line": 1,
+            "geez": "ቀለነ።ወበእንተ፡ዝንቱ፡ን"
+          },
+          {
+            "line": 2,
+            "geez": "ስእል፡ሎሙ፡ኀበ፡ዘፈነወኒ፡"
+          },
+          {
+            "line": 3,
+            "geez": "ከመ፡ንለብክ፡ወንምሐሮሙ"
+          },
+          {
+            "line": 4,
+            "geez": "ዜና፡ወንጊል፡ቀዲስ።ወእግ"
+          },
+          {
+            "line": 5,
+            "geez": "ዚእየኒ፡ይቤለነ፡ዘኪያክሙ"
+          },
+          {
+            "line": 6,
+            "geez": "ሰምዓ፡ዘኪያክሙ፡ተወክፈ"
+          },
+          {
+            "line": 7,
+            "geez": "ተወክሮ፡ለዘፈነወኒ፡እሉየ፡"
+          },
+          {
+            "line": 8,
+            "geez": "እስመ፡እሉየ፡ወእነ፡፩ንሕነ፡ወ"
+          },
+          {
+            "line": 9,
+            "geez": "ለ፡ስምዑ፡ኪያክሙ፡ኪያየ፡ስ"
+          },
+          {
+            "line": 10,
+            "geez": "ምዑ፡ዓኀበራ፡ለቀዱስተ፡ቤተ"
+          },
+          {
+            "line": 11,
+            "geez": "ክርስቲያን።ንቀውም፡ሎሙ፡"
+          },
+          {
+            "line": 12,
+            "geez": "በስማያት፡ከመ፡በእንተ፡ይእ"
+          },
+          {
+            "line": 13,
+            "geez": "ቲ፡ቀለነ፡ዘስምዑ።ወዓቀቡ፡"
+          },
+          {
+            "line": 14,
+            "geez": "ወረሰዩ፡ጥቁሙ፡እንዘ፡ኢይ"
+          },
+          {
+            "line": 15,
+            "geez": "ኃድጉ፡ቀናና፡ዘቀዱስተ፡ቤተ"
+          },
+          {
+            "line": 16,
+            "geez": "ክርስቲያን፡ንቀውም፡ሎሙ፡"
+          },
+          {
+            "line": 17,
+            "geez": "በስማያት።እስመ፡ንሕነ፡መ"
+          },
+          {
+            "line": 18,
+            "geez": "ጋብያነ፡ሠርዓቱ፡ለእግዚእ"
+          },
+          {
+            "line": 19,
+            "geez": "ብሔር፡ይክዉኑ፡ውሉደ፡እ"
+          },
+          {
+            "line": 20,
+            "geez": "ግዚእብሔር፡ሠራዓነ፡በቃ"
+          },
+          {
+            "line": 21,
+            "geez": "ልነ፡ከመ፡ንሕነ፡ንተመሐፀ"
+          },
+          {
+            "line": 22,
+            "geez": "ኖሙ፡በኀበ፡እምላክነ፡ይቤ"
+          },
+          {
+            "line": 23,
+            "geez": "ሉ፡እግዚእብሔር፡ለሙሴ፡"
+          },
+          {
+            "line": 24,
+            "geez": "እማኅፀኖሙ፡ለያቁቆ፡ሌዊ"
+          }
+        ]
+      },
+      {
+        "side": "169V",
+        "lines": [
+          {
+            "line": 1,
+            "geez": "ንቀየ፡ ትእቢት፡ ደብተራ፡ ከመ"
+          },
+          {
+            "line": 2,
+            "geez": "ደቀቡ፡ ወደግለሠኢ፡ ወያግብ"
+          },
+          {
+            "line": 3,
+            "geez": "ራ፡ ወደግበራ፡ ግብራ፡ ለደብተ"
+          },
+          {
+            "line": 4,
+            "geez": "ራ፡ ወያከብሩ፡ ኵሎ፡ ንቀየ፡ ግ"
+          },
+          {
+            "line": 5,
+            "geez": "በራሃ፡ ለቀድስት፡ ደብተራ፡ እ?"
+          },
+          {
+            "line": 6,
+            "geez": "ዝት፡ ኢያስስሉ፡ ወኢያግኀሡ፡"
+          },
+          {
+            "line": 7,
+            "geez": "እምዘ፡ እዙዝ፡ ውስተ፡ ሕግ፡ ዘሠ"
+          },
+          {
+            "line": 8,
+            "geez": "ርዐ፡ እግዚአብሔር፡ ለደብተ"
+          },
+          {
+            "line": 9,
+            "geez": "ራ፡ ጽድቅ፡ ዘበሰማያት። ወበ"
+          },
+          {
+            "line": 10,
+            "geez": "ደግምስ፡ እርእዮ፡ ለሙሴ፡ ግብ"
+          },
+          {
+            "line": 11,
+            "geez": "ራ፡ ለደብተራ፡ እንዘ፡ ኢየሐፅ"
+          },
+          {
+            "line": 12,
+            "geez": "ቡ፡ እምዘ፡ እርእዮ፡ ለሙሴ፡ በ"
+          },
+          {
+            "line": 13,
+            "geez": "ደብሪ፡ ሲና፡ በኀበ፡ ተናገሮ፡"
+          },
+          {
+            "line": 14,
+            "geez": "በእምደ፡ ደመና፡ ከመ፡ ደጸው"
+          },
+          {
+            "line": 15,
+            "geez": "ም፡ ፵መዓልተ፡ ወ፵፡ ሌሊተ፡"
+          },
+          {
+            "line": 16,
+            "geez": "ከመ፡ ደተናገር፡ ምስሌ፡ እግዚ"
+          },
+          {
+            "line": 17,
+            "geez": "አብሔር፡ ወደቤ፡ ለሌሁ፡ ሙሴ"
+          },
+          {
+            "line": 18,
+            "geez": "ርዑድ፡ ወድንጉፅ፡ እነ፡ ፵መዓ"
+          },
+          {
+            "line": 19,
+            "geez": "ልተ፡ ወ፵ ሌሊተ፡ እክለ፡ እበ"
+          },
+          {
+            "line": 20,
+            "geez": "ለዕኩ፡ ወማየ፡ ኢስተየኩ። እ"
+          },
+          {
+            "line": 21,
+            "geez": "ንዘ፡ እጸምዕ፡ ፍትሐ፡ እግዚ"
+          },
+          {
+            "line": 22,
+            "geez": "አብሔር፡ ዘከመ፡ እገብር፡ በከ"
+          },
+          {
+            "line": 23,
+            "geez": "መ፡ እዘዘኒ፡ በቀድስት፡ ደብተ"
+          },
+          {
+            "line": 24,
+            "geez": "ራ፡ እንተ፡ ሣረራ፡ ቀደመ። ወ"
+          }
+        ]
+      },
+      {
+        "side": "170R",
+        "lines": [
+          {
+            "line": 1,
+            "geez": "በደግምስ፡ዓውደ፡ሎቱ፡ደብ"
+          },
+          {
+            "line": 2,
+            "geez": "ሪ፡ሲና፡ከመ፡ይርእየኒ፡ግብ"
+          },
+          {
+            "line": 3,
+            "geez": "ፉ፡ወግብሪ፡ሕጉ፡ለቅዱስት፡"
+          },
+          {
+            "line": 4,
+            "geez": "ደብተራ።ወዓደ፡ከመ፡እሡዕ፡"
+          },
+          {
+            "line": 5,
+            "geez": "ሎቱ፡መሠዋዕት፡ጽድቅ፡ለእ"
+          },
+          {
+            "line": 6,
+            "geez": "ግዚእብሔር፡ዘበፈቃድ፡ወመ"
+          },
+          {
+            "line": 7,
+            "geez": "ድኀኒት፡ወበመሠዋዕት፡ዘበ"
+          },
+          {
+            "line": 8,
+            "geez": "እንተ፡ኃጢእት፡ወመሠዋዕ"
+          },
+          {
+            "line": 9,
+            "geez": "ት፡ዘልፈ፡ዘመድኀኒት፡ወመ"
+          },
+          {
+            "line": 10,
+            "geez": "ሠዋዕት፡ስብሐት፡ወመሠዋ"
+          },
+          {
+            "line": 11,
+            "geez": "ዕት፡ዘበሕጉ፡ለዓመት፡ውስተ"
+          },
+          {
+            "line": 12,
+            "geez": "ቅድስት፡ቤት፡ክርስቲያን።"
+          },
+          {
+            "line": 13,
+            "geez": "ዘንተ፡እዘዘኒ፡እግዚእየ፡ከ"
+          },
+          {
+            "line": 14,
+            "geez": "መ፡እሠኒ፡ግብራ፡ለቅድስት፡"
+          },
+          {
+            "line": 15,
+            "geez": "ደብተራ፡እርእያሃ፡ለቅድስት፡"
+          },
+          {
+            "line": 16,
+            "geez": "ለይእቲ፡በእንተ፡ተትግበር፡በ"
+          },
+          {
+            "line": 17,
+            "geez": "ደኃሪ፡መዋዕል፡እንተ፡ይእቲ"
+          },
+          {
+            "line": 18,
+            "geez": "ሜርዓት፡ነፍሶሙ፡ለክርስ"
+          },
+          {
+            "line": 19,
+            "geez": "ቲያን፡እንተ፡ቤዘዋ፡በደመ"
+          },
+          {
+            "line": 20,
+            "geez": "መሢሕ።ወካዕበ፡ይቤ፡ሙሴ"
+          },
+          {
+            "line": 21,
+            "geez": "ርእኩ፡ጣጠስ፡እሳት፡ይነድድ"
+          },
+          {
+            "line": 22,
+            "geez": "ወቀረብኩ፡ከመ፡እጠይቅ፡ግ"
+          },
+          {
+            "line": 23,
+            "geez": "ርማሁ፡ወወጽእ፡ቃል፡እምው"
+          }
+        ]
+      },
+      {
+        "side": "170V",
+        "lines": [
+          {
+            "line": 1,
+            "geez": "ስት፡ውእቱ፡እስት፡ወደቢለኪ"
+          },
+          {
+            "line": 2,
+            "geez": "ክለዕ፡እሠዕኒክ፡እምእግሪክ"
+          },
+          {
+            "line": 3,
+            "geez": "እስመ፡ምድር፡ኀበ፡ትቀውም"
+          },
+          {
+            "line": 4,
+            "geez": "ቅድስት፡ይእቲ፡ቤት፡ክርስቲ"
+          },
+          {
+            "line": 5,
+            "geez": "ያን።ስበ፡ይብሉ፡ክለዕ፡እሠ"
+          },
+          {
+            "line": 6,
+            "geez": "ዕኒ?፡እምግሪክ፡ወዕዝራኒ"
+          },
+          {
+            "line": 7,
+            "geez": "ርእያ፡በእምሳለ፡ብእሲት፡ዓ"
+          },
+          {
+            "line": 8,
+            "geez": "ዝንት፡ወተክዝት፡እንዘ፡ተበ"
+          },
+          {
+            "line": 9,
+            "geez": "ኪ፡በእንት፡ደቂቃ፡ወሱበ፡ርእ"
+          },
+          {
+            "line": 10,
+            "geez": "ያ፡ኢኮነት፡ብእሲት፡እለ፡ሀገ"
+          },
+          {
+            "line": 11,
+            "geez": "ር፡መንፈሳዊ፡ጽዮንሃ፡ቅድስቲ"
+          },
+          {
+            "line": 12,
+            "geez": "ማኅትዊሃ፡ወመስውሪሃ፡ዘእ"
+          },
+          {
+            "line": 13,
+            "geez": "ቢ፡እዕፁቀ፡ዘይት፡እምየማ"
+          },
+          {
+            "line": 14,
+            "geez": "ና፡ወእምፀጋማ፡ወዘከርያስሂ"
+          },
+          {
+            "line": 15,
+            "geez": "ርእየ፡ተቀዋመ፡ማኅቶት፡ኵ"
+          },
+          {
+            "line": 16,
+            "geez": "ለንታሃ፡ዘወርቅ።ወውእቱኪ"
+          },
+          {
+            "line": 17,
+            "geez": "ኵለንታሃ፡መርእዊሃ፡ተቀ"
+          },
+          {
+            "line": 18,
+            "geez": "ዋመ፡ማኅቶት፡ዘተብህለ፡ወ"
+          },
+          {
+            "line": 19,
+            "geez": "እዕማዲሃ፡ዘወርቅ፡ጸዕልት"
+          },
+          {
+            "line": 20,
+            "geez": "ዘደቢሉ፡ሐዋርያት፡እመን"
+          },
+          {
+            "line": 21,
+            "geez": "ቱ፡እለ፡የማኖሙ፡ከመ፡እ"
+          },
+          {
+            "line": 22,
+            "geez": "ምድ፡ጽኑዕ፡በኵሉ፡ዘእሠ"
+          },
+          {
+            "line": 23,
+            "geez": "መርዎሙ።በኀበ፡ነገሠት"
+          },
+          {
+            "line": 24,
+            "geez": "ወመኳንንት፡ወበኵሉ፡እደሁ"
+          }
+        ]
+      },
+      {
+        "side": "171R",
+        "lines": [
+          {
+            "line": 1,
+            "geez": "ይ፡ወእሕዛብ፡ዓለውያን፡እለ፡"
+          },
+          {
+            "line": 2,
+            "geez": "ኢቀውምዎሙ፡ውስተ፡ዓውድ"
+          },
+          {
+            "line": 3,
+            "geez": "ከመ፡ይዝብጠሙ፡ወይኩኑንዎ"
+          },
+          {
+            "line": 4,
+            "geez": "ሙ፡ወያውርዱ፡ዘየማኖሙ፡እ"
+          },
+          {
+            "line": 5,
+            "geez": "ምዘ፡እልዓሉ፡ኢይየውሕ፡ወ"
+          },
+          {
+            "line": 6,
+            "geez": "ኢይበሉ፡እሁ፡በትእዘዘ፡ዚእ"
+          },
+          {
+            "line": 7,
+            "geez": "ሆሙ፡ወኢያወርዱ፡የማኖሙ"
+          },
+          {
+            "line": 8,
+            "geez": "እምዘ፡እልዓሉ፡እለ፡ረሰዩ፡"
+          },
+          {
+            "line": 9,
+            "geez": "ርእሶሙ፡ለሊሆሙ፡ከመ፡ዓ"
+          },
+          {
+            "line": 10,
+            "geez": "ምድ፡ጽኑዕ፡ወኢይበሉ፡እሁ፡"
+          },
+          {
+            "line": 11,
+            "geez": "ኢሰዝብጠቱ፡ወኢበምስርት፡"
+          },
+          {
+            "line": 12,
+            "geez": "ወኢበመቀሠፍት፡ወኢበሰይፍ"
+          },
+          {
+            "line": 13,
+            "geez": "ወኢበውግረተ፡ዕብን።ወዘኮ"
+          },
+          {
+            "line": 14,
+            "geez": "ነ፡ከዊኖ፡ኢያውርድ፡እደዊሆ"
+          },
+          {
+            "line": 15,
+            "geez": "ሙ፡እምእልዓሉ፡ቀዲሙ፡የማ"
+          },
+          {
+            "line": 16,
+            "geez": "ኖሙ፡በእንተ፡እግዚእብሔር"
+          },
+          {
+            "line": 17,
+            "geez": "እለ፡ባሕቱ፡ረሰዩ፡ከመ፡ዓም"
+          },
+          {
+            "line": 18,
+            "geez": "ድ፡ጽኑዕ፡የማኖሙ፡እልዓሉ፡"
+          },
+          {
+            "line": 19,
+            "geez": "ፈድፈደ።ወከማሁ፡እርእያሁ"
+          },
+          {
+            "line": 20,
+            "geez": "ይገብሩ፡ስማዕት፡እስከ፡መ"
+          },
+          {
+            "line": 21,
+            "geez": "ጠወ፡ነፍሶሙ፡ኀደጎሙ፡ዓለ"
+          },
+          {
+            "line": 22,
+            "geez": "ሙ፡ወኵሉ፡ዘውስቲታ፡ብር"
+          },
+          {
+            "line": 23,
+            "geez": "ሃነ፡ዓለም፡ፀሐየ፡ወወርቅ፡"
+          }
+        ]
+      }
+    ]
+  },
+  "candidate": {
+    "sides": [
+      {
+        "side": "169R",
+        "blocks": [
+          {
+            "lines": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "english": "…our word. Concerning this we ask on their behalf of him who sent me, that we may [understand?; verb uncertain] and teach them the tidings of the holy gospel."
+          },
+          {
+            "lines": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "english": "And my Lord said to us: ‘He who heard you, he who received you, has received [verb form uncertain] him who sent me, [my Father?; source form uncertain]; for [my Father?] and I are one. And those who heard you heard me [unresolved expression concerning the congregation of] the holy church.’"
+          },
+          {
+            "lines": [
+              11,
+              12,
+              13
+            ],
+            "english": "We stand for them in the heavens, as concerning this our word which they heard."
+          },
+          {
+            "lines": [
+              13,
+              14,
+              15,
+              16,
+              17
+            ],
+            "english": "They kept [it] and made [unresolved expression], without abandoning the canon of the holy church; we stand for them in the heavens."
+          },
+          {
+            "lines": [
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ],
+            "english": "For we are stewards of God's ordinance; they [will become / are to become?] children of God. We ordained by our word that we ourselves might entrust them to our God."
+          },
+          {
+            "lines": [
+              22,
+              23,
+              24
+            ],
+            "english": "God said to Moses: ‘I entrust them [recipient/name unclear], Levi [relationship to the preceding name and following clause unresolved] …’"
+          }
+        ]
+      },
+      {
+        "side": "169V",
+        "blocks": [
+          {
+            "lines": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            "english": "…the [vessels/equipment?] of the [unresolved expression] tabernacle, so that they may [anoint/keep them?] and [unresolved action], and make and carry out the work of the tabernacle, and honour all the [vessels/equipment?] of the work of the holy tabernacle [unresolved expression]. They shall not [remove anything?] or turn aside from what is commanded in the law which God ordained for the tabernacle of righteousness in the heavens."
+          },
+          {
+            "lines": [
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ],
+            "english": "Moreover, he showed Moses the work of the tabernacle [without washing away/diminishing anything?; exact verb and subject uncertain] from what he showed Moses on Mount Sinai, where he spoke with him in a pillar of cloud, so that he fasted forty days and forty nights to speak with God. Moses himself said:"
+          },
+          {
+            "lines": [
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24
+            ],
+            "english": "‘Trembling and terrified [was] I. For forty days and forty nights I [did not eat?; the negative reading is uncertain] bread, and I did not drink water, while I thirsted for God's judgment—how I should act as he commanded me in the holy tabernacle which he founded earlier. And …’"
+          }
+        ]
+      },
+      {
+        "side": "170R",
+        "blocks": [
+          {
+            "lines": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "english": "…moreover, [movement concerning Mount Sinai unresolved], for him, so that he might show me [the work?] and the working of its law for the holy tabernacle."
+          },
+          {
+            "lines": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ],
+            "english": "And again, that I may offer to him a sacrifice of righteousness to God, which is freewill and salvation; and with sacrifice which is for sin, and the perpetual sacrifice of salvation, and the sacrifice of praise, and the sacrifice which is according to its law for the year, in the holy church."
+          },
+          {
+            "lines": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20
+            ],
+            "english": "This my Lord commanded me: that I should [make well/put in order?] the work of the holy tabernacle, its pattern [for the holy one?], concerning that which is to be made in the last days, which is [the bride of their souls—for Christians?; construction uncertain], whom he redeemed with the blood of the Messiah."
+          },
+          {
+            "lines": [
+              20,
+              21,
+              22,
+              23
+            ],
+            "english": "Again Moses said: ‘I saw a [bush?; object word unresolved] of fire burning, and I approached to investigate its [awe/terror?], and a voice came out from within …’"
+          }
+        ]
+      },
+      {
+        "side": "170V",
+        "blocks": [
+          {
+            "lines": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "english": "…that fire, and said [to you?; addressee uncertain]: ‘Take off your sandals from your feet, for the ground where you stand is holy; it is the church.’"
+          },
+          {
+            "lines": [
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ],
+            "english": "When they say, ‘Take off your sandals from your feet’—Ezra also saw her in the likeness of a grieving, sorrowful woman, weeping for her children. When he saw her, she was not a woman but a spiritual city, holy Zion; her lamps and her [unresolved object], [a further connection unclear], olive branches on her right and on her left."
+          },
+          {
+            "lines": [
+              14,
+              15,
+              16
+            ],
+            "english": "And Zechariah also saw a lampstand, the whole of it of gold."
+          },
+          {
+            "lines": [
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24
+            ],
+            "english": "And that also—the whole of it—[unresolved phrase: its appearance / her bridegroom?] is the lampstand which was spoken of. And her golden pillars [unresolved term] are [called?] the apostles, whose right hands are like a firm pillar in all [unresolved expression], before kings and rulers and among all [unresolved word continuing onto 171r] …"
+          }
+        ]
+      },
+      {
+        "side": "171R",
+        "blocks": [
+          {
+            "lines": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ],
+            "english": "…[continuation of an unresolved word] and rebellious peoples, who [did not make them stand?; construction uncertain] in the tribunal, to beat and condemn them and lower their right hands from what they had raised. [He/it] did not yield; they did not say ‘yes’ at those people's command, and they did not lower their right hands from what they had raised—"
+          },
+          {
+            "lines": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ],
+            "english": "those who made themselves, they themselves, like a firm pillar, and did not say ‘yes,’ neither under beating nor under [an unresolved instrument or punishment] nor under scourging, the sword, or stoning with stones."
+          },
+          {
+            "lines": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ],
+            "english": "Whatever happened, [he/one?] did not lower their hands from what they had raised before—their right hands—for God's sake. Those, however, who made their right hands like a firm pillar raised them exceedingly."
+          },
+          {
+            "lines": [
+              19,
+              20,
+              21,
+              22,
+              23
+            ],
+            "english": "Likewise, following [his/its example?], the martyrs act until they give up their lives. [They abandoned?] the world and all that is in it: the light of the world, the sun, and gold …"
+          }
+        ]
+      }
+    ]
+  },
+  "response_schema": {
+    "type": "object",
+    "properties": {
+      "flags": {
+        "type": "array",
+        "maxItems": 8,
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "side": {
+              "type": "string"
+            },
+            "block_index": {
+              "type": "integer"
+            },
+            "issue": {
+              "type": "string"
+            },
+            "suggestion": {
+              "type": "string"
+            },
+            "source_basis": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "id",
+            "side",
+            "block_index",
+            "issue",
+            "suggestion",
+            "source_basis"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "coverage_notes": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "join_notes": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "limitations": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "required": [
+      "flags",
+      "coverage_notes",
+      "join_notes",
+      "limitations"
+    ],
+    "additionalProperties": false
+  }
+}

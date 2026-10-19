@@ -1,0 +1,87 @@
+{
+  "label": "translate-baseline-heldout",
+  "role": "translate",
+  "model_alias": "fable",
+  "reported_models": {
+    "claude-fable-5-1": {
+      "inputTokens": 2,
+      "outputTokens": 1452,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 1836,
+      "webSearchRequests": 0,
+      "costUSD": 0.10934,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 64000,
+      "thinkingTokens": 669,
+      "canonicalModel": "claude-fable-5-1",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 1836,
+    "cache_read_input_tokens": 0,
+    "output_tokens": 1452,
+    "output_tokens_details": {
+      "thinking_tokens": 669
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 1836,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 1452,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 1836,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 1836
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "num_turns": 1,
+  "permission_denials": [],
+  "reported_usd": 0.10934,
+  "elapsed_seconds": 19.095,
+  "cli_version": "2.1.301",
+  "request_sha256": "3145bcd5065c74791f93e116dd3c9790fb0c82be503fcdd87d8bf8a83bf7f8a1",
+  "response": {
+    "records": [
+      {
+        "id": "H01",
+        "english": "And after him Deborah and Barak judged them 40 years. And after him [struck through: ኵ፲?ሙ] the men of Midian subjected them 7 years. And God saved them by the hand of Gideon, 40 years. And after him Abimelech judged them 3 years. And after him Tola son of Puah judged them 23 years. And after him arose Jair (text: ኢኤል) the Gileadite, and he judged Israel 12 years.",
+        "uncertainties": [
+          "ኵኖሙ (lines 6, 8, 10) read as a shortened spelling of ኰነኖሙ 'judged them'",
+          "struck-through ኵ፲?ሙ in line 2 is illegible; possibly a false start of ኵኖሙ/ኰነኖሙ; not translated",
+          "ኢኤል (lines 9–10) rendered as Jair on the basis of 'the Gileadite'; the name form is irregular",
+          "12 years for Jair (፲ወ፪) is kept as written, though Judges 10:3 has 22",
+          "'40 years' after Gideon is attached to the clause as written; the Ge'ez has no separate verb for his judging"
+        ]
+      },
+      {
+        "id": "H02",
+        "english": "And after him God saved them, and Jephthah judged them 7 years. And after him Hesebon (ሔሴቦን) judged them 7 years. And after him the Philistines subjected the children of Israel 40 years. And after him Elon the Zebulunite judged them 40 years. And after him the Philistines subjected them 40 years. And after him God saved them by the hand of Samson the mighty, and Samson judged them 18 years. For the people [text breaks off].",
+        "uncertainties": [
+          "ኵኖሙ read as ኰነኖሙ 'judged them' throughout",
+          "ሔሴቦን transliterated as Hesebon; the expected judge here is Ibzan (Judges 12:8), identification uncertain",
+          "numbers kept as written (Jephthah 7, Elon 40, Samson 18) even where they differ from the Hebrew Bible",
+          "final ለ/ለሕዝብ (lines 23–24a) is a fragment, possibly ለለሕዝብ 'for each people'; rendered as 'For the people' and marked incomplete",
+          "line 11b–12 'after him' has no explicit antecedent beyond the preceding judge in H01"
+        ]
+      }
+    ]
+  }
+}

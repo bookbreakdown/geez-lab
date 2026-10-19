@@ -1,0 +1,153 @@
+{
+  "label": "judge-controls-v2",
+  "role": "judge",
+  "model_alias": "sonnet",
+  "reported_models": {
+    "claude-sonnet-5-5": {
+      "inputTokens": 2,
+      "outputTokens": 648,
+      "cacheReadInputTokens": 0,
+      "cacheCreationInputTokens": 2803,
+      "webSearchRequests": 0,
+      "costUSD": 0.017696,
+      "contextWindow": 1000000,
+      "maxOutputTokens": 128000,
+      "thinkingTokens": 0,
+      "canonicalModel": "claude-sonnet-5-5",
+      "provider": "firstParty",
+      "costBasis": "list"
+    }
+  },
+  "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 2803,
+    "cache_read_input_tokens": 0,
+    "output_tokens": 648,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 2803,
+      "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 648,
+        "cache_read_input_tokens": 0,
+        "cache_creation_input_tokens": 2803,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 2803
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "reported_usd": 0.017696,
+  "elapsed_seconds": 5.142,
+  "cli_version": "2.1.301",
+  "request_sha256": "d3b88c71f71143f532e0710909d2d9f72658c4bc5fdb6bd69a2396d34d94bae4",
+  "response": {
+    "records": [
+      {
+        "id": "Q01",
+        "acceptable": false,
+        "errors": [
+          "Reversal: candidate says 'He did not kill Nesom' whereas French says he killed Nâsom"
+        ]
+      },
+      {
+        "id": "Q02",
+        "acceptable": true,
+        "errors": []
+      },
+      {
+        "id": "Q03",
+        "acceptable": false,
+        "errors": [
+          "Omits 'by the hand of Samson the Mighty' (agent/instrument Samson missing)",
+          "'God' for 'le Seigneur' is a minor rendering; main issue is the missing Samson"
+        ]
+      },
+      {
+        "id": "Q04",
+        "acceptable": false,
+        "errors": [
+          "Incorrect name: Gideon instead of Samson",
+          "Omits 'the Mighty/Fort'"
+        ]
+      },
+      {
+        "id": "Q05",
+        "acceptable": false,
+        "errors": [
+          "Incorrect name: Joshua instead of Moses (the age value is review-only and not scored)"
+        ]
+      },
+      {
+        "id": "Q06",
+        "acceptable": true,
+        "errors": []
+      },
+      {
+        "id": "Q07",
+        "acceptable": true,
+        "errors": []
+      },
+      {
+        "id": "Q08",
+        "acceptable": false,
+        "errors": [
+          "Unsupported addition: Samson was given a golden crown"
+        ]
+      },
+      {
+        "id": "Q09",
+        "acceptable": false,
+        "errors": [
+          "Names swapped: Joshua died and Moses son of Nun judged, whereas French has Moses dying and Joshua son of Nawé judging"
+        ]
+      },
+      {
+        "id": "Q10",
+        "acceptable": true,
+        "errors": []
+      },
+      {
+        "id": "Q11",
+        "acceptable": false,
+        "errors": [
+          "Reversal of before/after: 'Before Moses died' instead of 'After Moses died'"
+        ]
+      },
+      {
+        "id": "Q12",
+        "acceptable": false,
+        "errors": [
+          "Incorrect name: Joshua son of Pharaoh instead of son of Nawé/Nun"
+        ]
+      },
+      {
+        "id": "Q13",
+        "acceptable": false,
+        "errors": [
+          "Incorrect number: four hundred years in Egypt instead of forty"
+        ]
+      },
+      {
+        "id": "Q14",
+        "acceptable": true,
+        "errors": []
+      }
+    ]
+  }
+}

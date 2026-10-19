@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-16",
+  "project_home": "https://ethiopiancanon.com",
+  "model_id": 48371,
+  "service": "Transkribus public model-page demo",
+  "model_card_url": "https://www.transkribus.org/models/ethiopic-classical-ethiopic-scripts-from-ethiopia-and-eritrea",
+  "total_submissions": 4,
+  "distinct_manuscript_sides": 3,
+  "full_transcriptions_exported": 0,
+  "account_created": false,
+  "purchase_made": false,
+  "export_result": "Normal TXT export button displayed a create-free-account prompt; no file was downloaded.",
+  "153R_size_variant_preview_similarity": 0.7582938388625592,
+  "similarity_definition": "difflib.SequenceMatcher ratio, autojunk=False, on Ethiopic U+1200–U+137F characters in the two visible previews; neither output is ground truth. Different segmentation and preview extent may affect it.",
+  "accuracy_measured": false,
+  "next_requirement": "Authenticated account access to obtain full outputs for a proper comparison.",
+  "records": [
+    {
+      "code": "MAIX1-153R",
+      "variant": "3560px",
+      "request_model_id": 48371,
+      "response_model_id": 48371,
+      "create_http_status": 200,
+      "elapsed_seconds": null,
+      "source_filename": "MAIX1-153R.jpg",
+      "source_image_sha256": "dbaf3c41f26d355c32dd20c528d1b5704c17b7ed2c6ed86f59157ac6d5a52143",
+      "source_dimensions": [
+        3560,
+        5000
+      ],
+      "source_bytes": 2610609,
+      "visible_preview_only": true,
+      "visible_transcription": "ራእ፡\nሳይወት፡ እምኢየሩስ፡ ቤም፡ ወ\nዘመ፡ መግፈ ቁይሙኅዝ፡ ውስተ፡\nአጢሕር፡ ይኃፅ፡ ት፡ ውአተ፡ አሜ\nሖረይከዉን፡ ፩እግዚአብሔር\nወለሰሙ፡ ወኵሉ፡ ዘጸውዓ፡\nዘስመ፡ እግዚአብሔር፡ ይ\nአሜርጠምዓዛሁ ተምፅ፡ ዙሕዋ፡\nርያት፡ ወአምዓዙ፡ ኵሎ፡ ዓከመ\nለእምሥራ ቀርፀሐይ፡ ወእሴከ፡ አ\nለዓዓረግ፡ ወእምሰሚን፡ አሴክ፡\nለዲቡብ፡ ወአምኵሉ፡ አጽናፈ፡\nዘዓለም።፡ በከመ፡ ይውሐዋናያ፡\nንሐ ሰኩ፡ መዓዝሁ፡ ለክፍሐ",
+      "ui_reported_recognised_lines": 25,
+      "ui_reported_recognised_words": 87,
+      "full_transcription_exported": false
+    },
+    {
+      "code": "MAIX1-41V",
+      "variant": "3560px",
+      "request_model_id": 48371,
+      "response_model_id": 48371,
+      "create_http_status": 200,
+      "elapsed_seconds": 35.12,
+      "source_filename": "MAIX1-c088-full.jpg",
+      "source_image_sha256": "ad6b63b94447ecdbb6a33caee08224354b56d586bba03c189c80cbf6f9dfe9ae",
+      "source_dimensions": [
+        3560,
+        5000
+      ],
+      "source_bytes": 2889548,
+      "visible_preview_only": true,
+      "visible_transcription": "የ፡ ነገሥተ፡ እምራኬብ፡ ዘእምዘርይ\nምል\nሎጥ፡ ወአውሉደ፡ ዜኣሁ፡ ኮነቶ፡ ብ\nእሲቱ፡ በስልምን፡ ወልደ፡ ዳዊት፡ ዘ\nምአብርሃም፡ እስመ፡ አውስጠ፡ ሰል\nሞን፡ ወልደ፡ ዳዊተ፡ እንስተ፡ ፯የዕ\nቂባት፡ ወኢረከበ፡ በውስቴቶን፡ ው\nሉደ፡ ወ፪እምኔሆን፡ እስመ፡ እግዚአ\nብሔር፡ ልዑል፡ ኢሠምረ፡ ይደመር\nዘርኦሙ፡ ለከነንን፡ ምስበ፡ ዘርእ፡\n፡\nፈኅሩይ፡ ሕዝብ፡ ወእኔሆሙ፡ ተሰብ\nእ፡ እግዚእነ፡ ኢየሱስ፡ ክርስቶስ።\nኵሎንኬ፡ አንስቲያሁ፡ ለስልሞን፡",
+      "ui_reported_recognised_lines": 25,
+      "ui_reported_recognised_words": 103,
+      "full_transcription_exported": false
+    },
+    {
+      "code": "MAIX1-168R",
+      "variant": "1700px",
+      "request_model_id": 48371,
+      "response_model_id": 48371,
+      "create_http_status": 200,
+      "elapsed_seconds": 15.04,
+      "source_filename": "MAIX1-168R.jpg",
+      "source_image_sha256": "94ec47c92baac64066ac6c637595014d7ba051956abc2eccd97b618a362b9bba",
+      "source_dimensions": [
+        1700,
+        2387
+      ],
+      "source_bytes": 671779,
+      "visible_preview_only": true,
+      "visible_transcription": "ይ፡\nወዘንተ፡ ብፄልያ፡ በፈቃድየ፡ ፡\nብ፡ ሄልየ፡ በፈቃዱያ፡ መጻእኩ፡\nከመ አፍአም፡ ለሞትወእም\nለከ፡ መምትኪ፡ ወተንሣእኩ፡ ት\nፈዳፍ፡ ጽ፡ ትምሕር፡ ተሐ፡ ዋር\nያት፡ እስከአጽናፈዓ፡ ለም\nኡሎቲውጽፉ፡ ወንሕናኑ፡ አ\nዘ፡ ዘነንምሐ፡ ርአስከ፡ አጽና\nበፈ ዓለም ወእለ፡ ተወክፉ\nዕት፡ ምሕርትኒይ፡ ለውዑ፡ ውሰ\nተ፡ ሕይወትወ፡ እለሰ፡ ኢተ\nር፡ ወክፉ፡ ት፡ ምሕርትነ ጽኑ፡ ሕ\nደይኖሙ፡ ላዕ፡ ለርኢሶሙ፡ ነ",
+      "ui_reported_recognised_lines": 25,
+      "ui_reported_recognised_words": 93,
+      "full_transcription_exported": false
+    },
+    {
+      "code": "MAIX1-153R",
+      "variant": "1700px",
+      "request_model_id": 48371,
+      "response_model_id": 48371,
+      "create_http_status": 200,
+      "elapsed_seconds": 12.57,
+      "source_filename": "MAIX1-153R.jpg",
+      "source_image_sha256": "5bbde389a0d23ed50adb5fc39bf3149d9a97040d37e6c4802394efc9a5630f4f",
+      "source_dimensions": [
+        1700,
+        2387
+      ],
+      "source_bytes": 663334,
+      "visible_preview_only": true,
+      "visible_transcription": "ራእ፡\nላዳወት፡ እምኢየሩሰሌም፡ ወ\nለመመ፡ዓፈ፡ ቁይውኅዝ፡ ውስተ፡\nክባሕር፡ ደኃፅት፡ ውእተ፡ አሜ\nረይ፡ ከዉን፡ ፩እግዚአብሔር\nወወልሰሙ፡ ወኵሉ፡ ዘጸውዓ፡\nዘስመ፡ እግዚአብሔርይ፡ ድኃ\nአንዖ በማዓ፡ ዚሁተ፡ ምስተ፡ ሕዋ\nክርያት፡ ወአምዓዙ፡ ኵሎ፡ ዓለመ\nክ፡ እምሥራ፡ ቀር በሐይ፡ ወእሰከ፡\nለነዓረብ፡ ወእ፡ምሰሚን፡ እስከ፡\nበዲቡብ፡ ወእምኵሉ፡ ኦጽፍፈ፡\nዘዓለም በከመ፡ ይቤ፡ ሐዋናያ፡\nዘንሖ፡ ነስኬ፡ መዓዚሁ፡ ለክፍስ",
+      "ui_reported_recognised_lines": 25,
+      "ui_reported_recognised_words": 93,
+      "full_transcription_exported": false
+    }
+  ]
+}

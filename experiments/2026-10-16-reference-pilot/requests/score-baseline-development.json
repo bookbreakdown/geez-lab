@@ -1,0 +1,111 @@
+{
+  "instructions": "Evaluate English against the supplied French for semantic fidelity, not stylistic similarity.\nDo not repair the candidate. Normal transliterations (Puah/Fouha, Joshua/Josué) are equivalent.\nFor controls: acceptable is true only if all substantive French meaning is preserved and no\nsubstantive unsupported claim is added. Detect omissions, reversals, incorrect names and numbers.\nFor fact scoring: examine ONLY score_facts for the score, assigning supported, partial, missing,\nor contradicted, with a short quotation or explanation from the candidate for each fact. A fact\nbundling several details is supported only if they are all present. Do not credit facts only in\nuncertainty notes as if confidently translated; an explicitly offered main reading can receive\npartial credit. Respect review_only exclusions; report those differences separately, never as\ntranslation errors. Flag substantive additions outside review_only, but remember the reference\nis a different witness and cannot prove additions are invented. Ignore stylistic and spelling\npreferences. Return JSON in the specified shape. Do not reveal or invent training answers.\nQualification v2 clarification: judge substantial content, not exact wording. Omitting a rhetorical\nconnective such as indeed or but is acceptable if propositions and substantive logical relations\nremain intact. Omitting an agent/instrument, changing before/after, negation, names, or quantities\nis substantive. For control cases respect ONLY the narrowly named review_only exclusions.\nA masked age difference does not excuse changing the person or another unmasked detail.\n",
+  "output": {
+    "records": [
+      {
+        "id": "passage ID",
+        "facts": [
+          {
+            "index": "1-based score_facts index",
+            "verdict": "supported|partial|missing|contradicted",
+            "evidence": "brief explanation"
+          }
+        ],
+        "unsupported_additions": [],
+        "review_only_differences": []
+      }
+    ]
+  },
+  "cases": [
+    {
+      "id": "D01",
+      "reference_french": "En effet, Salomon, fils de David, épousa 700 femmes et 80 concubines. Mais aucune d’entre elles n’obtint de fils. En effet, le Seigneur Très-Haut ne voulait pas que la postérité de Canaan s’unît avec le peuple élu, duquel s’incarnerait Notre-Seigneur et Notre-Sauveur Jésus-Christ. (Or), toutes les femmes de Salomon étaient de la postérité de Canaan.",
+      "score_facts": [
+        "Solomon is son of David and has many wives/concubines.",
+        "None of these women bears him a son.",
+        "The Most High does not want Canaanite descent mixed with the chosen people.",
+        "Jesus Christ becomes incarnate from the chosen people.",
+        "Solomon’s women are of Canaanite descent."
+      ],
+      "review_only": [
+        "The machine transcription does not clearly support the French distinction of 700 wives plus 80 concubines. Do not score that numerical distinction."
+      ],
+      "candidate_english": "For Solomon, the son of David, married women, 700 concubines, and he did not find among them a son, [not] even one from them, because God Most High was not pleased that the seed of Canaan should be joined with the seed of the holy people, from whom our Lord Jesus Christ became man. All the wives of Solomon were from the seed of Canaan.",
+      "uncertainties": [
+        "'ኮሎንኪ' read as 'ኵሎን' (all of them, fem.); the ending is unclear",
+        "'እውስበ' read as 'አውሰበ' (married)",
+        "'ወ፩እምኔሆን' rendered as '[not] even one from them'; negation carried over from preceding clause",
+        "Passage begins mid-sentence (line 4b)"
+      ]
+    },
+    {
+      "id": "D02",
+      "reference_french": "(A propos de) l’histoire de Moïse, le prophète du Seigneur, voici que les Livres Saints racontent que, lorsque Lévi fut allé avec son père au pays d’Égypte, c’est là que naquirent Moïse, Te‘mrân, Josué, fils de Nawé, et Caleb de la postérité de Lévi. Lorsqu’on eut jeté Moïse dans le fleuve, Sâfir, fille de Pharaon, le prit, et l’apporta dans sa maison.",
+      "score_facts": [
+        "Moses is identified as a prophet of God.",
+        "Levi goes to Egypt with his father.",
+        "Moses and other named descendants are born there.",
+        "Joshua is son of Nun/Nawé.",
+        "Moses is put in the river.",
+        "Pharaoh’s daughter Safir takes Moses and brings him to her house."
+      ],
+      "review_only": [
+        "Te‘mrân versus the machine transcription’s name is a transliteration/reading question; do not penalise the spelling."
+      ],
+      "candidate_english": "As for him, Moses the prophet of God: for the holy books relate that when Levi went with his father to the land of Egypt, there were born Moses and Tismaran (?) and Joshua the son of Nun and Caleb, from his own [seed] (?). And as for Moses, when they threw him into the river, Sefir, the daughter of Pharaoh, took him and brought him into her house.",
+      "uncertainties": [
+        "'ዚዓሁስ' taken as 'ዚአሁ-ስ' (as for him/his); the opening clause is fragmentary, beginning mid-line 13b",
+        "'ትስማራን' is an unidentified name, possibly corrupt",
+        "'እምዘእ፡ዚእሁ' is unclear; tentatively 'from his own [seed/kin]'",
+        "'ስፊር' as the name of Pharaoh's daughter is uncertain",
+        "'ወረውዖ' read as 'ወረወዎ' (they threw him); 'ንሠእቶ' read as 'ነሥአቶ' (she took him)",
+        "Passage ends mid-sentence (line 22a)"
+      ]
+    },
+    {
+      "id": "D03",
+      "reference_french": "(Puis) il s’enfuit chez Râ‘ow’él, prêtre (du pays) de Madian, par crainte de Pharaon. Là il épousa la sœur de Râ‘ou’él, et engendra deux enfants.",
+      "score_facts": [
+        "Moses flees because he fears Pharaoh.",
+        "He goes to a priest of Midian.",
+        "Moses marries there.",
+        "He fathers two children."
+      ],
+      "review_only": [
+        "Radabil/Raguel/Râ‘ow’él name readings differ; do not score spelling.",
+        "The French says the priest’s sister; the raw Ge’ez transcription has a wife/woman construction. Do not reward selecting sister over wife or daughter without manuscript review."
+      ],
+      "candidate_english": "And he fled to Radabil (?), the priest of Midian, because of fear of Pharaoh, and there he married a wife [of the house] of Raguel, and he begot 2 of [the] children ...",
+      "uncertainties": [
+        "'ራዳቢል' is an unclear name for the priest of Midian (usually Jethro/Raguel)",
+        "'ብእሲተ፡ለራጉኤል' literally 'a wife of/for Raguel', probably meaning a daughter of Raguel",
+        "Passage begins mid-line 2b and breaks off mid-sentence at line 5a"
+      ]
+    },
+    {
+      "id": "D04",
+      "reference_french": "Après que Moïse fut mort, Josué, fils de Nawé, jugea le peuple pendant 31 ans. Après lui, l’impie Kuesâ les jugea pendant 8 ans. Après lui, Hatonyâl, fils de Qénéz, frère de Caleb, les jugea pendant 50 ans. Ensuite, les enfants d’Israël furent asservis à Églon, roi de Moab, pendant 18 ans. Puis le Seigneur les délivra. Ensuite, Nâ’od, fils de Gérâ, les jugea pendant 80 ans. C’est (pendant) la 27e année de la judicature de Nâ’od que s’écoula l’an 4000 de la création.",
+      "score_facts": [
+        "Moses dies before Joshua son of Nun judges the people.",
+        "A wicked ruler follows Joshua and rules eight years.",
+        "Othniel/Hatonyâl is son of Kenaz/Qénéz and related as brother to Caleb.",
+        "Israel becomes subject to Eglon, king of Moab.",
+        "God delivers Israel from that ruler.",
+        "Ehud/Na’od is son of Gera and rules eighty years.",
+        "The narrative connects Ehud’s judgeship with year 4000 from creation."
+      ],
+      "review_only": [
+        "Joshua 31 versus raw transcription 24; Othniel 50 versus 10; Eglon 18 versus108; Ehud anniversary27 versus17 are not scored. These could be transcription errors or witness differences.",
+        "The omitted given name Joshua in one clause is partly recoverable from son of Nun; allow an explicit supplied Joshua."
+      ],
+      "candidate_english": "And after Moses died, the son of Nun judged the people 24 years. And after him Kus (Cushan) the rebel judged them; he judged them 8 years. And after him Othniel the son of Kenaz, the brother of Caleb, 10 years. And after him the children of Israel served Eglon, king of Moab, 108 years. And then God delivered them from his hand. And after him Ehud (Naod) the son of Gera judged them 80 years; and in the 17th year of the judgeship of Ehud, 4000 [years] from creation were completed.",
+      "uncertainties": [
+        "'ኩስ፡ዕልው' taken as Cushan(-rishathaim) 'the apostate/rebel'; 'ኮነኖሙ' is repeated in the manuscript and kept",
+        "'፻፰' read as 108 (biblical text has 18); number preserved as written",
+        "'እ?ኁሁ' has an unclear letter; read as 'እኁሁ' (his brother)",
+        "'፵፻' read as 4000; '[years]' supplied",
+        "Passage begins mid-line 9b"
+      ]
+    }
+  ]
+}
