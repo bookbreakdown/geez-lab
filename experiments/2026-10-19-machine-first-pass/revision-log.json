@@ -1,0 +1,423 @@
+{
+  "project_home": "https://ethiopiancanon.com",
+  "date": "2026-10-19",
+  "changes": [
+    {
+      "side": "169R",
+      "block_index": 0,
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "before": "...our word [ቀለነ, likely ቃልነ]. And concerning this we ask for them of him who sent me, that we may [understand / ንለብክ unclear] and teach them the tidings of the holy gospel.",
+      "after": "…our word. Concerning this we ask on their behalf of him who sent me, that we may [understand?; verb uncertain] and teach them the tidings of the holy gospel.",
+      "reason": "I01: make the English readable while preserving the mixed pronouns and uncertain verb; source corrections are not asserted.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "169R",
+      "block_index": 1,
+      "lines": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "before": "And my Lord said to us: 'He who heard you [i.e. hears you], he who received you, has received [ተወክሮ, read ተወክፈ?] him who sent me, [እሉየ: these/me?]; for [እሉየ: these/I?] and I, we are one. And those who hear you hear me [ዓኀበራ: unclear] for the holy church.'",
+      "after": "And my Lord said to us: ‘He who heard you, he who received you, has received [verb form uncertain] him who sent me, [my Father?; source form uncertain]; for [my Father?] and I are one. And those who heard you heard me [unresolved expression concerning the congregation of] the holy church.’",
+      "reason": "I02–I04: preserve shortened hearing/reception wording and one; Father and congregation are bracketed proposals, not established source readings.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "169R",
+      "block_index": 3,
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "before": "And they kept [it] and made [ጥቁሙ: it exact/firm?] while not abandoning the canon of the holy church; we stand for them in the heavens.",
+      "after": "They kept [it] and made [unresolved expression], without abandoning the canon of the holy church; we stand for them in the heavens.",
+      "reason": "I04: remove unsupported exact/firm interpretation of ጥቁሙ; keep the gap and repeated heavenly-standing clause.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "169R",
+      "block_index": 4,
+      "lines": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "before": "For we are stewards [gatherers] of the ordinance of God; they will become children of God. We ordained by our word that we ourselves might entrust them with our God.",
+      "after": "For we are stewards of God's ordinance; they [will become / are to become?] children of God. We ordained by our word that we ourselves might entrust them to our God.",
+      "reason": "I05: preserve uncertainty about force and clause relation; remove gratuitous alternative gatherers from the running English.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "169R",
+      "block_index": 5,
+      "lines": [
+        22,
+        23,
+        24
+      ],
+      "before": "God said to Moses: 'I entrust them [to ...] [ለያቁቆ: to Jacob? unclear] Levi[te(s)?]...'",
+      "after": "God said to Moses: ‘I entrust them [recipient/name unclear], Levi [relationship to the preceding name and following clause unresolved] …’",
+      "reason": "I05 and unresolved 169r/169v join: do not establish Jacob or an invented complete commission from the familiar narrative.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "169V",
+      "block_index": 0,
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "before": "...the [vessels: ንቀየ, perhaps ንዋየ] of the [ትእቢት: unclear] tabernacle, that they may keep [them] and [ደግለሠኢ: unresolved] and make and do the work of the tabernacle, and honour all the [vessels] of the work of the holy tabernacle, [እ?ዝት: unclear]; they shall not [remove: ኢያስስሉ] and shall not turn aside from what is commanded in the law which God ordained for the tabernacle of righteousness which is in the heavens.",
+      "after": "…the [vessels/equipment?] of the [unresolved expression] tabernacle, so that they may [anoint/keep them?] and [unresolved action], and make and carry out the work of the tabernacle, and honour all the [vessels/equipment?] of the work of the holy tabernacle [unresolved expression]. They shall not [remove anything?] or turn aside from what is commanded in the law which God ordained for the tabernacle of righteousness in the heavens.",
+      "reason": "I06: do not quietly turn ደቀቡ into the longer keep-verb; retain the opening equipment and action gaps rather than a fluent reconstruction.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "169V",
+      "block_index": 1,
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "before": "And moreover [ወበደግምስ = ወበዳግምስ] he showed Moses the work of the tabernacle while not diminishing from what he showed Moses on Mount Sinai where he spoke with him in a pillar of cloud, so that he fasted forty days and forty nights that he might speak with God. And Moses himself said:",
+      "after": "Moreover, he showed Moses the work of the tabernacle [without washing away/diminishing anything?; exact verb and subject uncertain] from what he showed Moses on Mount Sinai, where he spoke with him in a pillar of cloud, so that he fasted forty days and forty nights to speak with God. Moses himself said:",
+      "reason": "I07–I08: make the uncertain negative verb visible in the English; retain both forty values and Moses speech transition.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "169V",
+      "block_index": 2,
+      "lines": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "before": "'Trembling and terrified [was] I; forty days and forty nights bread I [ate / did not eat?] and water I did not drink, while I thirsted for the judgment of God, how I should act according as he commanded me in the holy tabernacle which he founded earlier. And...",
+      "after": "‘Trembling and terrified [was] I. For forty days and forty nights I [did not eat?; the negative reading is uncertain] bread, and I did not drink water, while I thirsted for God's judgment—how I should act as he commanded me in the holy tabernacle which he founded earlier. And …’",
+      "reason": "I08 and join: retain food-clause uncertainty without silently adding a negation, keep both further forty values and the trailing conjunction.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "170R",
+      "block_index": 0,
+      "lines": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "before": "...moreover [he went around / returned to? ዓውደ] Mount Sinai for him, that he might show me the work [ግብፉ, read ግብራ?] and the work of its law of the holy tabernacle.",
+      "after": "…moreover, [movement concerning Mount Sinai unresolved], for him, so that he might show me [the work?] and the working of its law for the holy tabernacle.",
+      "reason": "I09: remove ungrounded choice of movement and subject; keep the uncertain split work-word local.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "170R",
+      "block_index": 2,
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "before": "This my Lord commanded me, that I should [make good / ordain: እሠኒ] the work of the holy tabernacle, its pattern [እርእያሃ = አርአያሃ] of the holy one, of that which is to be made in the last days, which is the bride, the soul of Christians, which he redeemed by the blood of the Messiah.",
+      "after": "This my Lord commanded me: that I should [make well/put in order?] the work of the holy tabernacle, its pattern [for the holy one?], concerning that which is to be made in the last days, which is [the bride of their souls—for Christians?; construction uncertain], whom he redeemed with the blood of the Messiah.",
+      "reason": "I11: the raw apposition bride, the soul of Christians is unsupported; retain a bracketed tentative construction without claiming a settled ecclesiology.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "170R",
+      "block_index": 3,
+      "lines": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "before": "And again Moses said: 'I saw a [ጣጠስ: unclear—bush?] of fire burning, and I approached that I might ascertain its [terror/awe: ግርማሁ], and a voice came out from within...",
+      "after": "Again Moses said: ‘I saw a [bush?; object word unresolved] of fire burning, and I approached to investigate its [awe/terror?], and a voice came out from within …’",
+      "reason": "I12: keep the unfamiliar object a hypothesis, and finish the cross-page within-expression only once.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "170V",
+      "block_index": 0,
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "before": "...-in that fire, and said to me: \"Take off your sandal(s) [እሠዕኒክ = አሣእኒከ] from your feet, for the land where you stand is holy; it is the church.\"",
+      "after": "…that fire, and said [to you?; addressee uncertain]: ‘Take off your sandals from your feet, for the ground where you stand is holy; it is the church.’",
+      "reason": "I12–I13: do not rewrite ኪ into ኒ to produce an unmarked said to me; the initial within belongs to the previous block across the page.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "170V",
+      "block_index": 1,
+      "lines": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "before": "When he says \"Take off your sandal from your feet\"—and Ezra also saw her in the likeness of a woman grieving and sorrowful, while she wept for her children; and when he saw her she was not a woman but [አላ] a spiritual city, holy Zion, her lamps and her [መስውሪሃ: unclear] which [ዘእቢ: unclear] branches of olive from her right and from her left.",
+      "after": "When they say, ‘Take off your sandals from your feet’—Ezra also saw her in the likeness of a grieving, sorrowful woman, weeping for her children. When he saw her, she was not a woman but a spiritual city, holy Zion; her lamps and her [unresolved object], [a further connection unclear], olive branches on her right and on her left.",
+      "reason": "I13–I14: retain the repeated instruction and plural they say; mark unresolved objects/connections without substituting a conventional symbolic arrangement.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "170V",
+      "block_index": 3,
+      "lines": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "before": "And that [ውእቱኪ = ውእቱኒ?] also, the whole of it, its appearance [መርእዊሃ] the lampstand which was spoken of; and its pillars of gold [ጸዕልት: unclear—pure?], which they say are the apostles, [if/they are: እመንቱ] those whose right hand(s) [were] like a strong pillar in all that [ዘእሠመርዎሙ: pleased them? / was appointed for them?], before kings and rulers and in all the hands of the Jews [እደሁ|ይ]...",
+      "after": "And that also—the whole of it—[unresolved phrase: its appearance / her bridegroom?] is the lampstand which was spoken of. And her golden pillars [unresolved term] are [called?] the apostles, whose right hands are like a firm pillar in all [unresolved expression], before kings and rulers and among all [unresolved word continuing onto 171r] …",
+      "reason": "I15–I16: remove speculative pure gold and hands of the Jews; preserve unresolved symbolic terms and boundary word.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "171R",
+      "block_index": 0,
+      "lines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "before": "...[Jews] and apostate peoples, who [made them stand / did not stand them: ኢቀውምዎሙ] in the court, that they might beat them and judge them and bring down their right hands from what was raised; it did not yield [ኢይየውሕ], and they did not say \"yes\" [እሁ] at the command of their own [masters?], and they did not bring down their right hands from what was raised—",
+      "after": "…[continuation of an unresolved word] and rebellious peoples, who [did not make them stand?; construction uncertain] in the tribunal, to beat and condemn them and lower their right hands from what they had raised. [He/it] did not yield; they did not say ‘yes’ at those people's command, and they did not lower their right hands from what they had raised—",
+      "reason": "I16–I17: remove duplicated unsupported Jews and supplied masters; retain the negative and difficult subject instead of quietly reversing the tribunal clause.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "171R",
+      "block_index": 1,
+      "lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "before": "those who made themselves, they themselves, like a strong pillar, and did not say \"yes,\" neither by beating [ኢሰዝብጠቱ] nor by saw nor by scourging nor by sword nor by stoning with stone.",
+      "after": "those who made themselves, they themselves, like a firm pillar, and did not say ‘yes,’ neither under beating nor under [an unresolved instrument or punishment] nor under scourging, the sword, or stoning with stones.",
+      "reason": "I17: saw is only an unsupported lexical proposal for ምስርት; the main English must retain the gap.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "171R",
+      "block_index": 2,
+      "lines": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "before": "And whatever happened, happening, he did not bring down their hands from what was raised before, their right hands, for God's sake—those who, however, made their right hands like a strong pillar; they raised [them] exceedingly.",
+      "after": "Whatever happened, [he/one?] did not lower their hands from what they had raised before—their right hands—for God's sake. Those, however, who made their right hands like a firm pillar raised them exceedingly.",
+      "reason": "I18: preserve the singular/plural difficulty and repetition; do not silently supply a uniform actor.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "171R",
+      "block_index": 3,
+      "lines": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "before": "And likewise, after its pattern [እርእያሁ], the martyrs do, until they gave up their souls; [the world abandoned them / they abandoned the world: ኀደጎሙ ዓለሙ] and all that is in it, the light of the world, the sun and gold...",
+      "after": "Likewise, following [his/its example?], the martyrs act until they give up their lives. [They abandoned?] the world and all that is in it: the light of the world, the sun, and gold …",
+      "reason": "I18 and 171v boundary context: keep the renunciation list open and the subject proposal bracketed; example-pronoun referent remains uncertain.",
+      "reviewer": "Coordinating Codex assistant, AI proposal; not expert adjudication"
+    },
+    {
+      "side": "169V",
+      "block_index": 1,
+      "lines": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "before": "Moreover, he showed Moses the work of the tabernacle [without washing away/diminishing anything?; exact verb and subject uncertain] from what he showed Moses on Mount Sinai, where he spoke with him in a pillar of cloud, so that he fasted forty days and forty nights to speak with God. Moses himself said:",
+      "after": "Moreover, he showed Moses the work of the tabernacle [without washing away/diminishing anything?; exact verb and subject uncertain] from what he showed Moses on Mount Sinai, where he spoke with him in a pillar of cloud, so that he [fasted?] forty days and forty nights to speak with God. Moses himself said:",
+      "reason": "Recovery f3: retain the plausible fasting interpretation as tentative rather than adopting the reviewer's claim that it cannot be read; other negative verb is already bracketed.",
+      "reviewer": "Coordinating Codex assistant, after separate-machine flag; not expert adjudication"
+    },
+    {
+      "side": "169V",
+      "block_index": 2,
+      "lines": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "before": "‘Trembling and terrified [was] I. For forty days and forty nights I [did not eat?; the negative reading is uncertain] bread, and I did not drink water, while I thirsted for God's judgment—how I should act as he commanded me in the holy tabernacle which he founded earlier. And …’",
+      "after": "‘Trembling and terrified [was] I. For forty days and forty nights I [ate / did not eat?; the negative reading is uncertain] food, and I did not drink water, while I thirsted for God's judgment—how I should act as he commanded me in the holy tabernacle which he founded earlier. And …’",
+      "reason": "Recovery f4: use broader food and display both polarities; do not import familiar bread/fasting wording as settled source meaning.",
+      "reviewer": "Coordinating Codex assistant, after separate-machine flag; not expert adjudication"
+    }
+  ],
+  "metadata_changes": [
+    {
+      "side": "169R",
+      "field": "boundary_notes",
+      "before": [
+        "Side begins mid-sentence (ቀለነ ends a prior clause).",
+        "Side ends mid-clause at ሌዊ; 169V line 1 does not obviously continue the sentence—see cross-side issues."
+      ],
+      "after": [
+        "Begins with our word, completing prior context; preceding predicate remains uncertain.",
+        "Moses/Levi wording continues into tabernacle equipment on 169v; exact recipient and grammar remain unresolved. No missing page is established."
+      ],
+      "reason": "Use current image-reviewed boundary assessment, preserving initial hypotheses in raw result."
+    },
+    {
+      "side": "169V",
+      "field": "boundary_notes",
+      "before": [
+        "Line 24 ends with ወ; 170R line 1 begins በደግምስ, continuing the sentence ('And moreover...')."
+      ],
+      "after": [
+        "Opens within an unresolved entrusting/equipment clause from 169r.",
+        "Ends with and; 170r continues moreover, with an unresolved movement expression."
+      ],
+      "reason": "Use current image-reviewed boundary assessment, preserving initial hypotheses in raw result."
+    },
+    {
+      "side": "170R",
+      "field": "boundary_notes",
+      "before": [
+        "Begins mid-sentence continuing 169V line 24 (ወ|በደግምስ).",
+        "Ends mid-word እምው-, completed by 170V ስት."
+      ],
+      "after": [
+        "Continues the prior conjunction and Sinai/tabernacle speech; movement and speaker assignment partly unresolved.",
+        "Final from within expression continues onto 170v; read once across the break."
+      ],
+      "reason": "Use current image-reviewed boundary assessment, preserving initial hypotheses in raw result."
+    },
+    {
+      "side": "170V",
+      "field": "boundary_notes",
+      "before": [
+        "Begins mid-word (ስት completes እምውስት).",
+        "Ends mid-word እደሁ-, completed by 171R ይ."
+      ],
+      "after": [
+        "Begins by completing the from within expression before the fire reference. The addressee of said is uncertain.",
+        "Ends within an unparsed word before rebellious peoples; Jews and hands of the Jews are not established."
+      ],
+      "reason": "Use current image-reviewed boundary assessment, preserving initial hypotheses in raw result."
+    },
+    {
+      "side": "171R",
+      "field": "boundary_notes",
+      "before": [
+        "Begins mid-word (ይ completes አይሁድ).",
+        "Ends mid-sentence."
+      ],
+      "after": [
+        "Opening fragment completes an unresolved word from 170v; the first tribunal construction and negation remain uncertain.",
+        "Ends within a renunciation list; 171v continues with relatives, wife, children and worldly pleasures."
+      ],
+      "reason": "Use current image-reviewed boundary assessment, preserving initial hypotheses in raw result."
+    },
+    {
+      "side": null,
+      "field": "cross_side_issues",
+      "before": [
+        "169R→169V: 169R ends mid-clause (ለያቁቆ ሌዊ) and 169V begins ንቀየ ትእቢት ደብተራ; no clear syntactic continuation—possible lost text or the clause continues loosely ('...Levi[tes] [to keep] the vessels of the tabernacle'). Join left unresolved.",
+        "169V→170R: continuous (ወ|በደግምስ).",
+        "170R→170V: continuous mid-word (እምው|ስት).",
+        "170V→171R: continuous mid-word (እደሁ|ይ), tentatively አይሁድ.",
+        "Orthography: 169V and 170V frequently write ደ for ይ (prefix of imperfect/ይቤ); 169R/170R use ይ. Also እ for አ/ዐ throughout (እግዚእብሔር, እነ, እምላክ, እርእያ). These are read as spelling variants, not emended silently.",
+        "Speaker tracking: 169R first-person plural ('we') likely apostolic/ecclesial voice, then God to Moses; 169V–170R Moses first-person; 170V–171R third-person exposition on Ezra, Zechariah, apostles, martyrs."
+      ],
+      "after": [
+        "Four internal joins and two external boundaries were inspected; no independently established missing text or missing page.",
+        "169r/169v grammar and the 170v/171r split word remain unresolved.",
+        "169v/170r conjunction and 170r/170v from within expression are handled once across each break.",
+        "Source transcription spellings remain unchanged. Proposed interpretations, including Father and the bride construction, remain marked as uncertain.",
+        "171r ends with an open list; external 171v context is not included as a sixth translated side."
+      ],
+      "reason": "Remove unsupported boundary-word certainty and lost-text speculation from current metadata."
+    }
+  ]
+}

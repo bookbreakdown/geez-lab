@@ -1,0 +1,428 @@
+{
+  "sides": [
+    {
+      "side": "169R",
+      "blocks": [
+        {
+          "lines": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "english": "…our word. Concerning this we ask on their behalf of him who sent me, that we may [understand?; verb uncertain] and teach them the tidings of the holy gospel.",
+          "uncertainties": [
+            "ቀለነ: taken as ቃልነ 'our word'; vowel uncertain",
+            "ን|ስእል split over lines 1–2",
+            "ንለብክ: unfamiliar form; perhaps ንለቡ 'we understand'; tentative",
+            "ዜና ወንጊል: ወንጊል taken as ወንጌል 'gospel'"
+          ]
+        },
+        {
+          "lines": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "english": "And my Lord said to us: ‘He who heard you, he who received you, has received [verb form uncertain] him who sent me, [my Father?; source form uncertain]; for [my Father?] and I are one. And those who heard you heard me [unresolved expression concerning the congregation of] the holy church.’",
+          "uncertainties": [
+            "እግ|ዚእየኒ split lines 4–5",
+            "ተወክሮ: unexpected form; context suggests ተወክፈ 'received'",
+            "እሉየ (twice): unresolved; could be 'these (are) mine' or a corruption of ኪያየ 'me'",
+            "ዓኀበራ (line 10): unresolved; possibly 'together with/for' (ኅብረ?) — left as gap",
+            "ወለ ስምዑ: read as ወእለ ሰምዑ 'and those who hear'"
+          ]
+        },
+        {
+          "lines": [
+            11,
+            12,
+            13
+          ],
+          "english": "We stand for them in the heavens, as concerning this our word which they heard.",
+          "uncertainties": [
+            "ይእ|ቲ split lines 12–13",
+            "ቀለነ again taken as ቃልነ"
+          ]
+        },
+        {
+          "lines": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "english": "They kept [it] and made [unresolved expression], without abandoning the canon of the holy church; we stand for them in the heavens.",
+          "uncertainties": [
+            "ጥቁሙ: unclear; perhaps ጥዩቀ 'exactly' or ጥቀ 'very'; tentative",
+            "ቀናና: taken as ቀኖና 'canon'",
+            "ኢይ|ኃድጉ split lines 14–15"
+          ]
+        },
+        {
+          "lines": [
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "english": "For we are stewards of God's ordinance; they [will become / are to become?] children of God. We ordained by our word that we ourselves might entrust them to our God.",
+          "uncertainties": [
+            "መ|ጋብያነ split lines 17–18; መጋብያን 'stewards/gatherers'",
+            "ሠራዓነ: taken as 1pl 'we ordained'; could be 'our ordinance'",
+            "ንተመሐፀ|ኖሙ split lines 21–22, read ንትማኅፀኖሙ",
+            "እምላክነ: taken as አምላክነ 'our God'"
+          ]
+        },
+        {
+          "lines": [
+            22,
+            23,
+            24
+          ],
+          "english": "God said to Moses: ‘I entrust them [recipient/name unclear], Levi [relationship to the preceding name and following clause unresolved] …’",
+          "uncertainties": [
+            "ይቤ|ሉ split lines 22–23",
+            "ለያቁቆ: unresolved; perhaps ለያዕቆብ 'to Jacob' or a damaged form",
+            "ሌዊ: 'Levi' or beginning of 'Levites'; side ends mid-clause"
+          ]
+        }
+      ],
+      "boundary_notes": [
+        "Begins with our word, completing prior context; preceding predicate remains uncertain.",
+        "Moses/Levi wording continues into tabernacle equipment on 169v; exact recipient and grammar remain unresolved. No missing page is established."
+      ]
+    },
+    {
+      "side": "169V",
+      "blocks": [
+        {
+          "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "english": "…the [vessels/equipment?] of the [unresolved expression] tabernacle, so that they may [anoint/keep them?] and [unresolved action], and make and carry out the work of the tabernacle, and honour all the [vessels/equipment?] of the work of the holy tabernacle [unresolved expression]. They shall not [remove anything?] or turn aside from what is commanded in the law which God ordained for the tabernacle of righteousness in the heavens.",
+          "uncertainties": [
+            "Throughout this side ደ appears where ይ expected (ደቀቡ=ይዕቀቡ, ደግበራ=ይግበሩ, ደጸውም=ይጸውም, ደቤ=ይቤ)",
+            "ንቀየ (twice): tentatively ንዋየ 'vessels'; unverified",
+            "ትእቢት: 'pride' makes no sense here; perhaps ትእዛዝ 'command'; left unresolved",
+            "ደግለሠኢ: unresolved gap",
+            "እ?ዝት: damaged; unresolved",
+            "ኢያስስሉ: perhaps ኢያእትቱ/ኢያስስሉ 'not remove'; tentative",
+            "ግ|በራሃ split 4–5; ለደብተ|ራ split 3–4 and 8–9; ዘሠ|ርዐ split 7–8"
+          ]
+        },
+        {
+          "lines": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "english": "Moreover, he showed Moses the work of the tabernacle [without washing away/diminishing anything?; exact verb and subject uncertain] from what he showed Moses on Mount Sinai, where he spoke with him in a pillar of cloud, so that he fasted forty days and forty nights to speak with God. Moses himself said:",
+          "uncertainties": [
+            "ኢየሐፅ|ቡ split 11–12; read ኢየሐጽጹ? 'they not diminish'; number uncertain",
+            "በእምደ: taken as በዐምደ 'in a pillar of'",
+            "ደጸው|ም split 14–15",
+            "ለሌሁ: taken as ለሊሁ 'himself'"
+          ]
+        },
+        {
+          "lines": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "english": "‘Trembling and terrified [was] I. For forty days and forty nights I [did not eat?; the negative reading is uncertain] bread, and I did not drink water, while I thirsted for God's judgment—how I should act as he commanded me in the holy tabernacle which he founded earlier. And …’",
+          "uncertainties": [
+            "እበ|ለዕኩ split 19–20: literally 'I ate'; negation absent though parallel ኢስተየኩ is negated; possibly ኢበልዕኩ intended — not supplied",
+            "እነ: taken as አነ 'I'",
+            "ሣረራ: 'he founded it (f.)'"
+          ]
+        }
+      ],
+      "boundary_notes": [
+        "Opens within an unresolved entrusting/equipment clause from 169r.",
+        "Ends with and; 170r continues moreover, with an unresolved movement expression."
+      ]
+    },
+    {
+      "side": "170R",
+      "blocks": [
+        {
+          "lines": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "english": "…moreover, [movement concerning Mount Sinai unresolved], for him, so that he might show me [the work?] and the working of its law for the holy tabernacle.",
+          "uncertainties": [
+            "ዓውደ ሎቱ: verb unclear; perhaps ዖደ 'went around' or ዐርገ 'went up'; tentative",
+            "ግብ|ፉ split 2–3: ፉ unexpected; likely ግብራ 'work'",
+            "Speaker: continuation of Moses' first-person speech from 169V"
+          ]
+        },
+        {
+          "lines": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "english": "And again, that I may offer to him a sacrifice of righteousness to God, which is freewill and salvation; and with sacrifice which is for sin, and the perpetual sacrifice of salvation, and the sacrifice of praise, and the sacrifice which is according to its law for the year, in the holy church.",
+          "uncertainties": [
+            "እሡዕ: 'I offer/sacrifice'",
+            "መ|ድኀኒት split 6–7; መሠዋዕ|ት split 8–9; መሠዋ|ዕት split 10–11",
+            "ቤት ክርስቲያን: 'church' (house of Christians)"
+          ]
+        },
+        {
+          "lines": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "english": "This my Lord commanded me: that I should [make well/put in order?] the work of the holy tabernacle, its pattern [for the holy one?], concerning that which is to be made in the last days, which is [the bride of their souls—for Christians?; construction uncertain], whom he redeemed with the blood of the Messiah.",
+          "uncertainties": [
+            "ከ|መ split 13–14",
+            "እሠኒ: perhaps አሠኒ 'make well'; tentative",
+            "እርእያሃ: 'he showed her' or 'its pattern'; latter preferred, ambiguity preserved",
+            "ተትግበር: 'is to be made' (fem.)",
+            "ነፍሶሙ: 'their soul' with plural referent; rendered 'soul of Christians'"
+          ]
+        },
+        {
+          "lines": [
+            20,
+            21,
+            22,
+            23
+          ],
+          "english": "Again Moses said: ‘I saw a [bush?; object word unresolved] of fire burning, and I approached to investigate its [awe/terror?], and a voice came out from within …’",
+          "uncertainties": [
+            "ጣጠስ: unfamiliar; context suggests a bush/thornbush; tentative only",
+            "ግ|ርማሁ split 22–23",
+            "እምው|ስት split across sides 170R 23 – 170V 1",
+            "ወወጽእ: taken as ወወጽአ 'and came out'"
+          ]
+        }
+      ],
+      "boundary_notes": [
+        "Continues the prior conjunction and Sinai/tabernacle speech; movement and speaker assignment partly unresolved.",
+        "Final from within expression continues onto 170v; read once across the break."
+      ]
+    },
+    {
+      "side": "170V",
+      "blocks": [
+        {
+          "lines": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "english": "…that fire, and said [to you?; addressee uncertain]: ‘Take off your sandals from your feet, for the ground where you stand is holy; it is the church.’",
+          "uncertainties": [
+            "ውስት: completes እምውስት from 170R 23",
+            "እስት: read እሳት 'fire'",
+            "ወደቢለኪ: read ወይቤለኒ 'and he said to me'",
+            "ክለዕ: read ክላዕ/ክልዕ 'take off'",
+            "እምእግሪክ: read እምእገሪከ 'from your feet'",
+            "ቅድስት ይእቲ ቤት ክርስቲያን: order ambiguous: 'holy is it, [namely] the church'"
+          ]
+        },
+        {
+          "lines": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "english": "When they say, ‘Take off your sandals from your feet’—Ezra also saw her in the likeness of a grieving, sorrowful woman, weeping for her children. When he saw her, she was not a woman but a spiritual city, holy Zion; her lamps and her [unresolved object], [a further connection unclear], olive branches on her right and on her left.",
+          "uncertainties": [
+            "ስበ/ሱበ: read ሶበ 'when'",
+            "እሠ|ዕኒ? split 5–6, with damaged character",
+            "እምግሪክ: as line 2, 'from your feet'",
+            "ርእያ: 'he saw her' (fem. object)",
+            "ዓ|ዝንት split 7–8; ተበ|ኪ split 8–9; ሀገ|ር split 10–11",
+            "እለ (line 10): read አላ 'but'",
+            "መስውሪሃ: unresolved; perhaps 'her hiding-place/shelter'",
+            "ዘእ|ቢ split 12–13: unresolved; perhaps ዘቦ 'which has'",
+            "እዕፁቀ ዘይት: 'branches of olive'"
+          ]
+        },
+        {
+          "lines": [
+            14,
+            15,
+            16
+          ],
+          "english": "And Zechariah also saw a lampstand, the whole of it of gold.",
+          "uncertainties": [
+            "ኵ|ለንታሃ split 15–16",
+            "ተቀዋመ ማኅቶት: 'stand of lamp' = lampstand"
+          ]
+        },
+        {
+          "lines": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "english": "And that also—the whole of it—[unresolved phrase: its appearance / her bridegroom?] is the lampstand which was spoken of. And her golden pillars [unresolved term] are [called?] the apostles, whose right hands are like a firm pillar in all [unresolved expression], before kings and rulers and among all [unresolved word continuing onto 171r] …",
+          "uncertainties": [
+            "ውእቱኪ: perhaps ውእቱኒ 'that also'",
+            "መርእዊሃ: tentatively መርአዩሃ 'its appearance'",
+            "ጸዕልት: unresolved; perhaps a quality of gold ('pure'?)",
+            "ዘደቢሉ: read ዘይብሉ 'which they say'",
+            "እመን|ቱ split 20–21: either እሙንቱ 'they' or እመ 'if' + ... ; ambiguous",
+            "እ|ምድ split 21–22, read ዐምድ 'pillar'",
+            "ዘእሠ|መርዎሙ split 22–23: unresolved; 'that which pleased them' or 'that they were appointed to'",
+            "እደሁ|ይ split across sides 170V 24 – 171R 1, read አይሁድ 'Jews'; alternatively እደ 'hands of'—both kept"
+          ]
+        }
+      ],
+      "boundary_notes": [
+        "Begins by completing the from within expression before the fire reference. The addressee of said is uncertain.",
+        "Ends within an unparsed word before rebellious peoples; Jews and hands of the Jews are not established."
+      ]
+    },
+    {
+      "side": "171R",
+      "blocks": [
+        {
+          "lines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "english": "…[continuation of an unresolved word] and rebellious peoples, who [did not make them stand?; construction uncertain] in the tribunal, to beat and condemn them and lower their right hands from what they had raised. [He/it] did not yield; they did not say ‘yes’ at those people's command, and they did not lower their right hands from what they had raised—",
+          "uncertainties": [
+            "ይ: completes 170V እደሁ-",
+            "ኢቀውምዎሙ: ኢ could be negation 'did not stand them' or orthographic for አ 'made them stand'; both preserved",
+            "ይዝብጠሙ: read ይዝብጥዎሙ 'beat them'",
+            "ይኩኑንዎ|ሙ split 3–4, read ይኰንንዎሙ 'judge them'",
+            "ኢይየውሕ: tentative 'not soft/yield'",
+            "እሁ (3×): perhaps እወ 'yes' or እሆ; tentative",
+            "ዚእ|ሆሙ split 6–7: 'their own'; object 'masters' supplied"
+          ]
+        },
+        {
+          "lines": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "english": "those who made themselves, they themselves, like a firm pillar, and did not say ‘yes,’ neither under beating nor under [an unresolved instrument or punishment] nor under scourging, the sword, or stoning with stones.",
+          "uncertainties": [
+            "ዓ|ምድ split 9–10",
+            "ኢሰዝብጠቱ: read ኢበዝብጠት 'not by beating'; form corrupt",
+            "ምስርት: read ሞሰርት 'saw'"
+          ]
+        },
+        {
+          "lines": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "english": "Whatever happened, [he/one?] did not lower their hands from what they had raised before—their right hands—for God's sake. Those, however, who made their right hands like a firm pillar raised them exceedingly.",
+          "uncertainties": [
+            "ዘኮ|ነ split 13–14",
+            "ኢያውርድ: singular 'he/one did not bring down' with plural hands; subject ambiguous",
+            "እደዊሆ|ሙ split 14–15",
+            "ዓም|ድ split 17–18",
+            "እልዓሉ: 'they raised' or 'was raised'; ambiguous"
+          ]
+        },
+        {
+          "lines": [
+            19,
+            20,
+            21,
+            22,
+            23
+          ],
+          "english": "Likewise, following [his/its example?], the martyrs act until they give up their lives. [They abandoned?] the world and all that is in it: the light of the world, the sun, and gold …",
+          "uncertainties": [
+            "እርእያሁ: read አርአያሁ 'its pattern/example'",
+            "መ|ጠወ split 20–21, read መጠዉ 'gave up'",
+            "ኀደጎሙ ዓለሙ: subject/object ambiguous; both readings given",
+            "ብር|ሃነ split 22–23",
+            "Text ends mid-list"
+          ]
+        }
+      ],
+      "boundary_notes": [
+        "Opening fragment completes an unresolved word from 170v; the first tribunal construction and negation remain uncertain.",
+        "Ends within a renunciation list; 171v continues with relatives, wife, children and worldly pleasures."
+      ]
+    }
+  ],
+  "cross_side_issues": [
+    "Four internal joins and two external boundaries were inspected; no independently established missing text or missing page.",
+    "169r/169v grammar and the 170v/171r split word remain unresolved.",
+    "169v/170r conjunction and 170r/170v from within expression are handled once across each break.",
+    "Source transcription spellings remain unchanged. Proposed interpretations, including Father and the bride construction, remain marked as uncertain.",
+    "171r ends with an open list; external 171v context is not included as a sixth translated side."
+  ]
+}

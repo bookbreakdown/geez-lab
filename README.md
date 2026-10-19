@@ -46,6 +46,11 @@ Images are fetched from the library; they are not bundled in this repository.
 The [current status](docs/STATUS.md) distinguishes reported checks, unresolved
 readings, and hypotheses. Character error rate on this manuscript is unmeasured.
 
+An [October 19 machine first-pass batch](experiments/2026-10-19-machine-first-pass/REPORT.md)
+provides [provisional English for five consecutive sides, 169r–171r](experiments/2026-10-19-machine-first-pass/ENGLISH-FIRST-PASS.md),
+with 118 source lines, image/join notes, recorded machine review, and explicit
+unresolved passages. Expert review and correction-time measurement are pending.
+
 An [October 16 reference-guided translation pilot](experiments/2026-10-16-reference-pilot/REPORT.md)
 tested three procedures against French with reserved passages. It found no
 demonstrated prompt improvement and exposed evaluator/alignment problems;

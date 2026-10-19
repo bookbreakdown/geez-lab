@@ -1,0 +1,22 @@
+[
+  {
+    "label": "translate-five-sides",
+    "status": "complete",
+    "request_sha256": "c692ab3fb34823ee6c7b3197e095c91c6f4830f0a67c8d0d066bd868fd85348d",
+    "reported_usd": 0.7639,
+    "elapsed_seconds": 309.957
+  },
+  {
+    "label": "review-five-sides",
+    "status": "failed",
+    "request_sha256": "8e9a634fb1a6415207cf4956dfa1c3cc8c87c6ff4551f41d848c7186cb046ebc",
+    "reason": "Expecting ',' delimiter: line 1 column 4883 (char 4882)"
+  },
+  {
+    "label": "review-format-recovery",
+    "status": "complete",
+    "request_sha256": "af3e064d371d71cc9cb457d65c04fdc3d0bc7963851fdf03aaf00fe3a1b1a13b",
+    "reported_usd": 0.063432,
+    "elapsed_seconds": 18.591
+  }
+]

@@ -3,6 +3,23 @@
 Prepared October 15, 2026, for [EthiopianCanon.com](https://ethiopiancanon.com).
 **Unreleased; expert review pending.**
 
+## October 19 consecutive machine first pass
+
+[Five consecutive sides, 169r–171r](../experiments/2026-10-19-machine-first-pass/ENGLISH-FIRST-PASS.md)
+now have provisional English in 21 source-linked blocks covering 118 assigned
+manuscript lines. The batch used the existing Ge’ez readings, new English
+inference, source-image checks, and a separately recorded machine review.
+Unrecovered words, difficult clauses, and two unresolved internal joins remain
+visible. Exact work identification is not confirmed. These are five already
+transcribed sides, not additions to the historical corpus count.
+
+The first reviewer output failed parsing; a single schema-enforced recovery was
+used within a three-call cap. Successful calls reported about $0.83 equivalent;
+the failed call's usage is unknown, so no whole-batch cost is established.
+See the [report](../experiments/2026-10-19-machine-first-pass/REPORT.md).
+Expert review remains needed to establish quality, but does not block further
+bounded machine drafting of consecutive material.
+
 ## October 16 translation-method pilot
 
 A [small French-reference pilot](../experiments/2026-10-16-reference-pilot/REPORT.md)

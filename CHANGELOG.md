@@ -6,6 +6,16 @@ are documented separately in [HISTORY.md](docs/HISTORY.md).
 
 ## Unreleased
 
+### Machine first pass, October 19
+
+- Added provisional English for five consecutive sides, 169r–171r: 118 source
+  lines mapped to 21 translation blocks, with explicit gaps and alternatives.
+- Retained exact translator inputs/results, image hashes, six boundary checks,
+  sequential revisions, and separate machine-review dispositions. Preserved
+  the initial review-format failure and one schema-enforced recovery.
+- Added structural checks for frozen inputs, request hashes, line assignment,
+  and logged revisions. No expert accuracy or correction-time result is claimed.
+
 ### Research evaluation, October 16
 
 - Inspected manuscript images and aligned 71 main-text lines across 41v, 153r,

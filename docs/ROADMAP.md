@@ -9,14 +9,21 @@ A project of [EthiopianCanon.com](https://ethiopiancanon.com).
 - Publish the repository and a dated research-preview release when ready.
 - Link the release from EthiopianCanon.com and cite the exact released commit.
 
-## Next milestone: complete English for independent review
+## Machine first pass and independent review
 
-The priority is a small packet of **several complete manuscript sides**, with
-all recoverable clauses translated, gaps visible, and consequential uncertainties
-linked to image locations. Start with a three-side Grébaut-aligned packet; expand
-to the missing books after review. Freeze the chosen sides before generating new
-outputs and record any prior exposure. The previously reserved excerpts are now
-consumed and cannot serve as fresh held-out evidence.
+The first continuous machine packet is prepared: [169r–171r, five sides and
+118 assigned source lines](../experiments/2026-10-19-machine-first-pass/REPORT.md).
+English includes explicit gaps, source references, image/join notes, and recorded
+machine-review dispositions. Expert correction and timing are outstanding; their
+availability does not block continued provisional drafting.
+
+Next machine work should continue adjoining material in small consecutive batches,
+using this packet format and a growing terminology/open-reading register. Keep
+independent expert review in parallel when a reader becomes available. The separate
+three-side Grébaut-aligned comparison remains a method-evaluation task, not a
+prerequisite for every production draft. Freeze source inputs before generation
+and retain prior-exposure records. Previously reserved excerpts are consumed and
+cannot serve as fresh held-out evidence.
 
 The [first Grébaut pilot](../experiments/2026-10-16-reference-pilot/REPORT.md)
 is complete. It did not establish an improved procedure. Continue with the simple

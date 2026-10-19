@@ -1,0 +1,21 @@
+{
+  "project_home": "https://ethiopiancanon.com",
+  "attempted_calls": 3,
+  "usable_calls": 2,
+  "failed_calls": 1,
+  "known_successful_reported_usd": 0.827332,
+  "failed_call_reported_usd": null,
+  "all_attempts_total_reported_usd": null,
+  "successful_call_seconds": 328.548,
+  "all_attempts_total_seconds": null,
+  "actual_subscription_charge_known": false,
+  "models": {
+    "translate-five-sides": [
+      "claude-fable-5-1"
+    ],
+    "review-format-recovery": [
+      "claude-sonnet-5-5"
+    ]
+  },
+  "note": "Original review output was not retained before its JSON parse failure. Cost and duration for that failed attempt are unknown. No numeric whole-batch total can be claimed."
+}
